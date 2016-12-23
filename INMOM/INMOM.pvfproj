@@ -1,0 +1,339 @@
+<?xml version="1.0"?>
+<!--PGI Visual Fortran Project File-->
+<PGIproject Version="2.0">
+	<General ProjectIdGuid="{4FF2DEA3-86C2-4F36-99CB-29B293B53B0F}"/>
+	<Configurations>
+		<Config Name="Debug|Win32" OutDir="$(ConfigurationName)" IntDir="$(ConfigurationName)\OBJ" CfgTyp="0" DbgEnvMerge="0" DbgMPI="0" DbgWorkDir="D:\Work\OceanModelling\OGCM1X05_SP\EXP" IncDirs="../Inc" DbgFmt="0" Optzn="0" WarnLvl="0" KeepASM="0" AnnoASM="0" InfoAccel="0" InfoCCFF="0" InfoFtn="0" InfoInline="0" InfoIPA="0" InfoIntensity="0" InfoLoop="0" InfoLRE="0" InfoMP="0" InfoOpt="0" InfoPar="0" InfoUnified="0" InfoVect="0" LinkOutput="$(OutDir)\$(ProjectName).exe" LibDirs="../Lib" LibDeps="Sparskitlibdeb.lib SuperLU3.0rel.lib"/>
+		<Config Name="Release|Win32" OutDir="$(ConfigurationName)" IntDir="$(ConfigurationName)\OBJ" CfgTyp="0" DbgEnvMerge="0" DbgMPI="0" DbgWorkDir="D:\Work\OceanModelling\OGCM1X05_SP\EXP" IncDirs="../Inc" KeepASM="0" AnnoASM="0" InfoAccel="0" InfoCCFF="0" InfoFtn="0" InfoInline="0" InfoIPA="0" InfoIntensity="0" InfoLoop="0" InfoLRE="0" InfoMP="0" InfoOpt="0" InfoPar="0" InfoUnified="0" InfoVect="0" LinkOutput="$(OutDir)\$(ProjectName).exe" LibDirs="../Lib" LibDeps="Sparskitlibrel.lib SuperLU3.0rel.lib"/>
+	</Configurations>
+	<Files>
+		<Folder Name="Include Files">
+			<File Name="..\Inc\0A2OINTRP.INC" ProjRelPath="T" IsFixedFormat="F" IsIncludeFile="T">
+				<Config Name="Debug|Win32"/>
+				<Config Name="Release|Win32"/>
+			</File>
+			<File Name="..\Inc\0ADEXPIMP.INC" ProjRelPath="T" IsFixedFormat="F" IsIncludeFile="T">
+				<Config Name="Debug|Win32"/>
+				<Config Name="Release|Win32"/>
+			</File>
+			<File Name="..\Inc\0BOTTFR.INC" ProjRelPath="T" IsFixedFormat="F" IsIncludeFile="T">
+				<Config Name="Debug|Win32"/>
+				<Config Name="Release|Win32"/>
+			</File>
+			<File Name="..\Inc\0CEAN.INC" ProjRelPath="T" IsFixedFormat="F" IsIncludeFile="T">
+				<Config Name="Debug|Win32"/>
+				<Config Name="Release|Win32"/>
+			</File>
+			<File Name="..\Inc\0COM.INC" ProjRelPath="T" IsFixedFormat="F" IsIncludeFile="T">
+				<Config Name="Debug|Win32"/>
+				<Config Name="Release|Win32"/>
+			</File>
+			<File Name="..\Inc\0CRDFNC.INC" ProjRelPath="T" IsFixedFormat="F" IsIncludeFile="T">
+				<Config Name="Debug|Win32"/>
+				<Config Name="Release|Win32"/>
+			</File>
+			<File Name="..\Inc\0DENP.INC" ProjRelPath="T" IsFixedFormat="F" IsIncludeFile="T">
+				<Config Name="Debug|Win32"/>
+				<Config Name="Release|Win32"/>
+			</File>
+			<File Name="..\Inc\0FUNCDEF.INC" ProjRelPath="T" IsFixedFormat="F" IsIncludeFile="T">
+				<Config Name="Debug|Win32"/>
+				<Config Name="Release|Win32"/>
+			</File>
+			<File Name="..\Inc\0ICEPAR.INC" ProjRelPath="T" IsFixedFormat="F" IsIncludeFile="T">
+				<Config Name="Debug|Win32"/>
+				<Config Name="Release|Win32"/>
+			</File>
+			<File Name="..\Inc\0SWEXPIMP.INC" ProjRelPath="T" IsFixedFormat="F" IsIncludeFile="T">
+				<Config Name="Debug|Win32"/>
+				<Config Name="Release|Win32"/>
+			</File>
+			<File Name="..\Inc\0TF.INC" ProjRelPath="T" IsFixedFormat="F" IsIncludeFile="T">
+				<Config Name="Debug|Win32"/>
+				<Config Name="Release|Win32"/>
+			</File>
+			<File Name="..\Inc\0TRSIM.INC" ProjRelPath="T" IsFixedFormat="F" IsIncludeFile="T">
+				<Config Name="Debug|Win32"/>
+				<Config Name="Release|Win32"/>
+			</File>
+			<File Name="..\Inc\0TRSIV.INC" ProjRelPath="T" IsFixedFormat="F" IsIncludeFile="T">
+				<Config Name="Debug|Win32"/>
+				<Config Name="Release|Win32"/>
+			</File>
+			<File Name="..\Inc\0TRTSS.INC" ProjRelPath="T" IsFixedFormat="F" IsIncludeFile="T">
+				<Config Name="Debug|Win32"/>
+				<Config Name="Release|Win32"/>
+			</File>
+			<File Name="..\Inc\0TRUVS.INC" ProjRelPath="T" IsFixedFormat="F" IsIncludeFile="T">
+				<Config Name="Debug|Win32"/>
+				<Config Name="Release|Win32"/>
+			</File>
+			<File Name="..\Inc\0VGRID.INC" ProjRelPath="T" IsFixedFormat="F" IsIncludeFile="T">
+				<Config Name="Debug|Win32"/>
+				<Config Name="Release|Win32"/>
+			</File>
+			<File Name="..\Inc\1ATMFORCING.INC" ProjRelPath="T" IsFixedFormat="F" IsIncludeFile="T">
+				<Config Name="Debug|Win32"/>
+				<Config Name="Release|Win32"/>
+			</File>
+			<File Name="..\Inc\1ATMGRID.INC" ProjRelPath="T" IsFixedFormat="F" IsIncludeFile="T">
+				<Config Name="Debug|Win32"/>
+				<Config Name="Release|Win32"/>
+			</File>
+			<File Name="..\Inc\1BASINPAR.INC" ProjRelPath="T" IsFixedFormat="F" IsIncludeFile="T">
+				<Config Name="Debug|Win32"/>
+				<Config Name="Release|Win32"/>
+			</File>
+			<File Name="..\Inc\1BASPAR.INC" ProjRelPath="T" IsFixedFormat="F" IsIncludeFile="T">
+				<Config Name="Debug|Win32"/>
+				<Config Name="Release|Win32"/>
+			</File>
+			<File Name="..\Inc\1BASTYPE.INC" ProjRelPath="T" IsFixedFormat="F" IsIncludeFile="T">
+				<Config Name="Debug|Win32"/>
+				<Config Name="Release|Win32"/>
+			</File>
+			<File Name="..\Inc\1DAYDIST.INC" ProjRelPath="T" IsFixedFormat="F" IsIncludeFile="T">
+				<Config Name="Debug|Win32"/>
+				<Config Name="Release|Win32"/>
+			</File>
+			<File Name="..\Inc\1LATDIFF.INC" ProjRelPath="T" IsFixedFormat="F" IsIncludeFile="T">
+				<Config Name="Debug|Win32"/>
+				<Config Name="Release|Win32"/>
+			</File>
+			<File Name="..\Inc\1LEVS.INC" ProjRelPath="T" IsFixedFormat="F" IsIncludeFile="T">
+				<Config Name="Debug|Win32"/>
+				<Config Name="Release|Win32"/>
+			</File>
+			<File Name="..\Inc\1LEVS_YZ.INC" ProjRelPath="T" IsFixedFormat="F" IsIncludeFile="T">
+				<Config Name="Debug|Win32"/>
+				<Config Name="Release|Win32"/>
+			</File>
+			<File Name="..\Inc\1LQBC.INC" ProjRelPath="T" IsFixedFormat="F" IsIncludeFile="T">
+				<Config Name="Debug|Win32"/>
+				<Config Name="Release|Win32"/>
+			</File>
+			<File Name="..\Inc\1LREC.INC" ProjRelPath="T" IsFixedFormat="F" IsIncludeFile="T">
+				<Config Name="Debug|Win32"/>
+				<Config Name="Release|Win32"/>
+			</File>
+			<File Name="..\Inc\1MASSTRANS.INC" ProjRelPath="T" IsFixedFormat="F" IsIncludeFile="T">
+				<Config Name="Debug|Win32"/>
+				<Config Name="Release|Win32"/>
+			</File>
+			<File Name="..\Inc\1SEAICE.INC" ProjRelPath="T" IsFixedFormat="F" IsIncludeFile="T">
+				<Config Name="Debug|Win32"/>
+				<Config Name="Release|Win32"/>
+			</File>
+			<File Name="..\Inc\1STDOUT.INC" ProjRelPath="T" IsFixedFormat="F" IsIncludeFile="T">
+				<Config Name="Debug|Win32"/>
+				<Config Name="Release|Win32"/>
+			</File>
+			<File Name="..\Inc\1SWEQPRECOND.INC" ProjRelPath="T" IsFixedFormat="F" IsIncludeFile="T">
+				<Config Name="Debug|Win32"/>
+				<Config Name="Release|Win32"/>
+			</File>
+			<File Name="..\Inc\1TRANTS.INC" ProjRelPath="T" IsFixedFormat="F" IsIncludeFile="T">
+				<Config Name="Debug|Win32"/>
+				<Config Name="Release|Win32"/>
+			</File>
+			<File Name="..\Inc\2ATMTOICE.INC" ProjRelPath="T" IsFixedFormat="F" IsIncludeFile="T">
+				<Config Name="Debug|Win32"/>
+				<Config Name="Release|Win32"/>
+			</File>
+			<File Name="..\Inc\2BASINGRID.INC" ProjRelPath="T" IsFixedFormat="F" IsIncludeFile="T">
+				<Config Name="Debug|Win32"/>
+				<Config Name="Release|Win32"/>
+			</File>
+			<File Name="..\Inc\2DIFFCNTRL.INC" ProjRelPath="T" IsFixedFormat="F" IsIncludeFile="T">
+				<Config Name="Debug|Win32"/>
+				<Config Name="Release|Win32"/>
+			</File>
+			<File Name="..\Inc\2FUNDCONST.INC" ProjRelPath="T" IsFixedFormat="F" IsIncludeFile="T">
+				<Config Name="Debug|Win32"/>
+				<Config Name="Release|Win32"/>
+			</File>
+			<File Name="..\Inc\2HYDRODYN.INC" ProjRelPath="T" IsFixedFormat="F" IsIncludeFile="T">
+				<Config Name="Debug|Win32"/>
+				<Config Name="Release|Win32"/>
+			</File>
+			<File Name="..\Inc\2ICE4FLUX.INC" ProjRelPath="T" IsFixedFormat="F" IsIncludeFile="T">
+				<Config Name="Debug|Win32"/>
+				<Config Name="Release|Win32"/>
+			</File>
+			<File Name="..\Inc\2PASSTRAC.INC" ProjRelPath="T" IsFixedFormat="F" IsIncludeFile="T">
+				<Config Name="Debug|Win32"/>
+				<Config Name="Release|Win32"/>
+			</File>
+			<File Name="..\Inc\2SEASURF.INC" ProjRelPath="T" IsFixedFormat="F" IsIncludeFile="T">
+				<Config Name="Debug|Win32"/>
+				<Config Name="Release|Win32"/>
+			</File>
+			<File Name="..\Inc\2SHALLOWATER.INC" ProjRelPath="T" IsFixedFormat="F" IsIncludeFile="T">
+				<Config Name="Debug|Win32"/>
+				<Config Name="Release|Win32"/>
+			</File>
+			<File Name="..\Inc\2SSBCOND.INC" ProjRelPath="T" IsFixedFormat="F" IsIncludeFile="T">
+				<Config Name="Debug|Win32"/>
+				<Config Name="Release|Win32"/>
+			</File>
+			<File Name="..\Inc\2STDOUT.INC" ProjRelPath="T" IsFixedFormat="F" IsIncludeFile="T">
+				<Config Name="Debug|Win32"/>
+				<Config Name="Release|Win32"/>
+			</File>
+			<File Name="..\Inc\2TASKCNTRL.INC" ProjRelPath="T" IsFixedFormat="F" IsIncludeFile="T">
+				<Config Name="Debug|Win32"/>
+				<Config Name="Release|Win32"/>
+			</File>
+			<File Name="..\Inc\2VISDIFFCOEFF.INC" ProjRelPath="T" IsFixedFormat="F" IsIncludeFile="T">
+				<Config Name="Debug|Win32"/>
+				<Config Name="Release|Win32"/>
+			</File>
+		</Folder>
+		<Folder Name="Resource Files">
+		</Folder>
+		<Folder Name="Source Files">
+			<Folder Name="Control">
+				<File Name="..\Control\ctlwrite.f" ProjRelPath="T" IsFixedFormat="T" IsIncludeFile="F">
+				<Config Name="Debug|Win32"/>
+				<Config Name="Release|Win32"/>
+			</File>
+				<File Name="..\Control\ocforcag.f" ProjRelPath="T" IsFixedFormat="T" IsIncludeFile="F">
+				<Config Name="Debug|Win32"/>
+				<Config Name="Release|Win32"/>
+			</File>
+				<File Name="..\Control\ocforcog.f" ProjRelPath="T" IsFixedFormat="T" IsIncludeFile="F">
+				<Config Name="Debug|Win32"/>
+				<Config Name="Release|Win32"/>
+			</File>
+				<File Name="..\Control\ocini.f" ProjRelPath="T" IsFixedFormat="T" IsIncludeFile="F">
+				<Config Name="Debug|Win32"/>
+				<Config Name="Release|Win32"/>
+			</File>
+				<File Name="..\Control\ocoutput.f" ProjRelPath="T" IsFixedFormat="T" IsIncludeFile="F">
+				<Config Name="Debug|Win32"/>
+				<Config Name="Release|Win32"/>
+			</File>
+				<File Name="..\Control\ocstep.f" ProjRelPath="T" IsFixedFormat="T" IsIncludeFile="F">
+				<Config Name="Debug|Win32"/>
+				<Config Name="Release|Win32"/>
+			</File>
+				<File Name="..\Control\setlqbc.f" ProjRelPath="T" IsFixedFormat="T" IsIncludeFile="F">
+				<Config Name="Debug|Win32"/>
+				<Config Name="Release|Win32"/>
+			</File>
+			</Folder>
+			<Folder Name="Function">
+				<File Name="..\Function\m_adapt.f" ProjRelPath="T" IsFixedFormat="T" IsIncludeFile="F">
+				<Config Name="Debug|Win32"/>
+				<Config Name="Release|Win32"/>
+			</File>
+				<File Name="..\Function\m_bottomfr.f" ProjRelPath="T" IsFixedFormat="T" IsIncludeFile="F">
+				<Config Name="Debug|Win32"/>
+				<Config Name="Release|Win32"/>
+			</File>
+				<File Name="..\Function\m_divi4.f" ProjRelPath="T" IsFixedFormat="T" IsIncludeFile="F">
+				<Config Name="Debug|Win32"/>
+				<Config Name="Release|Win32"/>
+			</File>
+				<File Name="..\Function\m_np_filters.f" ProjRelPath="T" IsFixedFormat="T" IsIncludeFile="F">
+				<Config Name="Debug|Win32"/>
+				<Config Name="Release|Win32"/>
+			</File>
+				<File Name="..\Function\m_seaice.f" ProjRelPath="T" IsFixedFormat="T" IsIncludeFile="F">
+				<Config Name="Debug|Win32"/>
+				<Config Name="Release|Win32"/>
+			</File>
+				<File Name="..\Function\m_sl_no_split.f" ProjRelPath="T" IsFixedFormat="T" IsIncludeFile="F">
+				<Config Name="Debug|Win32"/>
+				<Config Name="Release|Win32"/>
+			</File>
+				<File Name="..\Function\m_sweeps.f" ProjRelPath="T" IsFixedFormat="T" IsIncludeFile="F">
+				<Config Name="Debug|Win32"/>
+				<Config Name="Release|Win32"/>
+			</File>
+				<File Name="..\Function\m_trants.f" ProjRelPath="T" IsFixedFormat="T" IsIncludeFile="F">
+				<Config Name="Debug|Win32"/>
+				<Config Name="Release|Win32"/>
+			</File>
+				<File Name="..\Function\m_tranuv.f" ProjRelPath="T" IsFixedFormat="T" IsIncludeFile="F">
+				<Config Name="Debug|Win32"/>
+				<Config Name="Release|Win32"/>
+			</File>
+				<File Name="..\Function\m_unidif.f" ProjRelPath="T" IsFixedFormat="T" IsIncludeFile="F">
+				<Config Name="Debug|Win32"/>
+				<Config Name="Release|Win32"/>
+			</File>
+				<File Name="..\Function\m_uvwfun.f" ProjRelPath="T" IsFixedFormat="T" IsIncludeFile="F">
+				<Config Name="Debug|Win32"/>
+				<Config Name="Release|Win32"/>
+			</File>
+				<File Name="..\Function\m_vertmo.f" ProjRelPath="T" IsFixedFormat="T" IsIncludeFile="F">
+				<Config Name="Debug|Win32"/>
+				<Config Name="Release|Win32"/>
+			</File>
+			</Folder>
+			<Folder Name="Lib">
+				<File Name="..\Lib\amd.f" ProjRelPath="T" IsFixedFormat="T" IsIncludeFile="F">
+				<Config Name="Debug|Win32"/>
+				<Config Name="Release|Win32"/>
+			</File>
+				<File Name="..\Lib\amdbar.f" ProjRelPath="T" IsFixedFormat="T" IsIncludeFile="F">
+				<Config Name="Debug|Win32"/>
+				<Config Name="Release|Win32"/>
+			</File>
+				<File Name="..\Lib\blas1.f" ProjRelPath="T" IsFixedFormat="T" IsIncludeFile="F">
+				<Config Name="Debug|Win32"/>
+				<Config Name="Release|Win32"/>
+			</File>
+			</Folder>
+			<Folder Name="Service">
+				<File Name="..\Service\basinpar.f" ProjRelPath="T" IsFixedFormat="T" IsIncludeFile="F">
+				<Config Name="Debug|Win32"/>
+				<Config Name="Release|Win32"/>
+			</File>
+				<File Name="..\Service\gridcon.f" ProjRelPath="T" IsFixedFormat="T" IsIncludeFile="F">
+				<Config Name="Debug|Win32"/>
+				<Config Name="Release|Win32"/>
+			</File>
+				<File Name="..\Service\inoutd.f" ProjRelPath="T" IsFixedFormat="T" IsIncludeFile="F">
+				<Config Name="Debug|Win32"/>
+				<Config Name="Release|Win32"/>
+			</File>
+				<File Name="..\Service\ocalg.f" ProjRelPath="T" IsFixedFormat="T" IsIncludeFile="F">
+				<Config Name="Debug|Win32"/>
+				<Config Name="Release|Win32"/>
+			</File>
+				<File Name="..\Service\rw_ctl.f" ProjRelPath="T" IsFixedFormat="T" IsIncludeFile="F">
+				<Config Name="Debug|Win32"/>
+				<Config Name="Release|Win32"/>
+			</File>
+				<File Name="..\Service\rwparam.f" ProjRelPath="T" IsFixedFormat="T" IsIncludeFile="F">
+				<Config Name="Debug|Win32"/>
+				<Config Name="Release|Win32"/>
+			</File>
+				<File Name="..\Service\s_timu.f" ProjRelPath="T" IsFixedFormat="T" IsIncludeFile="F">
+				<Config Name="Debug|Win32"/>
+				<Config Name="Release|Win32"/>
+			</File>
+				<File Name="..\Service\s_treat.f" ProjRelPath="T" IsFixedFormat="T" IsIncludeFile="F">
+				<Config Name="Debug|Win32"/>
+				<Config Name="Release|Win32"/>
+			</File>
+				<File Name="..\Service\sigmaztr.f" ProjRelPath="T" IsFixedFormat="T" IsIncludeFile="F">
+				<Config Name="Debug|Win32"/>
+				<Config Name="Release|Win32"/>
+			</File>
+				<File Name="..\Service\vgrid.f" ProjRelPath="T" IsFixedFormat="T" IsIncludeFile="F">
+				<Config Name="Debug|Win32"/>
+				<Config Name="Release|Win32"/>
+			</File>
+			</Folder>
+			<File Name="..\octask.f" ProjRelPath="T" IsFixedFormat="T" IsIncludeFile="F">
+				<Config Name="Debug|Win32"/>
+				<Config Name="Release|Win32"/>
+			</File>
+		</Folder>
+	</Files>
+	<ProjStartupServices/>
+	<Globals/>
+</PGIproject>

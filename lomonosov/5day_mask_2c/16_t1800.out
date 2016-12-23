@@ -1,0 +1,1463 @@
+
+  START DAY:   1; TIME:  0: 0: 0,28
+[5]PETSC ERROR: --------------------- Error Message --------------------------------------------------------------
+[5]PETSC ERROR: Argument out of range
+[5]PETSC ERROR: Column too large: col 538976288 max 97919
+[5]PETSC ERROR: See http://www.mcs.anl.gov/petsc/documentation/faq.html for trouble shooting.
+[5]PETSC ERROR: Petsc Release Version 3.7.4, unknown 
+[5]PETSC ERROR: [6]PETSC ERROR: --------------------- Error Message --------------------------------------------------------------
+[6]PETSC ERROR: Argument out of range
+[6]PETSC ERROR: Column too large: col 538976288 max 97919
+[6]PETSC ERROR: See http://www.mcs.anl.gov/petsc/documentation/faq.html for trouble shooting.
+[6]PETSC ERROR: Petsc Release Version 3.7.4, unknown 
+[6]PETSC ERROR: ./octask on a arch-linux2-c-debug named node1-128-14 by achaplygin99_607 Tue Nov 22 15:35:27 2016
+[6]PETSC ERROR: Configure options --with-cc=gcc --with-cxx=g++ --with-fc=gfortran --download-fblaslapack --download-mpich
+[6]PETSC ERROR: #1 MatSetValues_MPIAIJ() line 585 in /mnt/data/users/dm4/vol12/achaplygin99_607/petsc/src/mat/impls/aij/mpi/mpiaij.c
+[6]PETSC ERROR: [7]PETSC ERROR: --------------------- Error Message --------------------------------------------------------------
+[7]PETSC ERROR: Argument out of range
+[7]PETSC ERROR: Column too large: col 825307441 max 97919
+[7]PETSC ERROR: See http://www.mcs.anl.gov/petsc/documentation/faq.html for trouble shooting.
+[7]PETSC ERROR: Petsc Release Version 3.7.4, unknown 
+[7]PETSC ERROR: ./octask on a arch-linux2-c-debug named node1-128-14 by achaplygin99_607 Tue Nov 22 15:35:27 2016
+[7]PETSC ERROR: Configure options --with-cc=gcc --with-cxx=g++ --with-fc=gfortran --download-fblaslapack --download-mpich
+[7]PETSC ERROR: #1 MatSetValues_MPIAIJ() line 585 in /mnt/data/users/dm4/vol12/achaplygin99_607/petsc/src/mat/impls/aij/mpi/mpiaij.c
+[7]PETSC ERROR: #2 MatSetValues() line 1190 in /mnt/data/users/dm4/vol12/achaplygin99_607/petsc/src/mat/interface/matrix.c
+[3]PETSC ERROR: --------------------- Error Message --------------------------------------------------------------
+[3]PETSC ERROR: Argument out of range
+[3]PETSC ERROR: Column too large: col 825307441 max 97919
+[3]PETSC ERROR: See http://www.mcs.anl.gov/petsc/documentation/faq.html for trouble shooting.
+[3]PETSC ERROR: Petsc Release Version 3.7.4, unknown 
+[3]PETSC ERROR: ./octask on a arch-linux2-c-debug named node1-128-14 by achaplygin99_607 Tue Nov 22 15:35:27 2016
+[3]PETSC ERROR: Configure options --with-cc=gcc --with-cxx=g++ --with-fc=gfortran --download-fblaslapack --download-mpich
+[3]PETSC ERROR: #1 MatSetValues_MPIAIJ() line 585 in /mnt/data/users/dm4/vol12/achaplygin99_607/petsc/src/mat/impls/aij/mpi/mpiaij.c
+[3]PETSC ERROR: #2 MatSetValues() line 1190 in /mnt/data/users/dm4/vol12/achaplygin99_607/petsc/src/mat/interface/matrix.c
+./octask on a arch-linux2-c-debug named node1-128-14 by achaplygin99_607 Tue Nov 22 15:35:27 2016
+[5]PETSC ERROR: Configure options --with-cc=gcc --with-cxx=g++ --with-fc=gfortran --download-fblaslapack --download-mpich
+[5]PETSC ERROR: #1 MatSetValues_MPIAIJ() line 585 in /mnt/data/users/dm4/vol12/achaplygin99_607/petsc/src/mat/impls/aij/mpi/mpiaij.c
+[5]PETSC ERROR: #2 MatSetValues() line 1190 in /mnt/data/users/dm4/vol12/achaplygin99_607/petsc/src/mat/interface/matrix.c
+#2 MatSetValues() line 1190 in /mnt/data/users/dm4/vol12/achaplygin99_607/petsc/src/mat/interface/matrix.c
+[2]PETSC ERROR: --------------------- Error Message --------------------------------------------------------------
+[2]PETSC ERROR: Argument out of range
+[2]PETSC ERROR: Column too large: col 538976288 max 97919
+[2]PETSC ERROR: See http://www.mcs.anl.gov/petsc/documentation/faq.html for trouble shooting.
+[2]PETSC ERROR: Petsc Release Version 3.7.4, unknown 
+[2]PETSC ERROR: ./octask on a arch-linux2-c-debug named node1-128-14 by achaplygin99_607 Tue Nov 22 15:35:27 2016
+[2]PETSC ERROR: Configure options --with-cc=gcc --with-cxx=g++ --with-fc=gfortran --download-fblaslapack --download-mpich
+[2]PETSC ERROR: #1 MatSetValues_MPIAIJ() line 585 in /mnt/data/users/dm4/vol12/achaplygin99_607/petsc/src/mat/impls/aij/mpi/mpiaij.c
+[2]PETSC ERROR: #2 MatSetValues() line 1190 in /mnt/data/users/dm4/vol12/achaplygin99_607/petsc/src/mat/interface/matrix.c
+[11]PETSC ERROR: --------------------- Error Message --------------------------------------------------------------
+[11]PETSC ERROR: Argument out of range
+[11]PETSC ERROR: Column too large: col 825307441 max 97919
+[11]PETSC ERROR: See http://www.mcs.anl.gov/petsc/documentation/faq.html for trouble shooting.
+[11]PETSC ERROR: Petsc Release Version 3.7.4, unknown 
+[11]PETSC ERROR: ./octask on a arch-linux2-c-debug named node1-128-15 by achaplygin99_607 Tue Nov 22 15:35:27 2016
+[11]PETSC ERROR: Configure options --with-cc=gcc --with-cxx=g++ --with-fc=gfortran --download-fblaslapack --download-mpich
+[11]PETSC ERROR: #1 MatSetValues_MPIAIJ() line 585 in /mnt/data/users/dm4/vol12/achaplygin99_607/petsc/src/mat/impls/aij/mpi/mpiaij.c
+[11]PETSC ERROR: #2 MatSetValues() line 1190 in /mnt/data/users/dm4/vol12/achaplygin99_607/petsc/src/mat/interface/matrix.c
+[10]PETSC ERROR: --------------------- Error Message --------------------------------------------------------------
+[10]PETSC ERROR: Argument out of range
+[10]PETSC ERROR: Column too large: col 538976288 max 97919
+[10]PETSC ERROR: See http://www.mcs.anl.gov/petsc/documentation/faq.html for trouble shooting.
+[10]PETSC ERROR: Petsc Release Version 3.7.4, unknown 
+[10]PETSC ERROR: ./octask on a arch-linux2-c-debug named node1-128-15 by achaplygin99_607 Tue Nov 22 15:35:27 2016
+[10]PETSC ERROR: Configure options --with-cc=gcc --with-cxx=g++ --with-fc=gfortran --download-fblaslapack --download-mpich
+[10]PETSC ERROR: #1 MatSetValues_MPIAIJ() line 585 in /mnt/data/users/dm4/vol12/achaplygin99_607/petsc/src/mat/impls/aij/mpi/mpiaij.c
+[10]PETSC ERROR: #2 MatSetValues() line 1190 in /mnt/data/users/dm4/vol12/achaplygin99_607/petsc/src/mat/interface/matrix.c
+[5]PETSC ERROR: --------------------- Error Message --------------------------------------------------------------
+[5]PETSC ERROR: Argument out of range
+[5]PETSC ERROR: Column too large: col 538976288 max 97919
+[5]PETSC ERROR: See http://www.mcs.anl.gov/petsc/documentation/faq.html for trouble shooting.
+[5]PETSC ERROR: Petsc Release Version 3.7.4, unknown 
+[5]PETSC ERROR: ./octask on a arch-linux2-c-debug named node1-128-14 by achaplygin99_607 Tue Nov 22 15:35:27 2016
+[5]PETSC ERROR: Configure options --with-cc=gcc --with-cxx=g++ --with-fc=gfortran --download-fblaslapack --download-mpich
+[5]PETSC ERROR: #3 MatSetValues_MPIAIJ() line 585 in /mnt/data/users/dm4/vol12/achaplygin99_607/petsc/src/mat/impls/aij/mpi/mpiaij.c
+[5]PETSC ERROR: #4 MatSetValues() line 1190 in /mnt/data/users/dm4/vol12/achaplygin99_607/petsc/src/mat/interface/matrix.c
+[4]PETSC ERROR: --------------------- Error Message --------------------------------------------------------------
+[4]PETSC ERROR: Argument out of range
+[4]PETSC ERROR: Column too large: col 538976288 max 97919
+[4]PETSC ERROR: See http://www.mcs.anl.gov/petsc/documentation/faq.html for trouble shooting.
+[4]PETSC ERROR: Petsc Release Version 3.7.4, unknown 
+[4]PETSC ERROR: ./octask on a arch-linux2-c-debug named node1-128-14 by achaplygin99_607 Tue Nov 22 15:35:27 2016
+[4]PETSC ERROR: Configure options --with-cc=gcc --with-cxx=g++ --with-fc=gfortran --download-fblaslapack --download-mpich
+[4]PETSC ERROR: #1 MatSetValues_MPIAIJ() line 585 in /mnt/data/users/dm4/vol12/achaplygin99_607/petsc/src/mat/impls/aij/mpi/mpiaij.c
+[4]PETSC ERROR: #2 MatSetValues() line 1190 in /mnt/data/users/dm4/vol12/achaplygin99_607/petsc/src/mat/interface/matrix.c
+[6]PETSC ERROR: --------------------- Error Message --------------------------------------------------------------
+[6]PETSC ERROR: Argument out of range
+[6]PETSC ERROR: Column too large: col 538976288 max 97919
+[6]PETSC ERROR: See http://www.mcs.anl.gov/petsc/documentation/faq.html for trouble shooting.
+[6]PETSC ERROR: Petsc Release Version 3.7.4, unknown 
+[6]PETSC ERROR: ./octask on a arch-linux2-c-debug named node1-128-14 by achaplygin99_607 Tue Nov 22 15:35:27 2016
+[6]PETSC ERROR: Configure options --with-cc=gcc --with-cxx=g++ --with-fc=gfortran --download-fblaslapack --download-mpich
+[6]PETSC ERROR: #3 MatSetValues_MPIAIJ() line 585 in /mnt/data/users/dm4/vol12/achaplygin99_607/petsc/src/mat/impls/aij/mpi/mpiaij.c
+[6]PETSC ERROR: #4 MatSetValues() line 1190 in /mnt/data/users/dm4/vol12/achaplygin99_607/petsc/src/mat/interface/matrix.c
+[12]PETSC ERROR: --------------------- Error Message --------------------------------------------------------------
+[12]PETSC ERROR: Argument out of range
+[12]PETSC ERROR: Column too large: col 538976288 max 97919
+[12]PETSC ERROR: See http://www.mcs.anl.gov/petsc/documentation/faq.html for trouble shooting.
+[12]PETSC ERROR: Petsc Release Version 3.7.4, unknown 
+[12]PETSC ERROR: ./octask on a arch-linux2-c-debug named node1-128-15 by achaplygin99_607 Tue Nov 22 15:35:27 2016
+[12]PETSC ERROR: Configure options --with-cc=gcc --with-cxx=g++ --with-fc=gfortran --download-fblaslapack --download-mpich
+[12]PETSC ERROR: #1 MatSetValues_MPIAIJ() line 585 in /mnt/data/users/dm4/vol12/achaplygin99_607/petsc/src/mat/impls/aij/mpi/mpiaij.c
+[12]PETSC ERROR: #2 MatSetValues() line 1190 in /mnt/data/users/dm4/vol12/achaplygin99_607/petsc/src/mat/interface/matrix.c
+[14]PETSC ERROR: --------------------- Error Message --------------------------------------------------------------
+[14]PETSC ERROR: Argument out of range
+[14]PETSC ERROR: Column too large: col 538976288 max 97919
+[14]PETSC ERROR: See http://www.mcs.anl.gov/petsc/documentation/faq.html for trouble shooting.
+[14]PETSC ERROR: Petsc Release Version 3.7.4, unknown 
+[14]PETSC ERROR: ./octask on a arch-linux2-c-debug named node1-128-15 by achaplygin99_607 Tue Nov 22 15:35:27 2016
+[14]PETSC ERROR: Configure options --with-cc=gcc --with-cxx=g++ --with-fc=gfortran --download-fblaslapack --download-mpich
+[14]PETSC ERROR: #1 MatSetValues_MPIAIJ() line 585 in /mnt/data/users/dm4/vol12/achaplygin99_607/petsc/src/mat/impls/aij/mpi/mpiaij.c
+[14]PETSC ERROR: #2 MatSetValues() line 1190 in /mnt/data/users/dm4/vol12/achaplygin99_607/petsc/src/mat/interface/matrix.c
+[10]PETSC ERROR: --------------------- Error Message --------------------------------------------------------------
+[10]PETSC ERROR: Argument out of range
+[10]PETSC ERROR: Column too large: col 538976288 max 97919
+[10]PETSC ERROR: See http://www.mcs.anl.gov/petsc/documentation/faq.html for trouble shooting.
+[10]PETSC ERROR: Petsc Release Version 3.7.4, unknown 
+[10]PETSC ERROR: ./octask on a arch-linux2-c-debug named node1-128-15 by achaplygin99_607 Tue Nov 22 15:35:27 2016
+[10]PETSC ERROR: Configure options --with-cc=gcc --with-cxx=g++ --with-fc=gfortran --download-fblaslapack --download-mpich
+[10]PETSC ERROR: #3 MatSetValues_MPIAIJ() line 585 in /mnt/data/users/dm4/vol12/achaplygin99_607/petsc/src/mat/impls/aij/mpi/mpiaij.c
+[10]PETSC ERROR: #4 MatSetValues() line 1190 in /mnt/data/users/dm4/vol12/achaplygin99_607/petsc/src/mat/interface/matrix.c
+[13]PETSC ERROR: --------------------- Error Message --------------------------------------------------------------
+[13]PETSC ERROR: Argument out of range
+[13]PETSC ERROR: Column too large: col 538976288 max 97919
+[13]PETSC ERROR: See http://www.mcs.anl.gov/petsc/documentation/faq.html for trouble shooting.
+[13]PETSC ERROR: Petsc Release Version 3.7.4, unknown 
+[13]PETSC ERROR: ./octask on a arch-linux2-c-debug named node1-128-15 by achaplygin99_607 Tue Nov 22 15:35:27 2016
+[13]PETSC ERROR: Configure options --with-cc=gcc --with-cxx=g++ --with-fc=gfortran --download-fblaslapack --download-mpich
+[13]PETSC ERROR: #1 MatSetValues_MPIAIJ() line 585 in /mnt/data/users/dm4/vol12/achaplygin99_607/petsc/src/mat/impls/aij/mpi/mpiaij.c
+[13]PETSC ERROR: #2 MatSetValues() line 1190 in /mnt/data/users/dm4/vol12/achaplygin99_607/petsc/src/mat/interface/matrix.c
+[8]PETSC ERROR: --------------------- Error Message --------------------------------------------------------------
+[8]PETSC ERROR: Argument out of range
+[8]PETSC ERROR: Column too large: col 538976288 max 97919
+[8]PETSC ERROR: See http://www.mcs.anl.gov/petsc/documentation/faq.html for trouble shooting.
+[8]PETSC ERROR: Petsc Release Version 3.7.4, unknown 
+[8]PETSC ERROR: ./octask on a arch-linux2-c-debug named node1-128-15 by achaplygin99_607 Tue Nov 22 15:35:27 2016
+[8]PETSC ERROR: Configure options --with-cc=gcc --with-cxx=g++ --with-fc=gfortran --download-fblaslapack --download-mpich
+[8]PETSC ERROR: #1 MatSetValues_MPIAIJ() line 585 in /mnt/data/users/dm4/vol12/achaplygin99_607/petsc/src/mat/impls/aij/mpi/mpiaij.c
+[8]PETSC ERROR: #2 MatSetValues() line 1190 in /mnt/data/users/dm4/vol12/achaplygin99_607/petsc/src/mat/interface/matrix.c
+[9]PETSC ERROR: --------------------- Error Message --------------------------------------------------------------
+[9]PETSC ERROR: Argument out of range
+[9]PETSC ERROR: Column too large: col 538976288 max 97919
+[9]PETSC ERROR: See http://www.mcs.anl.gov/petsc/documentation/faq.html for trouble shooting.
+[9]PETSC ERROR: Petsc Release Version 3.7.4, unknown 
+[9]PETSC ERROR: ./octask on a arch-linux2-c-debug named node1-128-15 by achaplygin99_607 Tue Nov 22 15:35:27 2016
+[9]PETSC ERROR: Configure options --with-cc=gcc --with-cxx=g++ --with-fc=gfortran --download-fblaslapack --download-mpich
+[9]PETSC ERROR: #1 MatSetValues_MPIAIJ() line 585 in /mnt/data/users/dm4/vol12/achaplygin99_607/petsc/src/mat/impls/aij/mpi/mpiaij.c
+[9]PETSC ERROR: #2 MatSetValues() line 1190 in /mnt/data/users/dm4/vol12/achaplygin99_607/petsc/src/mat/interface/matrix.c
+ MatForm:   3.5327310562133789     
+ RHSForm:  2.99859046936035156E-002
+           0 KSPSolve   7.0628459453582764      its         873 norm  1.62378639526888761E-003 nvar       97920
+   FORM u,v,slh:  3.38506698608398438E-003
+   SYNC:  1.22189521789550781E-003
+ SolveSys:   7.0683710575103760     
+ RHSForm:  1.88970565795898438E-002
+           0 KSPSolve   6.2745680809020996      its         777 norm  2.46842996655233628E-003 nvar       97920
+   FORM u,v,slh:  3.74078750610351563E-004
+   SYNC:  1.67798995971679688E-003
+ SolveSys:   6.2776849269866943     
+ RHSForm:  1.74200534820556641E-002
+           0 KSPSolve   6.2031779289245605      its         784 norm  2.62214716520768783E-003 nvar       97920
+   FORM u,v,slh:  9.20295715332031250E-005
+   SYNC:  7.41004943847656250E-004
+ SolveSys:   6.2040898799896240     
+ RHSForm:  1.08220577239990234E-002
+           0 KSPSolve   4.6620378494262695      its         591 norm  2.35390172294852379E-003 nvar       97920
+   FORM u,v,slh:  7.60078430175781250E-004
+   SYNC:  2.43592262268066406E-003
+ SolveSys:   4.6658239364624023     
+ RHSForm:  1.70559883117675781E-002
+           0 KSPSolve   3.8379600048065186      its         485 norm  1.91547958930302596E-003 nvar       97920
+   FORM u,v,slh:  1.85012817382812500E-004
+   SYNC:  1.28102302551269531E-003
+ SolveSys:   3.8396039009094238     
+ RHSForm:  1.47628784179687500E-002
+           0 KSPSolve   5.5684590339660645      its         697 norm  1.56479972393178883E-003 nvar       97920
+   FORM u,v,slh:  7.48157501220703125E-004
+   SYNC:  1.85990333557128906E-003
+ SolveSys:   5.5716929435729980     
+ RHSForm:  1.65569782257080078E-002
+           0 KSPSolve   5.1596031188964844      its         651 norm  1.41351380646786442E-003 nvar       97920
+   FORM u,v,slh:  1.02996826171875000E-004
+   SYNC:  6.94036483764648438E-004
+ SolveSys:   5.1604719161987305     
+ RHSForm:  1.64861679077148438E-002
+           0 KSPSolve   4.0767571926116943      its         516 norm  1.42741193789410956E-003 nvar       97920
+   FORM u,v,slh:  7.60078430175781250E-004
+   SYNC:  2.43496894836425781E-003
+ SolveSys:   4.0805130004882813     
+ RHSForm:  1.58269405364990234E-002
+           0 KSPSolve   4.1349380016326904      its         520 norm  1.51869768583893887E-003 nvar       97920
+   FORM u,v,slh:  8.60691070556640625E-005
+   SYNC:  9.83953475952148438E-004
+ SolveSys:   4.1360919475555420     
+ RHSForm:  1.28331184387207031E-002
+           0 KSPSolve   3.6529169082641602      its         466 norm  1.61903220048594172E-003 nvar       97920
+   FORM u,v,slh:  1.83105468750000000E-004
+   SYNC:  8.47101211547851563E-004
+ SolveSys:   3.6541829109191895     
+  WRITE XY-DATA: REC=       1
+   MODEL TIME: 05:00:00  01JAN2013;  DAY IN YEAR:001,  DAY IN 4YRS:0001
+ OUTPUT DATA to E/XY/sl.dat
+ XY_OUT:  0.18967485427856445     
+ RHSForm:  1.83260440826416016E-002
+           0 KSPSolve   3.2053840160369873      its         397 norm  1.68999204013928683E-003 nvar       97920
+   FORM u,v,slh:  7.08103179931640625E-005
+   SYNC:  5.25617599487304688E-003
+ SolveSys:   3.2108931541442871     
+ RHSForm:  1.77111625671386719E-002
+           0 KSPSolve   3.9320080280303955      its         484 norm  1.73079722033517985E-003 nvar       97920
+   FORM u,v,slh:  8.48770141601562500E-005
+   SYNC:  8.87870788574218750E-004
+ SolveSys:   3.9330630302429199     
+ RHSForm:  1.17859840393066406E-002
+           0 KSPSolve   3.7463438510894775      its         451 norm  1.74040020601934375E-003 nvar       97920
+   FORM u,v,slh:  5.45024871826171875E-004
+   SYNC:  2.75802612304687500E-003
+ SolveSys:   3.7502968311309814     
+ RHSForm:  1.78699493408203125E-002
+           0 KSPSolve   2.8735768795013428      its         351 norm  1.72558995964294175E-003 nvar       97920
+   FORM u,v,slh:  6.91413879394531250E-005
+   SYNC:  4.22000885009765625E-003
+ SolveSys:   2.8784809112548828     
+ RHSForm:  1.67288780212402344E-002
+           0 KSPSolve   1.9108319282531738      its         233 norm  1.71849044334646114E-003 nvar       97920
+   FORM u,v,slh:  1.03950500488281250E-004
+   SYNC:  4.75883483886718750E-004
+ SolveSys:   1.9119920730590820     
+ RHSForm:  1.15919113159179688E-002
+           0 KSPSolve   1.9361310005187988      its         240 norm  1.70892441182692555E-003 nvar       97920
+   FORM u,v,slh:  7.60555267333984375E-005
+   SYNC:  8.82148742675781250E-004
+ SolveSys:   1.9372239112854004     
+ RHSForm:  1.10499858856201172E-002
+           0 KSPSolve  0.26299214363098145      its          34 norm  1.71345330823319069E-003 nvar       97920
+   FORM u,v,slh:  9.39369201660156250E-005
+   SYNC:  6.04867935180664063E-004
+ SolveSys:  0.26376295089721680     
+ RHSForm:  1.17061138153076172E-002
+           0 KSPSolve   1.8167350292205811      its         225 norm  1.73859263414930161E-003 nvar       97920
+   FORM u,v,slh:  1.81913375854492188E-004
+   SYNC:  4.67061996459960938E-004
+ SolveSys:   1.8179299831390381     
+ RHSForm:  1.50558948516845703E-002
+           0 KSPSolve   1.9989688396453857      its         246 norm  1.75631776738755809E-003 nvar       97920
+   FORM u,v,slh:  1.08957290649414063E-004
+   SYNC:  9.74893569946289063E-004
+ SolveSys:   2.0006139278411865     
+ RHSForm:  1.31959915161132813E-002
+           0 KSPSolve   1.8909180164337158      its         236 norm  1.76557319949674886E-003 nvar       97920
+   FORM u,v,slh:  9.41753387451171875E-005
+   SYNC:  9.12904739379882813E-004
+ SolveSys:   1.8921160697937012     
+  WRITE XY-DATA: REC=       2
+   MODEL TIME: 10:00:00  01JAN2013;  DAY IN YEAR:001,  DAY IN 4YRS:0001
+ OUTPUT DATA to E/XY/sl.dat
+ XY_OUT:  5.34801483154296875E-002
+ RHSForm:  1.46429538726806641E-002
+           0 KSPSolve   2.0159769058227539      its         241 norm  1.76964344811655406E-003 nvar       97920
+   FORM u,v,slh:  1.87158584594726563E-004
+   SYNC:  9.72032546997070313E-004
+ SolveSys:   2.0172798633575439     
+ RHSForm:  1.31719112396240234E-002
+           0 KSPSolve   1.7652530670166016      its         223 norm  1.78533376438956689E-003 nvar       97920
+   FORM u,v,slh:  1.07049942016601563E-004
+   SYNC:  9.26017761230468750E-004
+ SolveSys:   1.7665159702301025     
+ RHSForm:  1.11730098724365234E-002
+           0 KSPSolve   1.1694660186767578      its         144 norm  1.79162635675065478E-003 nvar       97920
+   FORM u,v,slh:  8.79764556884765625E-005
+   SYNC:  1.23715400695800781E-003
+ SolveSys:   1.1708638668060303     
+ RHSForm:  1.15079879760742188E-002
+           0 KSPSolve  0.99915003776550293      its         122 norm  1.80083041708096049E-003 nvar       97920
+   FORM u,v,slh:  1.88827514648437500E-004
+   SYNC:  1.21092796325683594E-003
+ SolveSys:   1.0007610321044922     
+ RHSForm:  1.51021480560302734E-002
+           0 KSPSolve  0.82321000099182129      its         104 norm  1.81452436955067335E-003 nvar       97920
+   FORM u,v,slh:  9.29832458496093750E-005
+   SYNC:  8.24928283691406250E-004
+ SolveSys:  0.82419395446777344     
+ RHSForm:  1.11711025238037109E-002
+           0 KSPSolve   1.1533191204071045      its         142 norm  1.82803659318110591E-003 nvar       97920
+   FORM u,v,slh:  8.79764556884765625E-005
+   SYNC:  1.28197669982910156E-003
+ SolveSys:   1.1552929878234863     
+ RHSForm:  1.45769119262695313E-002
+           0 KSPSolve   1.3002531528472900      its         161 norm  1.84428094067380709E-003 nvar       97920
+   FORM u,v,slh:  9.67979431152343750E-005
+   SYNC:  1.33085250854492188E-003
+ SolveSys:   1.3017511367797852     
+ RHSForm:  1.34758949279785156E-002
+           0 KSPSolve   1.0825829505920410      its         135 norm  1.86922148044991999E-003 nvar       97920
+   FORM u,v,slh:  1.19924545288085938E-004
+   SYNC:  5.98907470703125000E-004
+ SolveSys:   1.0834789276123047     
+ RHSForm:  1.25770568847656250E-002
+           0 KSPSolve  0.97106695175170898      its         120 norm  1.88327919559372705E-003 nvar       97920
+   FORM u,v,slh:  1.36852264404296875E-004
+   SYNC:  6.17980957031250000E-004
+ SolveSys:  0.97202086448669434     
+ RHSForm:  9.82713699340820313E-003
+           0 KSPSolve  0.70352888107299805      its          87 norm  1.91353582533062097E-003 nvar       97920
+   FORM u,v,slh:  8.51154327392578125E-005
+   SYNC:  9.54151153564453125E-004
+ SolveSys:  0.70463991165161133     
+  WRITE XY-DATA: REC=       3
+   MODEL TIME: 15:00:00  01JAN2013;  DAY IN YEAR:001,  DAY IN 4YRS:0001
+ OUTPUT DATA to E/XY/sl.dat
+ XY_OUT:  2.88529396057128906E-002
+ RHSForm:  1.78458690643310547E-002
+           0 KSPSolve   1.1330299377441406      its         136 norm  1.93163031419802929E-003 nvar       97920
+   FORM u,v,slh:  1.84059143066406250E-004
+   SYNC:  1.60193443298339844E-003
+ SolveSys:   1.1349289417266846     
+ RHSForm:  1.33011341094970703E-002
+           0 KSPSolve  0.76752495765686035      its          95 norm  1.95603960542751467E-003 nvar       97920
+   FORM u,v,slh:  7.79628753662109375E-005
+   SYNC:  7.47919082641601563E-004
+ SolveSys:  0.76842498779296875     
+ RHSForm:  9.12308692932128906E-003
+           0 KSPSolve  0.76250195503234863      its          92 norm  1.97593734747497033E-003 nvar       97920
+   FORM u,v,slh:  1.12056732177734375E-004
+   SYNC:  8.56161117553710938E-004
+ SolveSys:  0.76354885101318359     
+ RHSForm:  1.38409137725830078E-002
+           0 KSPSolve  0.60650897026062012      its          77 norm  1.99440805194630363E-003 nvar       97920
+   FORM u,v,slh:  1.01804733276367188E-004
+   SYNC:  8.40902328491210938E-004
+ SolveSys:  0.60766696929931641     
+ RHSForm:  1.34491920471191406E-002
+           0 KSPSolve  0.48542284965515137      its          58 norm  1.95752939444017665E-003 nvar       97920
+   FORM u,v,slh:  1.91926956176757813E-004
+   SYNC:  1.02496147155761719E-003
+ SolveSys:  0.48682188987731934     
+ RHSForm:  1.33647918701171875E-002
+           0 KSPSolve  0.39309406280517578      its          50 norm  2.02021336715437058E-003 nvar       97920
+   FORM u,v,slh:  8.89301300048828125E-005
+   SYNC:  9.93013381958007813E-004
+ SolveSys:  0.39424300193786621     
+ RHSForm:  1.13699436187744141E-002
+           0 KSPSolve  0.49954700469970703      its          63 norm  2.04948944657925040E-003 nvar       97920
+   FORM u,v,slh:  1.10149383544921875E-004
+   SYNC:  4.14133071899414063E-004
+ SolveSys:  0.50030899047851563     
+ RHSForm:  1.09751224517822266E-002
+           0 KSPSolve  0.48019099235534668      its          59 norm  2.05411599425751185E-003 nvar       97920
+   FORM u,v,slh:  8.70227813720703125E-005
+   SYNC:  2.06685066223144531E-003
+ SolveSys:  0.48256206512451172     
+ RHSForm:  1.52318477630615234E-002
+           0 KSPSolve  0.60631895065307617      its          77 norm  2.08884771082412527E-003 nvar       97920
+   FORM u,v,slh:  1.00851058959960938E-004
+   SYNC:  7.60078430175781250E-004
+ SolveSys:  0.60735702514648438     
+ RHSForm:  1.46348476409912109E-002
+           0 KSPSolve  0.58962297439575195      its          76 norm  2.10796354350363058E-003 nvar       97920
+   FORM u,v,slh:  1.08957290649414063E-004
+   SYNC:  6.06060028076171875E-004
+ SolveSys:  0.59088397026062012     
+  WRITE XY-DATA: REC=       4
+   MODEL TIME: 20:00:00  01JAN2013;  DAY IN YEAR:001,  DAY IN 4YRS:0001
+ OUTPUT DATA to E/XY/sl.dat
+ XY_OUT:  2.72998809814453125E-002
+ RHSForm:  1.72829627990722656E-002
+           0 KSPSolve  0.51043105125427246      its          62 norm  2.12596385531659687E-003 nvar       97920
+   FORM u,v,slh:  1.95026397705078125E-004
+   SYNC:  6.24895095825195313E-004
+ SolveSys:  0.51171684265136719     
+ RHSForm:  1.10528469085693359E-002
+           0 KSPSolve  0.49712896347045898      its          60 norm  2.11118008011746067E-003 nvar       97920
+   FORM u,v,slh:  9.60826873779296875E-005
+   SYNC:  6.82115554809570313E-004
+ SolveSys:  0.49809098243713379     
+ RHSForm:  1.01687908172607422E-002
+           0 KSPSolve  0.60397219657897949      its          77 norm  2.17210311986605316E-003 nvar       97920
+   FORM u,v,slh:  9.29832458496093750E-005
+   SYNC:  1.08814239501953125E-003
+ SolveSys:  0.60522007942199707     
+ RHSForm:  1.21500492095947266E-002
+           0 KSPSolve  0.49814510345458984      its          60 norm  2.19696831768022771E-003 nvar       97920
+   FORM u,v,slh:  9.29832458496093750E-005
+   SYNC:  6.48021697998046875E-004
+ SolveSys:  0.49909615516662598     
+ RHSForm:  1.30889415740966797E-002
+           0 KSPSolve  0.48057389259338379      its          58 norm  2.18867665687735727E-003 nvar       97920
+   FORM u,v,slh:  8.60691070556640625E-005
+   SYNC:  1.03688240051269531E-003
+ SolveSys:  0.48176789283752441     
+ RHSForm:  1.33709907531738281E-002
+           0 KSPSolve  0.53349614143371582      its          65 norm  2.24043043499924828E-003 nvar       97920
+   FORM u,v,slh:  9.51290130615234375E-005
+   SYNC:  6.22034072875976563E-004
+ SolveSys:  0.53428411483764648     
+ RHSForm:  1.15659236907958984E-002
+           0 KSPSolve  0.46578478813171387      its          58 norm  2.24564596029303443E-003 nvar       97920
+   FORM u,v,slh:  8.79764556884765625E-005
+   SYNC:  6.12974166870117188E-004
+ SolveSys:  0.46656084060668945     
+ RHSForm:  1.38530731201171875E-002
+           0 KSPSolve  0.42514801025390625      its          55 norm  2.29325923187093670E-003 nvar       97920
+   FORM u,v,slh:  9.10758972167968750E-005
+   SYNC:  6.04152679443359375E-004
+ SolveSys:  0.42591786384582520     
+ RHSForm:  1.11410617828369141E-002
+           0 KSPSolve  0.43459987640380859      its          54 norm  2.30991042066254135E-003 nvar       97920
+   FORM u,v,slh:  1.09195709228515625E-004
+   SYNC:  5.14984130859375000E-004
+ SolveSys:  0.43530678749084473     
+ RHSForm:  1.12719535827636719E-002
+           0 KSPSolve  0.41459608078002930      its          51 norm  2.34452318566246137E-003 nvar       97920
+   FORM u,v,slh:  9.79900360107421875E-005
+   SYNC:  6.77108764648437500E-004
+ SolveSys:  0.41548109054565430     
+  WRITE XY-DATA: REC=       4
+   MODEL TIME: 01:00:00  02JAN2013;  DAY IN YEAR:002,  DAY IN 4YRS:0002
+ OUTPUT DATA to E/XY/sl.dat
+ XY_OUT:  3.15899848937988281E-002
+ RHSForm:  1.90250873565673828E-002
+           0 KSPSolve  0.40994000434875488      its          52 norm  2.36237325967390225E-003 nvar       97920
+   FORM u,v,slh:  1.85012817382812500E-004
+   SYNC:  1.26886367797851563E-003
+ SolveSys:  0.41150999069213867     
+ RHSForm:  1.41689777374267578E-002
+           0 KSPSolve  0.36864590644836426      its          49 norm  2.39998897761631649E-003 nvar       97920
+   FORM u,v,slh:  8.32080841064453125E-005
+   SYNC:  7.28130340576171875E-004
+ SolveSys:  0.36955499649047852     
+ RHSForm:  1.06940269470214844E-002
+           0 KSPSolve  0.40216994285583496      its          50 norm  2.43324267810519045E-003 nvar       97920
+   FORM u,v,slh:  8.89301300048828125E-005
+   SYNC:  1.03783607482910156E-003
+ SolveSys:  0.40336680412292480     
+ RHSForm:  1.13170146942138672E-002
+           0 KSPSolve  0.36940908432006836      its          49 norm  2.45880190927663710E-003 nvar       97920
+   FORM u,v,slh:  9.08374786376953125E-005
+   SYNC:  6.83069229125976563E-004
+ SolveSys:  0.37025308609008789     
+ RHSForm:  1.22780799865722656E-002
+           0 KSPSolve  0.38074183464050293      its          49 norm  2.49225802358323889E-003 nvar       97920
+   FORM u,v,slh:  8.70227813720703125E-005
+   SYNC:  8.26120376586914063E-004
+ SolveSys:  0.38172292709350586     
+ RHSForm:  1.14848613739013672E-002
+           0 KSPSolve  0.37902688980102539      its          48 norm  2.52923786126599964E-003 nvar       97920
+   FORM u,v,slh:  2.18868255615234375E-004
+   SYNC:  1.35397911071777344E-003
+ SolveSys:  0.38079214096069336     
+ RHSForm:  1.44789218902587891E-002
+           0 KSPSolve  0.37942695617675781      its          49 norm  2.55415401791878353E-003 nvar       97920
+   FORM u,v,slh:  8.39233398437500000E-005
+   SYNC:  6.14881515502929688E-004
+ SolveSys:  0.38020610809326172     
+ RHSForm:  1.15580558776855469E-002
+           0 KSPSolve  0.36387205123901367      its          47 norm  2.59278816503523543E-003 nvar       97920
+   FORM u,v,slh:  8.89301300048828125E-005
+   SYNC:  5.51939010620117188E-004
+ SolveSys:  0.36463499069213867     
+ RHSForm:  1.12180709838867188E-002
+           0 KSPSolve  0.36637306213378906      its          48 norm  2.62584373557803261E-003 nvar       97920
+   FORM u,v,slh:  1.06811523437500000E-004
+   SYNC:  9.87052917480468750E-004
+ SolveSys:  0.36753892898559570     
+ RHSForm:  1.26130580902099609E-002
+           0 KSPSolve  0.36400413513183594      its          47 norm  2.65763928571632023E-003 nvar       97920
+   FORM u,v,slh:  1.23977661132812500E-004
+   SYNC:  1.41596794128417969E-003
+ SolveSys:  0.36571002006530762     
+  WRITE XY-DATA: REC=       1
+   MODEL TIME: 06:00:00  02JAN2013;  DAY IN YEAR:002,  DAY IN 4YRS:0002
+ OUTPUT DATA to E/XY/sl.dat
+ XY_OUT:  2.43709087371826172E-002
+ RHSForm:  1.96330547332763672E-002
+           0 KSPSolve  0.35891890525817871      its          46 norm  2.70759624277152168E-003 nvar       97920
+   FORM u,v,slh:  2.05039978027343750E-004
+   SYNC:  8.13961029052734375E-004
+ SolveSys:  0.36004090309143066     
+ RHSForm:  1.12471580505371094E-002
+           0 KSPSolve  0.37165999412536621      its          47 norm  2.72960157922314244E-003 nvar       97920
+   FORM u,v,slh:  9.60826873779296875E-005
+   SYNC:  7.47919082641601563E-004
+ SolveSys:  0.37257194519042969     
+ RHSForm:  1.30059719085693359E-002
+           0 KSPSolve  0.34797000885009766      its          45 norm  2.78214258368928661E-003 nvar       97920
+   FORM u,v,slh:  1.33991241455078125E-004
+   SYNC:  4.45842742919921875E-004
+ SolveSys:  0.34874415397644043     
+ RHSForm:  1.22110843658447266E-002
+           0 KSPSolve  0.33067107200622559      its          45 norm  2.82548411782233442E-003 nvar       97920
+   FORM u,v,slh:  7.89165496826171875E-005
+   SYNC:  3.85999679565429688E-004
+ SolveSys:  0.33162689208984375     
+ RHSForm:  1.10721588134765625E-002
+           0 KSPSolve  0.35567688941955566      its          45 norm  2.86157839764865840E-003 nvar       97920
+   FORM u,v,slh:  9.10758972167968750E-005
+   SYNC:  1.03497505187988281E-003
+ SolveSys:  0.35687184333801270     
+ RHSForm:  1.55301094055175781E-002
+           0 KSPSolve  0.33442997932434082      its          44 norm  2.90285904490130775E-003 nvar       97920
+   FORM u,v,slh:  8.79764556884765625E-005
+   SYNC:  6.39915466308593750E-004
+ SolveSys:  0.33523201942443848     
+ RHSForm:  1.08649730682373047E-002
+           0 KSPSolve  0.32623195648193359      its          44 norm  2.93423806602036586E-003 nvar       97920
+   FORM u,v,slh:  8.48770141601562500E-005
+   SYNC:  6.66856765747070313E-004
+ SolveSys:  0.32705998420715332     
+ RHSForm:  1.56519412994384766E-002
+           0 KSPSolve  0.32274889945983887      its          43 norm  2.97542918849308478E-003 nvar       97920
+   FORM u,v,slh:  7.20024108886718750E-005
+   SYNC:  6.89983367919921875E-004
+ SolveSys:  0.32363200187683105     
+ RHSForm:  1.14421844482421875E-002
+           0 KSPSolve  0.32364487648010254      its          42 norm  3.02928105249317126E-003 nvar       97920
+   FORM u,v,slh:  9.29832458496093750E-005
+   SYNC:  5.81026077270507813E-004
+ SolveSys:  0.32438993453979492     
+ RHSForm:  1.23760700225830078E-002
+           0 KSPSolve  0.32955408096313477      its          42 norm  3.07613154480934365E-003 nvar       97920
+   FORM u,v,slh:  8.98838043212890625E-005
+   SYNC:  3.39984893798828125E-004
+ SolveSys:  0.33035707473754883     
+  WRITE XY-DATA: REC=       2
+   MODEL TIME: 11:00:00  02JAN2013;  DAY IN YEAR:002,  DAY IN 4YRS:0002
+ OUTPUT DATA to E/XY/sl.dat
+ XY_OUT:  2.69308090209960938E-002
+ RHSForm:  1.64108276367187500E-002
+           0 KSPSolve  0.31708121299743652      its          41 norm  3.13313146690048783E-003 nvar       97920
+   FORM u,v,slh:  1.85966491699218750E-004
+   SYNC:  9.53912734985351563E-004
+ SolveSys:  0.31834101676940918     
+ RHSForm:  1.16209983825683594E-002
+           0 KSPSolve  0.31337285041809082      its          41 norm  3.18041590934987429E-003 nvar       97920
+   FORM u,v,slh:  8.79764556884765625E-005
+   SYNC:  1.04713439941406250E-003
+ SolveSys:  0.31458592414855957     
+ RHSForm:  1.04711055755615234E-002
+           0 KSPSolve  0.31476807594299316      its          40 norm  3.23735807406196107E-003 nvar       97920
+   FORM u,v,slh:  8.48770141601562500E-005
+   SYNC:  7.61985778808593750E-004
+ SolveSys:  0.31568288803100586     
+ RHSForm:  1.25730037689208984E-002
+           0 KSPSolve  0.29543399810791016      its          40 norm  3.28512284893075091E-003 nvar       97920
+   FORM u,v,slh:  7.51018524169921875E-005
+   SYNC:  3.78847122192382813E-004
+ SolveSys:  0.29626107215881348     
+ RHSForm:  1.40538215637207031E-002
+           0 KSPSolve  0.29448008537292480      its          39 norm  3.34133102595084814E-003 nvar       97920
+   FORM u,v,slh:  8.79764556884765625E-005
+   SYNC:  8.17060470581054688E-004
+ SolveSys:  0.29549002647399902     
+ RHSForm:  1.27849578857421875E-002
+           0 KSPSolve  0.29816007614135742      its          39 norm  3.38739984716231223E-003 nvar       97920
+   FORM u,v,slh:  9.20295715332031250E-005
+   SYNC:  9.31978225708007813E-004
+ SolveSys:  0.29924893379211426     
+ RHSForm:  1.03240013122558594E-002
+           0 KSPSolve  0.30089998245239258      its          38 norm  3.44252550007935910E-003 nvar       97920
+   FORM u,v,slh:  8.48770141601562500E-005
+   SYNC:  6.79016113281250000E-004
+ SolveSys:  0.30174589157104492     
+ RHSForm:  1.20060443878173828E-002
+           0 KSPSolve  0.28584504127502441      its          38 norm  3.48684198679959610E-003 nvar       97920
+   FORM u,v,slh:  9.01222229003906250E-005
+   SYNC:  7.04050064086914063E-004
+ SolveSys:  0.28670716285705566     
+ RHSForm:  1.01861953735351563E-002
+           0 KSPSolve  0.28502893447875977      its          37 norm  3.54449564614867834E-003 nvar       97920
+   FORM u,v,slh:  8.01086425781250000E-005
+   SYNC:  6.58988952636718750E-004
+ SolveSys:  0.28583884239196777     
+ RHSForm:  1.17659568786621094E-002
+           0 KSPSolve  0.27679491043090820      its          36 norm  3.62136930423641356E-003 nvar       97920
+   FORM u,v,slh:  9.10758972167968750E-005
+   SYNC:  8.58068466186523438E-004
+ SolveSys:  0.27781701087951660     
+  WRITE XY-DATA: REC=       3
+   MODEL TIME: 16:00:00  02JAN2013;  DAY IN YEAR:002,  DAY IN 4YRS:0002
+ OUTPUT DATA to E/XY/sl.dat
+ XY_OUT:  4.96900081634521484E-002
+ RHSForm:  1.93328857421875000E-002
+           0 KSPSolve  0.29196310043334961      its          36 norm  3.68627525601804371E-003 nvar       97920
+   FORM u,v,slh:  2.53915786743164063E-004
+   SYNC:  6.01053237915039063E-004
+ SolveSys:  0.29303097724914551     
+ RHSForm:  1.13868713378906250E-002
+           0 KSPSolve  0.27725601196289063      its          36 norm  3.73182907456094020E-003 nvar       97920
+   FORM u,v,slh:  8.89301300048828125E-005
+   SYNC:  8.20875167846679688E-004
+ SolveSys:  0.27824807167053223     
+ RHSForm:  1.17259025573730469E-002
+           0 KSPSolve  0.26166415214538574      its          34 norm  3.81869349704188092E-003 nvar       97920
+   FORM u,v,slh:  9.29832458496093750E-005
+   SYNC:  6.74009323120117188E-004
+ SolveSys:  0.26249814033508301     
+ RHSForm:  1.09899044036865234E-002
+           0 KSPSolve  0.27966594696044922      its          35 norm  3.85962512257713181E-003 nvar       97920
+   FORM u,v,slh:  9.29832458496093750E-005
+   SYNC:  6.27040863037109375E-004
+ SolveSys:  0.28045701980590820     
+ RHSForm:  1.09858512878417969E-002
+           0 KSPSolve  0.27227497100830078      its          33 norm  3.95642535016955520E-003 nvar       97920
+   FORM u,v,slh:  1.49011611938476563E-004
+   SYNC:  1.24406814575195313E-003
+ SolveSys:  0.27380204200744629     
+ RHSForm:  1.78689956665039063E-002
+           0 KSPSolve  0.26368403434753418      its          33 norm  4.02623828715337542E-003 nvar       97920
+   FORM u,v,slh:  8.70227813720703125E-005
+   SYNC:  9.41991806030273438E-004
+ SolveSys:  0.26477813720703125     
+ RHSForm:  1.09848976135253906E-002
+           0 KSPSolve  0.26738095283508301      its          33 norm  4.07641490867419534E-003 nvar       97920
+   FORM u,v,slh:  9.01222229003906250E-005
+   SYNC:  6.90937042236328125E-004
+ SolveSys:  0.26823210716247559     
+ RHSForm:  1.17299556732177734E-002
+           0 KSPSolve  0.26563692092895508      its          31 norm  4.16594763495800689E-003 nvar       97920
+   FORM u,v,slh:  8.89301300048828125E-005
+   SYNC:  8.61167907714843750E-004
+ SolveSys:  0.26683020591735840     
+ RHSForm:  1.09071731567382813E-002
+           0 KSPSolve  0.25148487091064453      its          31 norm  4.21619545466279250E-003 nvar       97920
+   FORM u,v,slh:  1.05142593383789063E-004
+   SYNC:  4.94003295898437500E-004
+ SolveSys:  0.25225186347961426     
+ RHSForm:  9.98306274414062500E-003
+           0 KSPSolve  0.24940896034240723      its          30 norm  4.29599754265450572E-003 nvar       97920
+   FORM u,v,slh:  7.79628753662109375E-005
+   SYNC:  1.08218193054199219E-003
+ SolveSys:  0.25062990188598633     
+  WRITE XY-DATA: REC=       4
+   MODEL TIME: 21:00:00  02JAN2013;  DAY IN YEAR:002,  DAY IN 4YRS:0002
+ OUTPUT DATA to E/XY/sl.dat
+ XY_OUT:  2.72469520568847656E-002
+ RHSForm:  2.18451023101806641E-002
+           0 KSPSolve  0.24153780937194824      its          29 norm  4.40603193729974339E-003 nvar       97920
+   FORM u,v,slh:  2.12907791137695313E-004
+   SYNC:  9.60111618041992188E-004
+ SolveSys:  0.24291491508483887     
+ RHSForm:  1.51658058166503906E-002
+           0 KSPSolve  0.24581599235534668      its          30 norm  4.42257780021230226E-003 nvar       97920
+   FORM u,v,slh:  8.98838043212890625E-005
+   SYNC:  6.25848770141601563E-004
+ SolveSys:  0.24660491943359375     
+ RHSForm:  1.29861831665039063E-002
+           0 KSPSolve  0.22744703292846680      its          29 norm  4.49613612600578867E-003 nvar       97920
+   FORM u,v,slh:  7.89165496826171875E-005
+   SYNC:  8.64028930664062500E-004
+ SolveSys:  0.22848892211914063     
+ RHSForm:  1.08850002288818359E-002
+           0 KSPSolve  0.24740505218505859      its          29 norm  4.57759040303150257E-003 nvar       97920
+   FORM u,v,slh:  8.89301300048828125E-005
+   SYNC:  9.17196273803710938E-004
+ SolveSys:  0.24848008155822754     
+ RHSForm:  1.34789943695068359E-002
+           0 KSPSolve  0.23004007339477539      its          28 norm  4.73194237765195685E-003 nvar       97920
+   FORM u,v,slh:  8.70227813720703125E-005
+   SYNC:  6.56843185424804688E-004
+ SolveSys:  0.23085999488830566     
+ RHSForm:  1.20868682861328125E-002
+           0 KSPSolve  0.23975706100463867      its          29 norm  4.76179122068078400E-003 nvar       97920
+   FORM u,v,slh:  8.91685485839843750E-005
+   SYNC:  9.01937484741210938E-004
+ SolveSys:  0.24082708358764648     
+ RHSForm:  1.34959220886230469E-002
+           0 KSPSolve  0.22904109954833984      its          28 norm  4.86525806599237293E-003 nvar       97920
+   FORM u,v,slh:  8.89301300048828125E-005
+   SYNC:  1.18494033813476563E-003
+ SolveSys:  0.23038411140441895     
+ RHSForm:  1.24831199645996094E-002
+           0 KSPSolve  0.23181509971618652      its          28 norm  4.97863726234739658E-003 nvar       97920
+   FORM u,v,slh:  9.10758972167968750E-005
+   SYNC:  7.99179077148437500E-004
+ SolveSys:  0.23307514190673828     
+ RHSForm:  1.14710330963134766E-002
+           0 KSPSolve  0.24083995819091797      its          28 norm  5.06512869095983396E-003 nvar       97920
+   FORM u,v,slh:  7.82012939453125000E-005
+   SYNC:  1.00207328796386719E-003
+ SolveSys:  0.24198198318481445     
+ RHSForm:  1.12819671630859375E-002
+           0 KSPSolve  0.22004008293151855      its          28 norm  5.13470455188674065E-003 nvar       97920
+   FORM u,v,slh:  1.01089477539062500E-004
+   SYNC:  6.27040863037109375E-004
+ SolveSys:  0.22089815139770508     
+  WRITE XY-DATA: REC=       4
+   MODEL TIME: 02:00:00  03JAN2013;  DAY IN YEAR:003,  DAY IN 4YRS:0003
+ OUTPUT DATA to E/XY/sl.dat
+ XY_OUT:  2.86939144134521484E-002
+ RHSForm:  1.87108516693115234E-002
+           0 KSPSolve  0.22372388839721680      its          27 norm  5.31974636455127738E-003 nvar       97920
+   FORM u,v,slh:  2.00033187866210938E-004
+   SYNC:  1.00111961364746094E-003
+ SolveSys:  0.22502899169921875     
+ RHSForm:  1.14610195159912109E-002
+           0 KSPSolve  0.21058702468872070      its          28 norm  5.35996877676886765E-003 nvar       97920
+   FORM u,v,slh:  9.29832458496093750E-005
+   SYNC:  7.27891921997070313E-004
+ SolveSys:  0.21148204803466797     
+ RHSForm:  1.25761032104492188E-002
+           0 KSPSolve  0.20461583137512207      its          27 norm  5.50181450868564726E-003 nvar       97920
+   FORM u,v,slh:  8.48770141601562500E-005
+   SYNC:  7.92980194091796875E-004
+ SolveSys:  0.20558094978332520     
+ RHSForm:  1.21810436248779297E-002
+           0 KSPSolve  0.20902705192565918      its          27 norm  5.65483546547779735E-003 nvar       97920
+   FORM u,v,slh:  7.79628753662109375E-005
+   SYNC:  9.88006591796875000E-004
+ SolveSys:  0.21015501022338867     
+ RHSForm:  1.17089748382568359E-002
+           0 KSPSolve  0.20149707794189453      its          27 norm  5.77001099956898997E-003 nvar       97920
+   FORM u,v,slh:  9.98973846435546875E-005
+   SYNC:  8.20875167846679688E-004
+ SolveSys:  0.20251893997192383     
+ RHSForm:  1.16660594940185547E-002
+           0 KSPSolve  0.21274495124816895      its          27 norm  5.86392236709894297E-003 nvar       97920
+   FORM u,v,slh:  8.98838043212890625E-005
+   SYNC:  7.84873962402343750E-004
+ SolveSys:  0.21373605728149414     
+ RHSForm:  1.12311840057373047E-002
+           0 KSPSolve  0.20904111862182617      its          27 norm  5.95031150577949707E-003 nvar       97920
+   FORM u,v,slh:  9.08374786376953125E-005
+   SYNC:  6.46829605102539063E-004
+ SolveSys:  0.21028900146484375     
+ RHSForm:  1.55770778656005859E-002
+           0 KSPSolve  0.21514391899108887      its          27 norm  6.03293592360347290E-003 nvar       97920
+   FORM u,v,slh:  9.20295715332031250E-005
+   SYNC:  7.82012939453125000E-004
+ SolveSys:  0.21608614921569824     
+ RHSForm:  1.13718509674072266E-002
+           0 KSPSolve  0.22033905982971191      its          27 norm  6.11491627827258789E-003 nvar       97920
+   FORM u,v,slh:  7.20024108886718750E-005
+   SYNC:  6.63995742797851563E-004
+ SolveSys:  0.22114706039428711     
+ RHSForm:  1.12371444702148438E-002
+           0 KSPSolve  0.20711183547973633      its          26 norm  6.36746987754784315E-003 nvar       97920
+   FORM u,v,slh:  9.20295715332031250E-005
+   SYNC:  9.47952270507812500E-004
+ SolveSys:  0.20821881294250488     
+  WRITE XY-DATA: REC=       1
+   MODEL TIME: 07:00:00  03JAN2013;  DAY IN YEAR:003,  DAY IN 4YRS:0003
+ OUTPUT DATA to E/XY/sl.dat
+ XY_OUT:  2.20909118652343750E-002
+ RHSForm:  1.52380466461181641E-002
+           0 KSPSolve  0.21735906600952148      its          27 norm  6.41771567217260669E-003 nvar       97920
+   FORM u,v,slh:  1.95980072021484375E-004
+   SYNC:  1.42598152160644531E-003
+ SolveSys:  0.21908116340637207     
+ RHSForm:  9.93299484252929688E-003
+           0 KSPSolve  0.19062113761901855      its          26 norm  6.61189055965766791E-003 nvar       97920
+   FORM u,v,slh:  8.41617584228515625E-005
+   SYNC:  5.65052032470703125E-004
+ SolveSys:  0.19134402275085449     
+ RHSForm:  1.05540752410888672E-002
+           0 KSPSolve  0.22222709655761719      its          27 norm  6.63341871407859690E-003 nvar       97920
+   FORM u,v,slh:  8.79764556884765625E-005
+   SYNC:  6.63995742797851563E-004
+ SolveSys:  0.22314000129699707     
+ RHSForm:  1.33981704711914063E-002
+           0 KSPSolve  0.20069885253906250      its          26 norm  6.81772139850403674E-003 nvar       97920
+   FORM u,v,slh:  9.39369201660156250E-005
+   SYNC:  4.96864318847656250E-004
+ SolveSys:  0.20137286186218262     
+ RHSForm:  1.21939182281494141E-002
+           0 KSPSolve  0.20036602020263672      its          26 norm  7.03246533086956255E-003 nvar       97920
+   FORM u,v,slh:  8.51154327392578125E-005
+   SYNC:  5.78880310058593750E-004
+ SolveSys:  0.20113205909729004     
+ RHSForm:  1.65112018585205078E-002
+           0 KSPSolve  0.20834016799926758      its          26 norm  7.19348436769887481E-003 nvar       97920
+   FORM u,v,slh:  9.39369201660156250E-005
+   SYNC:  6.96897506713867188E-004
+ SolveSys:  0.20920300483703613     
+ RHSForm:  1.25329494476318359E-002
+           0 KSPSolve  0.20543193817138672      its          26 norm  7.32797451753993117E-003 nvar       97920
+   FORM u,v,slh:  8.70227813720703125E-005
+   SYNC:  9.24110412597656250E-004
+ SolveSys:  0.20651197433471680     
+ RHSForm:  1.68638229370117188E-002
+           0 KSPSolve  0.19410896301269531      its          26 norm  7.45339964178193259E-003 nvar       97920
+   FORM u,v,slh:  6.79492950439453125E-005
+   SYNC:  9.89913940429687500E-004
+ SolveSys:  0.19523596763610840     
+ RHSForm:  1.37441158294677734E-002
+           0 KSPSolve  0.20525288581848145      its          26 norm  7.57474391906433429E-003 nvar       97920
+   FORM u,v,slh:  8.89301300048828125E-005
+   SYNC:  7.32183456420898438E-004
+ SolveSys:  0.20613980293273926     
+ RHSForm:  1.14409923553466797E-002
+           0 KSPSolve  0.20165705680847168      its          26 norm  7.69731303830507082E-003 nvar       97920
+   FORM u,v,slh:  9.39369201660156250E-005
+   SYNC:  7.41958618164062500E-004
+ SolveSys:  0.20256018638610840     
+  WRITE XY-DATA: REC=       2
+   MODEL TIME: 12:00:00  03JAN2013;  DAY IN YEAR:003,  DAY IN 4YRS:0003
+ OUTPUT DATA to E/XY/sl.dat
+ XY_OUT:  2.91490554809570313E-002
+ RHSForm:  1.74560546875000000E-002
+           0 KSPSolve  0.20709514617919922      its          26 norm  7.82343576092158280E-003 nvar       97920
+   FORM u,v,slh:  2.15053558349609375E-004
+   SYNC:  1.22404098510742188E-003
+ SolveSys:  0.20862698554992676     
+ RHSForm:  1.20549201965332031E-002
+           0 KSPSolve  0.19933509826660156      its          26 norm  7.95344841574025484E-003 nvar       97920
+   FORM u,v,slh:  8.98838043212890625E-005
+   SYNC:  8.53776931762695313E-004
+ SolveSys:  0.20034790039062500     
+ RHSForm:  1.22070312500000000E-002
+           0 KSPSolve  0.18371295928955078      its          25 norm  8.35656466484992373E-003 nvar       97920
+   FORM u,v,slh:  8.60691070556640625E-005
+   SYNC:  5.68866729736328125E-004
+ SolveSys:  0.18444585800170898     
+ RHSForm:  1.10199451446533203E-002
+           0 KSPSolve  0.20030903816223145      its          26 norm  8.43066041389930847E-003 nvar       97920
+   FORM u,v,slh:  8.48770141601562500E-005
+   SYNC:  8.69035720825195313E-004
+ SolveSys:  0.20133590698242188     
+ RHSForm:  1.21829509735107422E-002
+           0 KSPSolve  0.20628190040588379      its          26 norm  8.45594641072909547E-003 nvar       97920
+   FORM u,v,slh:  9.10758972167968750E-005
+   SYNC:  9.66072082519531250E-004
+ SolveSys:  0.20741295814514160     
+ RHSForm:  1.50370597839355469E-002
+           0 KSPSolve  0.20212888717651367      its          25 norm  8.82831440772636339E-003 nvar       97920
+   FORM u,v,slh:  7.31945037841796875E-005
+   SYNC:  8.95023345947265625E-004
+ SolveSys:  0.20317387580871582     
+ RHSForm:  1.28309726715087891E-002
+           0 KSPSolve  0.21304702758789063      its          26 norm  8.88546925795751473E-003 nvar       97920
+   FORM u,v,slh:  4.83989715576171875E-004
+   SYNC:  1.44314765930175781E-003
+ SolveSys:  0.21526598930358887     
+ RHSForm:  1.37128829956054688E-002
+           0 KSPSolve  0.18903493881225586      its          25 norm  9.20583001170320256E-003 nvar       97920
+   FORM u,v,slh:  8.29696655273437500E-005
+   SYNC:  7.96079635620117188E-004
+ SolveSys:  0.18998098373413086     
+ RHSForm:  1.40960216522216797E-002
+           0 KSPSolve  0.21000409126281738      its          26 norm  9.23686446536764461E-003 nvar       97920
+   FORM u,v,slh:  9.39369201660156250E-005
+   SYNC:  8.32080841064453125E-004
+ SolveSys:  0.21099519729614258     
+ RHSForm:  1.34630203247070313E-002
+           0 KSPSolve  0.18439412117004395      its          25 norm  9.55276741020667612E-003 nvar       97920
+   FORM u,v,slh:  9.79900360107421875E-005
+   SYNC:  7.82012939453125000E-004
+ SolveSys:  0.18535995483398438     
+  WRITE XY-DATA: REC=       3
+   MODEL TIME: 17:00:00  03JAN2013;  DAY IN YEAR:003,  DAY IN 4YRS:0003
+ OUTPUT DATA to E/XY/sl.dat
+ XY_OUT:  2.53732204437255859E-002
+ RHSForm:  1.76491737365722656E-002
+           0 KSPSolve  0.19615387916564941      its          25 norm  9.91710892086535012E-003 nvar       97920
+   FORM u,v,slh:  8.89301300048828125E-005
+   SYNC:  9.76085662841796875E-004
+ SolveSys:  0.19742703437805176     
+ RHSForm:  1.24771595001220703E-002
+           0 KSPSolve  0.21020388603210449      its          26 norm  9.82560610349619140E-003 nvar       97920
+   FORM u,v,slh:  9.48905944824218750E-005
+   SYNC:  5.91039657592773438E-004
+ SolveSys:  0.21106481552124023     
+ RHSForm:  1.22039318084716797E-002
+           0 KSPSolve  0.19048404693603516      its          25 norm  1.01024334091337903E-002 nvar       97920
+   FORM u,v,slh:  9.39369201660156250E-005
+   SYNC:  6.66141510009765625E-004
+ SolveSys:  0.19135308265686035     
+ RHSForm:  1.15478038787841797E-002
+           0 KSPSolve  0.19388508796691895      its          25 norm  1.04780854319249262E-002 nvar       97920
+   FORM u,v,slh:  8.60691070556640625E-005
+   SYNC:  5.60998916625976563E-004
+ SolveSys:  0.19460296630859375     
+ RHSForm:  1.20499134063720703E-002
+           0 KSPSolve  0.18469405174255371      its          25 norm  1.07553831117310553E-002 nvar       97920
+   FORM u,v,slh:  1.03950500488281250E-004
+   SYNC:  5.61952590942382813E-004
+ SolveSys:  0.18543386459350586     
+ RHSForm:  1.68659687042236328E-002
+           0 KSPSolve  0.19639587402343750      its          25 norm  1.09918493761392358E-002 nvar       97920
+   FORM u,v,slh:  1.01089477539062500E-004
+   SYNC:  3.39984893798828125E-004
+ SolveSys:  0.19690203666687012     
+ RHSForm:  1.41739845275878906E-002
+           0 KSPSolve  0.18976902961730957      its          25 norm  1.12132142493791952E-002 nvar       97920
+   FORM u,v,slh:  8.79764556884765625E-005
+   SYNC:  6.44922256469726563E-004
+ SolveSys:  0.19057202339172363     
+ RHSForm:  1.21169090270996094E-002
+           0 KSPSolve  0.18654203414916992      its          25 norm  1.14239198156290273E-002 nvar       97920
+   FORM u,v,slh:  8.70227813720703125E-005
+   SYNC:  6.39915466308593750E-004
+ SolveSys:  0.18733906745910645     
+ RHSForm:  1.11060142517089844E-002
+           0 KSPSolve  0.17874002456665039      its          25 norm  1.16335942167925428E-002 nvar       97920
+   FORM u,v,slh:  9.10758972167968750E-005
+   SYNC:  6.62803649902343750E-004
+ SolveSys:  0.17956590652465820     
+ RHSForm:  1.12619400024414063E-002
+           0 KSPSolve  0.19349002838134766      its          25 norm  1.18480737093208995E-002 nvar       97920
+   FORM u,v,slh:  9.10758972167968750E-005
+   SYNC:  9.39130783081054688E-004
+ SolveSys:  0.19459104537963867     
+  WRITE XY-DATA: REC=       4
+   MODEL TIME: 22:00:00  03JAN2013;  DAY IN YEAR:003,  DAY IN 4YRS:0003
+ OUTPUT DATA to E/XY/sl.dat
+ XY_OUT:  2.21009254455566406E-002
+ RHSForm:  1.81360244750976563E-002
+           0 KSPSolve  0.18626403808593750      its          25 norm  1.20692569440097423E-002 nvar       97920
+   FORM u,v,slh:  1.98841094970703125E-004
+   SYNC:  9.67979431152343750E-004
+ SolveSys:  0.18752408027648926     
+ RHSForm:  1.10511779785156250E-002
+           0 KSPSolve  0.19627714157104492      its          25 norm  1.22970253136023659E-002 nvar       97920
+   FORM u,v,slh:  7.00950622558593750E-005
+   SYNC:  6.95943832397460938E-004
+ SolveSys:  0.19717097282409668     
+ RHSForm:  1.23929977416992188E-002
+           0 KSPSolve  0.18012285232543945      its          25 norm  1.25306624319964539E-002 nvar       97920
+   FORM u,v,slh:  8.98838043212890625E-005
+   SYNC:  5.55992126464843750E-004
+ SolveSys:  0.18085193634033203     
+ RHSForm:  1.41348838806152344E-002
+           0 KSPSolve  0.18740701675415039      its          25 norm  1.27695275092331046E-002 nvar       97920
+   FORM u,v,slh:  1.14917755126953125E-004
+   SYNC:  5.93900680541992188E-004
+ SolveSys:  0.18819713592529297     
+ RHSForm:  1.15768909454345703E-002
+           0 KSPSolve  0.18571019172668457      its          25 norm  1.30132485955916470E-002 nvar       97920
+   FORM u,v,slh:  8.89301300048828125E-005
+   SYNC:  7.71999359130859375E-004
+ SolveSys:  0.18664503097534180     
+ RHSForm:  1.20599269866943359E-002
+           0 KSPSolve  0.19394087791442871      its          25 norm  1.32616865439333115E-002 nvar       97920
+   FORM u,v,slh:  7.29560852050781250E-005
+   SYNC:  5.55038452148437500E-004
+ SolveSys:  0.19469380378723145     
+ RHSForm:  1.30109786987304688E-002
+           0 KSPSolve  0.19348406791687012      its          25 norm  1.35148659155803243E-002 nvar       97920
+   FORM u,v,slh:  8.10623168945312500E-005
+   SYNC:  6.74009323120117188E-004
+ SolveSys:  0.19430613517761230     
+ RHSForm:  1.43990516662597656E-002
+           0 KSPSolve  0.19202399253845215      its          25 norm  1.37729392924742598E-002 nvar       97920
+   FORM u,v,slh:  6.58035278320312500E-005
+   SYNC:  3.97205352783203125E-004
+ SolveSys:  0.19260215759277344     
+ RHSForm:  1.18339061737060547E-002
+           0 KSPSolve  0.18263816833496094      its          24 norm  1.46135801175962150E-002 nvar       97920
+   FORM u,v,slh:  9.70363616943359375E-005
+   SYNC:  6.24895095825195313E-004
+ SolveSys:  0.18348002433776855     
+ RHSForm:  1.45928859710693359E-002
+           0 KSPSolve  0.19078493118286133      its          25 norm  1.47144973243226677E-002 nvar       97920
+   FORM u,v,slh:  9.70363616943359375E-005
+   SYNC:  7.97986984252929688E-004
+ SolveSys:  0.19175291061401367     
+  WRITE XY-DATA: REC=       4
+   MODEL TIME: 03:00:00  04JAN2013;  DAY IN YEAR:004,  DAY IN 4YRS:0004
+ OUTPUT DATA to E/XY/sl.dat
+ XY_OUT:  2.77600288391113281E-002
+ RHSForm:  1.65779590606689453E-002
+           0 KSPSolve  0.19658613204956055      its          25 norm  1.47487736675714753E-002 nvar       97920
+   FORM u,v,slh:  1.91926956176757813E-004
+   SYNC:  1.44696235656738281E-003
+ SolveSys:  0.19832205772399902     
+ RHSForm:  1.17561817169189453E-002
+           0 KSPSolve  0.18614888191223145      its          24 norm  1.55270948857572817E-002 nvar       97920
+   FORM u,v,slh:  9.98973846435546875E-005
+   SYNC:  5.95092773437500000E-004
+ SolveSys:  0.18692302703857422     
+ RHSForm:  1.17731094360351563E-002
+           0 KSPSolve  0.19721889495849609      its          25 norm  1.55896442976532247E-002 nvar       97920
+   FORM u,v,slh:  9.29832458496093750E-005
+   SYNC:  4.06026840209960938E-004
+ SolveSys:  0.19779610633850098     
+ RHSForm:  1.34239196777343750E-002
+           0 KSPSolve  0.17409515380859375      its          24 norm  1.62512497360077640E-002 nvar       97920
+   FORM u,v,slh:  9.20295715332031250E-005
+   SYNC:  8.38994979858398438E-004
+ SolveSys:  0.17510414123535156     
+ RHSForm:  1.25308036804199219E-002
+           0 KSPSolve  0.19624090194702148      its          25 norm  1.62642089636959863E-002 nvar       97920
+   FORM u,v,slh:  8.48770141601562500E-005
+   SYNC:  9.41991806030273438E-004
+ SolveSys:  0.19733595848083496     
+ RHSForm:  1.17690563201904297E-002
+           0 KSPSolve  0.17845702171325684      its          24 norm  1.69209260133128189E-002 nvar       97920
+   FORM u,v,slh:  8.70227813720703125E-005
+   SYNC:  6.80923461914062500E-004
+ SolveSys:  0.17930102348327637     
+ RHSForm:  1.10261440277099609E-002
+           0 KSPSolve  0.18681001663208008      its          25 norm  1.69095513159808510E-002 nvar       97920
+   FORM u,v,slh:  9.01222229003906250E-005
+   SYNC:  9.36031341552734375E-004
+ SolveSys:  0.18790793418884277     
+ RHSForm:  1.20961666107177734E-002
+           0 KSPSolve  0.18200302124023438      its          24 norm  1.75887159763966870E-002 nvar       97920
+   FORM u,v,slh:  1.04904174804687500E-004
+   SYNC:  5.74111938476562500E-004
+ SolveSys:  0.18322896957397461     
+ RHSForm:  8.99815559387207031E-003
+           0 KSPSolve  0.19630813598632813      its          25 norm  1.75765628264517235E-002 nvar       97920
+   FORM u,v,slh:  9.48905944824218750E-005
+   SYNC:  9.30070877075195313E-004
+ SolveSys:  0.19740796089172363     
+ RHSForm:  1.56919956207275391E-002
+           0 KSPSolve  0.19400906562805176      its          24 norm  1.82902532730294179E-002 nvar       97920
+   FORM u,v,slh:  9.51290130615234375E-005
+   SYNC:  9.06944274902343750E-004
+ SolveSys:  0.19510102272033691     
+  WRITE XY-DATA: REC=       1
+   MODEL TIME: 08:00:00  04JAN2013;  DAY IN YEAR:004,  DAY IN 4YRS:0004
+ OUTPUT DATA to E/XY/sl.dat
+ XY_OUT:  2.58259773254394531E-002
+ RHSForm:  1.90858840942382813E-002
+           0 KSPSolve  0.19626116752624512      its          25 norm  1.82781790722428110E-002 nvar       97920
+   FORM u,v,slh:  1.78098678588867188E-004
+   SYNC:  9.32216644287109375E-004
+ SolveSys:  0.19748997688293457     
+ RHSForm:  1.42858028411865234E-002
+           0 KSPSolve  0.17833209037780762      its          24 norm  1.90239973861756687E-002 nvar       97920
+   FORM u,v,slh:  9.10758972167968750E-005
+   SYNC:  9.57012176513671875E-004
+ SolveSys:  0.17944908142089844     
+ RHSForm:  1.17220878601074219E-002
+           0 KSPSolve  0.18285298347473145      its          24 norm  1.98492153854353121E-002 nvar       97920
+   FORM u,v,slh:  9.29832458496093750E-005
+   SYNC:  1.05094909667968750E-003
+ SolveSys:  0.18406581878662109     
+ RHSForm:  1.26261711120605469E-002
+           0 KSPSolve  0.18652296066284180      its          25 norm  1.95583967811659397E-002 nvar       97920
+   FORM u,v,slh:  1.02043151855468750E-004
+   SYNC:  8.84056091308593750E-004
+ SolveSys:  0.18757700920104980     
+ RHSForm:  1.19581222534179688E-002
+           0 KSPSolve  0.18417382240295410      its          24 norm  2.02121218071585930E-002 nvar       97920
+   FORM u,v,slh:  1.23977661132812500E-004
+   SYNC:  6.07013702392578125E-004
+ SolveSys:  0.18522214889526367     
+ RHSForm:  1.10111236572265625E-002
+           0 KSPSolve  0.17481422424316406      its          24 norm  2.10544754345723846E-002 nvar       97920
+   FORM u,v,slh:  8.89301300048828125E-005
+   SYNC:  5.64813613891601563E-004
+ SolveSys:  0.17579603195190430     
+ RHSForm:  1.03440284729003906E-002
+           0 KSPSolve  0.17411589622497559      its          24 norm  2.16483290160713951E-002 nvar       97920
+   FORM u,v,slh:  6.00814819335937500E-005
+   SYNC:  9.72032546997070313E-004
+ SolveSys:  0.17535281181335449     
+ RHSForm:  1.11479759216308594E-002
+           0 KSPSolve  0.16673612594604492      its          24 norm  2.21478083021017375E-002 nvar       97920
+   FORM u,v,slh:  9.60826873779296875E-005
+   SYNC:  6.82115554809570313E-004
+ SolveSys:  0.16758298873901367     
+ RHSForm:  1.08551979064941406E-002
+           0 KSPSolve  0.17893886566162109      its          24 norm  2.26151089414567200E-002 nvar       97920
+   FORM u,v,slh:  1.02043151855468750E-004
+   SYNC:  8.38041305541992188E-004
+ SolveSys:  0.17994999885559082     
+ RHSForm:  1.13987922668457031E-002
+           0 KSPSolve  0.18510413169860840      its          24 norm  2.30551584682483907E-002 nvar       97920
+   FORM u,v,slh:  8.29696655273437500E-005
+   SYNC:  8.28027725219726563E-004
+ SolveSys:  0.18609404563903809     
+  WRITE XY-DATA: REC=       2
+   MODEL TIME: 13:00:00  04JAN2013;  DAY IN YEAR:004,  DAY IN 4YRS:0004
+ OUTPUT DATA to E/XY/sl.dat
+ XY_OUT:  2.98860073089599609E-002
+ RHSForm:  1.84071063995361328E-002
+           0 KSPSolve  0.18426513671875000      its          24 norm  2.34899641677231291E-002 nvar       97920
+   FORM u,v,slh:  1.80006027221679688E-004
+   SYNC:  1.36995315551757813E-003
+ SolveSys:  0.18593001365661621     
+ RHSForm:  1.12128257751464844E-002
+           0 KSPSolve  0.17281794548034668      its          24 norm  2.39351608648926094E-002 nvar       97920
+   FORM u,v,slh:  8.89301300048828125E-005
+   SYNC:  4.21047210693359375E-004
+ SolveSys:  0.17339491844177246     
+ RHSForm:  1.14328861236572266E-002
+           0 KSPSolve  0.18372511863708496      its          24 norm  2.43973465087387632E-002 nvar       97920
+   FORM u,v,slh:  8.70227813720703125E-005
+   SYNC:  1.05285644531250000E-003
+ SolveSys:  0.18495893478393555     
+ RHSForm:  1.12390518188476563E-002
+           0 KSPSolve  0.17968606948852539      its          24 norm  2.48771986077425990E-002 nvar       97920
+   FORM u,v,slh:  9.10758972167968750E-005
+   SYNC:  5.73873519897460938E-004
+ SolveSys:  0.18042206764221191     
+ RHSForm:  1.33399963378906250E-002
+           0 KSPSolve  0.18299913406372070      its          24 norm  2.53727176935466120E-002 nvar       97920
+   FORM u,v,slh:  7.89165496826171875E-005
+   SYNC:  6.84976577758789063E-004
+ SolveSys:  0.18387413024902344     
+ RHSForm:  1.50008201599121094E-002
+           0 KSPSolve  0.19097805023193359      its          24 norm  2.58814239294138868E-002 nvar       97920
+   FORM u,v,slh:  2.11954116821289063E-004
+   SYNC:  1.20711326599121094E-003
+ SolveSys:  0.19261789321899414     
+ RHSForm:  1.40249729156494141E-002
+           0 KSPSolve  0.18789696693420410      its          24 norm  2.64014014480771046E-002 nvar       97920
+   FORM u,v,slh:  8.89301300048828125E-005
+   SYNC:  5.03063201904296875E-004
+ SolveSys:  0.18855404853820801     
+ RHSForm:  1.39319896697998047E-002
+           0 KSPSolve  0.18272900581359863      its          24 norm  2.69314966561303715E-002 nvar       97920
+   FORM u,v,slh:  9.20295715332031250E-005
+   SYNC:  8.44955444335937500E-004
+ SolveSys:  0.18375086784362793     
+ RHSForm:  1.26540660858154297E-002
+           0 KSPSolve  0.17473387718200684      its          24 norm  2.74711782887043579E-002 nvar       97920
+   FORM u,v,slh:  8.41617584228515625E-005
+   SYNC:  7.61985778808593750E-004
+ SolveSys:  0.17566180229187012     
+ RHSForm:  1.29890441894531250E-002
+           0 KSPSolve  0.17965102195739746      its          24 norm  2.80203721342770669E-002 nvar       97920
+   FORM u,v,slh:  9.48905944824218750E-005
+   SYNC:  8.05854797363281250E-004
+ SolveSys:  0.18062090873718262     
+  WRITE XY-DATA: REC=       3
+   MODEL TIME: 18:00:00  04JAN2013;  DAY IN YEAR:004,  DAY IN 4YRS:0004
+ OUTPUT DATA to E/XY/sl.dat
+ XY_OUT:  2.71561145782470703E-002
+ RHSForm:  1.76339149475097656E-002
+           0 KSPSolve  0.18375110626220703      its          24 norm  2.85793616210401995E-002 nvar       97920
+   FORM u,v,slh:  8.39233398437500000E-005
+   SYNC:  1.15299224853515625E-003
+ SolveSys:  0.18507099151611328     
+ RHSForm:  1.34038925170898438E-002
+           0 KSPSolve  0.17772293090820313      its          24 norm  2.91487241664349639E-002 nvar       97920
+   FORM u,v,slh:  1.02043151855468750E-004
+   SYNC:  3.70979309082031250E-004
+ SolveSys:  0.17826914787292480     
+ RHSForm:  1.18150711059570313E-002
+           0 KSPSolve  0.18179893493652344      its          24 norm  2.97292542378308211E-002 nvar       97920
+   FORM u,v,slh:  8.20159912109375000E-005
+   SYNC:  5.04970550537109375E-004
+ SolveSys:  0.18253803253173828     
+ RHSForm:  1.14588737487792969E-002
+           0 KSPSolve  0.18177390098571777      its          24 norm  3.03218549896797467E-002 nvar       97920
+   FORM u,v,slh:  8.48770141601562500E-005
+   SYNC:  9.89913940429687500E-004
+ SolveSys:  0.18291592597961426     
+ RHSForm:  1.16839408874511719E-002
+           0 KSPSolve  0.18530488014221191      its          24 norm  3.09274137621436615E-002 nvar       97920
+   FORM u,v,slh:  1.20162963867187500E-004
+   SYNC:  3.98874282836914063E-004
+ SolveSys:  0.18590497970581055     
+ RHSForm:  1.41239166259765625E-002
+           0 KSPSolve  0.17974400520324707      its          24 norm  3.15466918385655729E-002 nvar       97920
+   FORM u,v,slh:  8.89301300048828125E-005
+   SYNC:  7.90834426879882813E-004
+ SolveSys:  0.18071699142456055     
+ RHSForm:  1.10709667205810547E-002
+           0 KSPSolve  0.18824315071105957      its          24 norm  3.21802557328617692E-002 nvar       97920
+   FORM u,v,slh:  1.08003616333007813E-004
+   SYNC:  7.46965408325195313E-004
+ SolveSys:  0.18916797637939453     
+ RHSForm:  1.12891197204589844E-002
+           0 KSPSolve  0.18936491012573242      its          24 norm  3.28284632182724995E-002 nvar       97920
+   FORM u,v,slh:  1.01089477539062500E-004
+   SYNC:  7.66038894653320313E-004
+ SolveSys:  0.19030594825744629     
+ RHSForm:  1.23400688171386719E-002
+           0 KSPSolve  0.18066310882568359      its          24 norm  3.34915000051713777E-002 nvar       97920
+   FORM u,v,slh:  1.19924545288085938E-004
+   SYNC:  5.19990921020507813E-004
+ SolveSys:  0.18190598487854004     
+ RHSForm:  1.15048885345458984E-002
+           0 KSPSolve  0.18362903594970703      its          24 norm  3.41694489156531556E-002 nvar       97920
+   FORM u,v,slh:  9.60826873779296875E-005
+   SYNC:  3.86953353881835938E-004
+ SolveSys:  0.18418693542480469     
+  WRITE XY-DATA: REC=       4
+   MODEL TIME: 23:00:00  04JAN2013;  DAY IN YEAR:004,  DAY IN 4YRS:0004
+ OUTPUT DATA to E/XY/sl.dat
+ XY_OUT:  2.79109477996826172E-002
+ RHSForm:  1.97799205780029297E-002
+           0 KSPSolve  0.18204593658447266      its          24 norm  3.48623670008418596E-002 nvar       97920
+   FORM u,v,slh:  2.05993652343750000E-004
+   SYNC:  9.42945480346679688E-004
+ SolveSys:  0.18334698677062988     
+ RHSForm:  1.11098289489746094E-002
+           0 KSPSolve  0.17966818809509277      its          23 norm  3.73754198160869619E-002 nvar       97920
+   FORM u,v,slh:  1.13010406494140625E-004
+   SYNC:  7.88927078247070313E-004
+ SolveSys:  0.18070316314697266     
+ RHSForm:  1.39641761779785156E-002
+           0 KSPSolve  0.18049788475036621      its          24 norm  3.75536187055986181E-002 nvar       97920
+   FORM u,v,slh:  9.41753387451171875E-005
+   SYNC:  8.87870788574218750E-004
+ SolveSys:  0.18154692649841309     
+ RHSForm:  9.72700119018554688E-003
+           0 KSPSolve  0.18730688095092773      its          24 norm  3.75394376771439955E-002 nvar       97920
+   FORM u,v,slh:  1.03950500488281250E-004
+   SYNC:  5.81026077270507813E-004
+ SolveSys:  0.18812084197998047     
+ RHSForm:  1.13179683685302734E-002
+           0 KSPSolve  0.17312407493591309      its          23 norm  3.98527395806406101E-002 nvar       97920
+   FORM u,v,slh:  9.41753387451171875E-005
+   SYNC:  5.73873519897460938E-004
+ SolveSys:  0.17385983467102051     
+ RHSForm:  1.11629962921142578E-002
+           0 KSPSolve  0.17456007003784180      its          24 norm  3.98990717255953004E-002 nvar       97920
+   FORM u,v,slh:  7.20024108886718750E-005
+   SYNC:  6.80923461914062500E-004
+ SolveSys:  0.17551803588867188     
+ RHSForm:  1.10018253326416016E-002
+           0 KSPSolve  0.18485593795776367      its          24 norm  3.98012011627833437E-002 nvar       97920
+   FORM u,v,slh:  1.27792358398437500E-004
+   SYNC:  4.79936599731445313E-004
+ SolveSys:  0.18563079833984375     
+ RHSForm:  1.10991001129150391E-002
+           0 KSPSolve  0.17218804359436035      its          23 norm  4.22534844543893118E-002 nvar       97920
+   FORM u,v,slh:  1.13964080810546875E-004
+   SYNC:  1.14202499389648438E-003
+ SolveSys:  0.17351508140563965     
+ RHSForm:  1.01339817047119141E-002
+           0 KSPSolve  0.17711019515991211      its          24 norm  4.23152901150854535E-002 nvar       97920
+   FORM u,v,slh:  8.20159912109375000E-005
+   SYNC:  8.33034515380859375E-004
+ SolveSys:  0.17810201644897461     
+ RHSForm:  1.44431591033935547E-002
+           0 KSPSolve  0.16672110557556152      its          23 norm  4.43931981798010092E-002 nvar       97920
+   FORM u,v,slh:  9.79900360107421875E-005
+   SYNC:  4.83036041259765625E-004
+ SolveSys:  0.16736698150634766     
+  WRITE XY-DATA: REC=       4
+   MODEL TIME: 04:00:00  05JAN2013;  DAY IN YEAR:005,  DAY IN 4YRS:0005
+ OUTPUT DATA to E/XY/sl.dat
+ XY_OUT:  2.98399925231933594E-002
+ RHSForm:  2.16720104217529297E-002
+           0 KSPSolve  0.17640495300292969      its          24 norm  4.43003819260311058E-002 nvar       97920
+   FORM u,v,slh:  1.89065933227539063E-004
+   SYNC:  1.62696838378906250E-003
+ SolveSys:  0.17831301689147949     
+ RHSForm:  1.15828514099121094E-002
+           0 KSPSolve  0.16835403442382813      its          23 norm  4.63507536684625923E-002 nvar       97920
+   FORM u,v,slh:  8.89301300048828125E-005
+   SYNC:  1.06120109558105469E-003
+ SolveSys:  0.16957187652587891     
+ RHSForm:  1.26559734344482422E-002
+           0 KSPSolve  0.17717099189758301      its          24 norm  4.61520693307112956E-002 nvar       97920
+   FORM u,v,slh:  1.16109848022460938E-004
+   SYNC:  6.17027282714843750E-004
+ SolveSys:  0.17806100845336914     
+ RHSForm:  1.10700130462646484E-002
+           0 KSPSolve  0.17419815063476563      its          23 norm  4.82468350102475060E-002 nvar       97920
+   FORM u,v,slh:  1.33991241455078125E-004
+   SYNC:  4.68015670776367188E-004
+ SolveSys:  0.17486619949340820     
+ RHSForm:  1.18420124053955078E-002
+           0 KSPSolve  0.17959690093994141      its          24 norm  4.80253016101694560E-002 nvar       97920
+   FORM u,v,slh:  1.04904174804687500E-004
+   SYNC:  5.50985336303710938E-004
+ SolveSys:  0.18042397499084473     
+ RHSForm:  1.35810375213623047E-002
+           0 KSPSolve  0.16547608375549316      its          23 norm  5.02239758144155182E-002 nvar       97920
+   FORM u,v,slh:  8.01086425781250000E-005
+   SYNC:  1.06310844421386719E-003
+ SolveSys:  0.16669106483459473     
+ RHSForm:  1.11389160156250000E-002
+           0 KSPSolve  0.17599582672119141      its          24 norm  5.00022363762886585E-002 nvar       97920
+   FORM u,v,slh:  9.10758972167968750E-005
+   SYNC:  6.02960586547851563E-004
+ SolveSys:  0.17675590515136719     
+ RHSForm:  1.01599693298339844E-002
+           0 KSPSolve  0.16405916213989258      its          23 norm  5.23124013247015796E-002 nvar       97920
+   FORM u,v,slh:  8.20159912109375000E-005
+   SYNC:  8.03947448730468750E-004
+ SolveSys:  0.16502308845520020     
+ RHSForm:  1.08349323272705078E-002
+           0 KSPSolve  0.18505597114562988      its          24 norm  5.20858545126708233E-002 nvar       97920
+   FORM u,v,slh:  8.70227813720703125E-005
+   SYNC:  9.98973846435546875E-004
+ SolveSys:  0.18621277809143066     
+ RHSForm:  1.32298469543457031E-002
+           0 KSPSolve  0.17498016357421875      its          23 norm  5.45046914070065960E-002 nvar       97920
+   FORM u,v,slh:  8.10623168945312500E-005
+   SYNC:  6.36100769042968750E-004
+ SolveSys:  0.17577314376831055     
+  WRITE XY-DATA: REC=       1
+   MODEL TIME: 09:00:00  05JAN2013;  DAY IN YEAR:005,  DAY IN 4YRS:0005
+ OUTPUT DATA to E/XY/sl.dat
+ XY_OUT:  2.74949073791503906E-002
+ RHSForm:  1.73161029815673828E-002
+           0 KSPSolve  0.18334007263183594      its          24 norm  5.42684583246322086E-002 nvar       97920
+   FORM u,v,slh:  1.93119049072265625E-004
+   SYNC:  9.92059707641601563E-004
+ SolveSys:  0.18461680412292480     
+ RHSForm:  1.31931304931640625E-002
+           0 KSPSolve  0.16169500350952148      its          23 norm  5.67977344120616928E-002 nvar       97920
+   FORM u,v,slh:  9.20295715332031250E-005
+   SYNC:  7.20977783203125000E-004
+ SolveSys:  0.16259813308715820     
+ RHSForm:  1.13339424133300781E-002
+           0 KSPSolve  0.17785501480102539      its          24 norm  5.65497790765134636E-002 nvar       97920
+   FORM u,v,slh:  8.39233398437500000E-005
+   SYNC:  1.04713439941406250E-003
+ SolveSys:  0.17905497550964355     
+ RHSForm:  1.26130580902099609E-002
+           0 KSPSolve  0.16545200347900391      its          23 norm  5.91933278690977213E-002 nvar       97920
+   FORM u,v,slh:  9.01222229003906250E-005
+   SYNC:  9.50098037719726563E-004
+ SolveSys:  0.16656208038330078     
+ RHSForm:  1.59418582916259766E-002
+           0 KSPSolve  0.18821501731872559      its          24 norm  5.89324098881981312E-002 nvar       97920
+   FORM u,v,slh:  1.01089477539062500E-004
+   SYNC:  8.09907913208007813E-004
+ SolveSys:  0.18919992446899414     
+ RHSForm:  1.14018917083740234E-002
+           0 KSPSolve  0.17345404624938965      its          23 norm  6.16951601430542132E-002 nvar       97920
+   FORM u,v,slh:  1.23977661132812500E-004
+   SYNC:  5.97000122070312500E-004
+ SolveSys:  0.17424201965332031     
+ RHSForm:  1.53629779815673828E-002
+           0 KSPSolve  0.16646885871887207      its          24 norm  6.14213636135205257E-002 nvar       97920
+   FORM u,v,slh:  8.60691070556640625E-005
+   SYNC:  5.74111938476562500E-004
+ SolveSys:  0.16729187965393066     
+ RHSForm:  9.96804237365722656E-003
+           0 KSPSolve  0.16637301445007324      its          23 norm  6.43099698622114219E-002 nvar       97920
+   FORM u,v,slh:  7.41481781005859375E-005
+   SYNC:  6.42061233520507813E-004
+ SolveSys:  0.16722106933593750     
+ RHSForm:  1.07381343841552734E-002
+           0 KSPSolve  0.18278598785400391      its          24 norm  6.40246497517432817E-002 nvar       97920
+   FORM u,v,slh:  1.33037567138671875E-004
+   SYNC:  5.93185424804687500E-004
+ SolveSys:  0.18357801437377930     
+ RHSForm:  1.17249488830566406E-002
+           0 KSPSolve  0.16975808143615723      its          23 norm  6.70464533206230617E-002 nvar       97920
+   FORM u,v,slh:  8.79764556884765625E-005
+   SYNC:  7.04050064086914063E-004
+ SolveSys:  0.17062520980834961     
+  WRITE XY-DATA: REC=       2
+   MODEL TIME: 14:00:00  05JAN2013;  DAY IN YEAR:005,  DAY IN 4YRS:0005
+ OUTPUT DATA to E/XY/sl.dat
+ XY_OUT:  2.79951095581054688E-002
+ RHSForm:  1.85430049896240234E-002
+           0 KSPSolve  0.18529796600341797      its          24 norm  6.67506066264836884E-002 nvar       97920
+   FORM u,v,slh:  2.16007232666015625E-004
+   SYNC:  1.01900100708007813E-003
+ SolveSys:  0.18662500381469727     
+ RHSForm:  1.33228302001953125E-002
+           0 KSPSolve  0.16501307487487793      its          23 norm  6.99119477342989015E-002 nvar       97920
+   FORM u,v,slh:  8.70227813720703125E-005
+   SYNC:  6.03199005126953125E-004
+ SolveSys:  0.16577196121215820     
+ RHSForm:  1.22060775756835938E-002
+           0 KSPSolve  0.16196203231811523      its          23 norm  7.34288308671294798E-002 nvar       97920
+   FORM u,v,slh:  8.60691070556640625E-005
+   SYNC:  1.05786323547363281E-003
+ SolveSys:  0.16326189041137695     
+ RHSForm:  1.19190216064453125E-002
+           0 KSPSolve  0.18263888359069824      its          24 norm  7.18688221128355037E-002 nvar       97920
+   FORM u,v,slh:  7.89165496826171875E-005
+   SYNC:  9.93013381958007813E-004
+ SolveSys:  0.18378281593322754     
+ RHSForm:  1.67868137359619141E-002
+           0 KSPSolve  0.17354393005371094      its          23 norm  7.46262432288599120E-002 nvar       97920
+   FORM u,v,slh:  9.08374786376953125E-005
+   SYNC:  9.32931900024414063E-004
+ SolveSys:  0.17463493347167969     
+ RHSForm:  1.13499164581298828E-002
+           0 KSPSolve  0.17806315422058105      its          23 norm  7.82461175998567932E-002 nvar       97920
+   FORM u,v,slh:  8.60691070556640625E-005
+   SYNC:  3.80992889404296875E-004
+ SolveSys:  0.17864704132080078     
+ RHSForm:  1.33638381958007813E-002
+           0 KSPSolve  0.17573904991149902      its          24 norm  7.64665375665437436E-002 nvar       97920
+   FORM u,v,slh:  7.20024108886718750E-005
+   SYNC:  8.02993774414062500E-004
+ SolveSys:  0.17673993110656738     
+ RHSForm:  9.66095924377441406E-003
+           0 KSPSolve  0.17040109634399414      its          23 norm  7.93721768484262485E-002 nvar       97920
+   FORM u,v,slh:  5.12123107910156250E-004
+   SYNC:  7.03811645507812500E-004
+ SolveSys:  0.17184996604919434     
+ RHSForm:  1.29690170288085938E-002
+           0 KSPSolve  0.16993188858032227      its          23 norm  8.32462939207616465E-002 nvar       97920
+   FORM u,v,slh:  8.70227813720703125E-005
+   SYNC:  7.15017318725585938E-004
+ SolveSys:  0.17080593109130859     
+ RHSForm:  1.15602016448974609E-002
+           0 KSPSolve  0.17916893959045410      its          24 norm  8.13782513145771685E-002 nvar       97920
+   FORM u,v,slh:  9.48905944824218750E-005
+   SYNC:  1.30510330200195313E-003
+ SolveSys:  0.18063092231750488     
+  WRITE XY-DATA: REC=       3
+   MODEL TIME: 19:00:00  05JAN2013;  DAY IN YEAR:005,  DAY IN 4YRS:0005
+ OUTPUT DATA to E/XY/sl.dat
+ XY_OUT:  2.73790359497070313E-002
+ RHSForm:  1.73609256744384766E-002
+           0 KSPSolve  0.17426300048828125      its          23 norm  8.45273073207164771E-002 nvar       97920
+   FORM u,v,slh:  8.98838043212890625E-005
+   SYNC:  1.60908699035644531E-003
+ SolveSys:  0.17603087425231934     
+ RHSForm:  1.40199661254882813E-002
+           0 KSPSolve  0.17353296279907227      its          23 norm  8.86990059382452151E-002 nvar       97920
+   FORM u,v,slh:  8.39233398437500000E-005
+   SYNC:  9.27209854125976563E-004
+ SolveSys:  0.17461705207824707     
+ RHSForm:  1.11598968505859375E-002
+           0 KSPSolve  0.17819404602050781      its          24 norm  8.67230527446603561E-002 nvar       97920
+   FORM u,v,slh:  8.29696655273437500E-005
+   SYNC:  4.87089157104492188E-004
+ SolveSys:  0.17888808250427246     
+ RHSForm:  1.05650424957275391E-002
+           0 KSPSolve  0.17044687271118164      its          23 norm  9.00943418687676773E-002 nvar       97920
+   FORM u,v,slh:  8.58306884765625000E-005
+   SYNC:  7.40766525268554688E-004
+ SolveSys:  0.17135787010192871     
+ RHSForm:  1.16980075836181641E-002
+           0 KSPSolve  0.17139983177185059      its          23 norm  9.45509330170147683E-002 nvar       97920
+   FORM u,v,slh:  9.48905944824218750E-005
+   SYNC:  5.67197799682617188E-004
+ SolveSys:  0.17212605476379395     
+ RHSForm:  1.28901004791259766E-002
+           0 KSPSolve  0.17497086524963379      its          24 norm  9.24360474865661697E-002 nvar       97920
+   FORM u,v,slh:  7.98702239990234375E-005
+   SYNC:  9.21964645385742188E-004
+ SolveSys:  0.17605590820312500     
+ RHSForm:  1.69920921325683594E-002
+           0 KSPSolve  0.17119407653808594      its          23 norm  9.60274316858243937E-002 nvar       97920
+   FORM u,v,slh:  7.60555267333984375E-005
+   SYNC:  1.82700157165527344E-003
+ SolveSys:  0.17327308654785156     
+ RHSForm:  1.20921134948730469E-002
+           0 KSPSolve  0.16978597640991211      its          23 norm  0.10077792167178844      nvar       97920
+   FORM u,v,slh:  7.20024108886718750E-005
+   SYNC:  1.01089477539062500E-003
+ SolveSys:  0.17102289199829102     
+ RHSForm:  1.11479759216308594E-002
+           0 KSPSolve  0.18063306808471680      its          24 norm  9.85107738818624123E-002 nvar       97920
+   FORM u,v,slh:  8.79764556884765625E-005
+   SYNC:  8.68082046508789063E-004
+ SolveSys:  0.18165993690490723     
+ RHSForm:  1.33979320526123047E-002
+           0 KSPSolve  0.17533493041992188      its          23 norm  0.10234028382253818      nvar       97920
+   FORM u,v,slh:  9.39369201660156250E-005
+   SYNC:  8.41856002807617188E-004
+ SolveSys:  0.17633986473083496     
+  WRITE XY-DATA: REC=       4
+   MODEL TIME: 24:00:00  05JAN2013;  DAY IN YEAR:005,  DAY IN 4YRS:0005
+  ELAPSED DAY:   1; TIME:  0: 1:13, 8
+  ELAPSED DAY:   1; TIME:  0: 0:42,69
+  ELAPSED DAY:   1; TIME:  0: 0:57,14
+  ELAPSED DAY:   1; TIME:  0: 0:54,43
+  ELAPSED DAY:   1; TIME:  0: 0:45,27
+  ELAPSED DAY:   1; TIME:  0: 0:44,80
+  ELAPSED DAY:   1; TIME:  0: 1: 2,93
+  ELAPSED DAY:   1; TIME:  0: 1: 3,39
+  ELAPSED DAY:   1; TIME:  0: 0:46,58
+ OUTPUT DATA to E/XY/sl.dat
+  ELAPSED DAY:   1; TIME:  0: 0:54,81
+  ELAPSED DAY:   1; TIME:  0: 0:55,28
+  ELAPSED DAY:   1; TIME:  0: 0:44,68
+  ELAPSED DAY:   1; TIME:  0: 0:43,91
+ XY_OUT:  3.01878452301025391E-002
+  ELAPSED DAY:   1; TIME:  0: 0:45,80
+ 
+END OF TIME INTEGRATION OF OCEAN MODEL
+ 
+ TIME GLOBAL:   146.50141215324402     
+  ELAPSED DAY:   1; TIME:  0: 0:46,28
+  ELAPSED DAY:   1; TIME:  0: 1:12,61

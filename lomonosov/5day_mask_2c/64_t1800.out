@@ -1,0 +1,2105 @@
+
+  START DAY:   1; TIME:  0: 0: 0,28
+[2]PETSC ERROR: --------------------- Error Message --------------------------------------------------------------
+[1]PETSC ERROR: --------------------- Error Message --------------------------------------------------------------
+[1]PETSC ERROR: Argument out of range
+[1]PETSC ERROR: Column too large: col 808464432 max 97919
+[1]PETSC ERROR: See http://www.mcs.anl.gov/petsc/documentation/faq.html for trouble shooting.
+[1]PETSC ERROR: [51]PETSC ERROR: --------------------- Error Message --------------------------------------------------------------
+[2]PETSC ERROR: Argument out of range
+[2]PETSC ERROR: Column too large: col 808464432 max 97919
+[2]PETSC ERROR: See http://www.mcs.anl.gov/petsc/documentation/faq.html for trouble shooting.
+[2]PETSC ERROR: Petsc Release Version 3.7.4, unknown 
+[2]PETSC ERROR: ./octask on a arch-linux2-c-debug named node1-128-01 by achaplygin99_607 Tue Nov 22 15:47:28 2016
+[2]PETSC ERROR: Configure options --with-cc=gcc --with-cxx=g++ --with-fc=gfortran --download-fblaslapack --download-mpich
+[2]PETSC ERROR: #1 MatSetValues_MPIAIJ() line 585 in /mnt/data/users/dm4/vol12/achaplygin99_607/petsc/src/mat/impls/aij/mpi/mpiaij.c
+[52]PETSC ERROR: [3]PETSC ERROR: --------------------- Error Message --------------------------------------------------------------
+[42]PETSC ERROR: --------------------- Error Message --------------------------------------------------------------
+[53]PETSC ERROR: --------------------- Error Message --------------------------------------------------------------
+[53]PETSC ERROR: Argument out of range
+[53]PETSC ERROR: Column too large: col 808464432 max 97919
+[53]PETSC ERROR: See http://www.mcs.anl.gov/petsc/documentation/faq.html for trouble shooting.
+[53]PETSC ERROR: Petsc Release Version 3.7.4, unknown 
+[53]PETSC ERROR: ./octask on a arch-linux2-c-debug named node1-128-09 by achaplygin99_607 Tue Nov 22 15:47:28 2016
+[53]PETSC ERROR: Configure options --with-cc=gcc --with-cxx=g++ --with-fc=gfortran --download-fblaslapack --download-mpich
+[53]PETSC ERROR: [28]PETSC ERROR: [4]PETSC ERROR: --------------------- Error Message --------------------------------------------------------------
+[4]PETSC ERROR: Argument out of range
+[4]PETSC ERROR: Column too large: col 808464432 max 97919
+[4]PETSC ERROR: See http://www.mcs.anl.gov/petsc/documentation/faq.html for trouble shooting.
+[47]PETSC ERROR: --------------------- Error Message --------------------------------------------------------------
+[51]PETSC ERROR: Argument out of range
+[51]PETSC ERROR: Column too large: col 808464432 max 97919
+[51]PETSC ERROR: See http://www.mcs.anl.gov/petsc/documentation/faq.html for trouble shooting.
+[51]PETSC ERROR: Petsc Release Version 3.7.4, unknown 
+[51]PETSC ERROR: ./octask on a arch-linux2-c-debug named node1-128-09 by achaplygin99_607 Tue Nov 22 15:47:28 2016
+[51]PETSC ERROR: Configure options --with-cc=gcc --with-cxx=g++ --with-fc=gfortran --download-fblaslapack --download-mpich
+[51]PETSC ERROR: [31]PETSC ERROR: --------------------- Error Message --------------------------------------------------------------
+[31]PETSC ERROR: Argument out of range
+[31]PETSC ERROR: Column too large: col 808464432 max 97919
+[9]PETSC ERROR: --------------------- Error Message --------------------------------------------------------------
+[5]PETSC ERROR: --------------------- Error Message --------------------------------------------------------------
+[5]PETSC ERROR: Argument out of range
+[5]PETSC ERROR: Column too large: col 808464432 max 97919
+[33]PETSC ERROR: --------------------- Error Message --------------------------------------------------------------
+[41]PETSC ERROR: --------------------- Error Message --------------------------------------------------------------
+#1 MatSetValues_MPIAIJ() line 585 in /mnt/data/users/dm4/vol12/achaplygin99_607/petsc/src/mat/impls/aij/mpi/mpiaij.c
+[53]PETSC ERROR: #2 MatSetValues() line 1190 in /mnt/data/users/dm4/vol12/achaplygin99_607/petsc/src/mat/interface/matrix.c
+[25]PETSC ERROR: --------------------- Error Message --------------------------------------------------------------
+[11]PETSC ERROR: --------------------- Error Message --------------------------------------------------------------
+[11]PETSC ERROR: [6]PETSC ERROR: --------------------- Error Message --------------------------------------------------------------
+[6]PETSC ERROR: Argument out of range
+[6]PETSC ERROR: Column too large: col 808464432 max 97919
+[6]PETSC ERROR: See http://www.mcs.anl.gov/petsc/documentation/faq.html for trouble shooting.
+[6]PETSC ERROR: Petsc Release Version 3.7.4, unknown 
+[6]PETSC ERROR: ./octask on a arch-linux2-c-debug named node1-128-01 by achaplygin99_607 Tue Nov 22 15:47:28 2016
+[6]PETSC ERROR: Configure options --with-cc=gcc --with-cxx=g++ --with-fc=gfortran --download-fblaslapack --download-mpich
+[6]PETSC ERROR: [34]PETSC ERROR: --------------------- Error Message --------------------------------------------------------------
+[42]PETSC ERROR: Argument out of range
+[42]PETSC ERROR: Column too large: col 808464432 max 97919
+[42]PETSC ERROR: See http://www.mcs.anl.gov/petsc/documentation/faq.html for trouble shooting.
+[42]PETSC ERROR: Petsc Release Version 3.7.4, unknown 
+[42]PETSC ERROR: ./octask on a arch-linux2-c-debug named node1-128-06 by achaplygin99_607 Tue Nov 22 15:47:28 2016
+[42]PETSC ERROR: Configure options --with-cc=gcc --with-cxx=g++ --with-fc=gfortran --download-fblaslapack --download-mpich
+[42]PETSC ERROR: #1 MatSetValues_MPIAIJ() line 585 in /mnt/data/users/dm4/vol12/achaplygin99_607/petsc/src/mat/impls/aij/mpi/mpiaij.c
+[42]PETSC ERROR: #2 MatSetValues() line 1190 in /mnt/data/users/dm4/vol12/achaplygin99_607/petsc/src/mat/interface/matrix.c
+[54]PETSC ERROR: --------------------- Error Message --------------------------------------------------------------
+[54]PETSC ERROR: Argument out of range
+[54]PETSC ERROR: Column too large: col 808464432 max 97919
+[54]PETSC ERROR: See http://www.mcs.anl.gov/petsc/documentation/faq.html for trouble shooting.
+[54]PETSC ERROR: Petsc Release Version 3.7.4, unknown 
+[54]PETSC ERROR: [26]PETSC ERROR: --------------------- Error Message --------------------------------------------------------------
+[26]PETSC ERROR: [14]PETSC ERROR: [18]PETSC ERROR: --------------------- Error Message --------------------------------------------------------------
+Petsc Release Version 3.7.4, unknown 
+[1]PETSC ERROR: ./octask on a arch-linux2-c-debug named node1-128-01 by achaplygin99_607 Tue Nov 22 15:47:28 2016
+[1]PETSC ERROR: Configure options --with-cc=gcc --with-cxx=g++ --with-fc=gfortran --download-fblaslapack --download-mpich
+[1]PETSC ERROR: #1 MatSetValues_MPIAIJ() line 585 in /mnt/data/users/dm4/vol12/achaplygin99_607/petsc/src/mat/impls/aij/mpi/mpiaij.c
+[1]PETSC ERROR: #2 MatSetValues() line 1190 in /mnt/data/users/dm4/vol12/achaplygin99_607/petsc/src/mat/interface/matrix.c
+[36]PETSC ERROR: --------------------- Error Message --------------------------------------------------------------
+[36]PETSC ERROR: [44]PETSC ERROR: --------------------- Error Message --------------------------------------------------------------
+[55]PETSC ERROR: --------------------- Error Message --------------------------------------------------------------
+[55]PETSC ERROR: Argument out of range
+[55]PETSC ERROR: Column too large: col 808464432 max 97919
+[55]PETSC ERROR: [27]PETSC ERROR: --------------------- Error Message --------------------------------------------------------------
+[27]PETSC ERROR: Argument out of range
+[27]PETSC ERROR: Column too large: col 808464432 max 97919
+[15]PETSC ERROR: --------------------- Error Message --------------------------------------------------------------
+[15]PETSC ERROR: Argument out of range
+[19]PETSC ERROR: --------------------- Error Message --------------------------------------------------------------
+[2]PETSC ERROR: #2 MatSetValues() line 1190 in /mnt/data/users/dm4/vol12/achaplygin99_607/petsc/src/mat/interface/matrix.c
+[37]PETSC ERROR: [45]PETSC ERROR: --------------------- Error Message --------------------------------------------------------------
+[50]PETSC ERROR: --------------------- Error Message --------------------------------------------------------------
+[50]PETSC ERROR: Argument out of range
+[50]PETSC ERROR: Column too large: col 808464432 max 97919
+[29]PETSC ERROR: --------------------- Error Message --------------------------------------------------------------
+[9]PETSC ERROR: Argument out of range
+[9]PETSC ERROR: Column too large: col 808464432 max 97919
+[9]PETSC ERROR: See http://www.mcs.anl.gov/petsc/documentation/faq.html for trouble shooting.
+[9]PETSC ERROR: [21]PETSC ERROR: --------------------- Error Message --------------------------------------------------------------
+[21]PETSC ERROR: Argument out of range
+[21]PETSC ERROR: Column too large: col 808464432 max 97919
+[21]PETSC ERROR: See http://www.mcs.anl.gov/petsc/documentation/faq.html for trouble shooting.
+[21]PETSC ERROR: Petsc Release Version 3.7.4, unknown 
+[3]PETSC ERROR: Argument out of range
+[3]PETSC ERROR: Column too large: col 808464432 max 97919
+[3]PETSC ERROR: See http://www.mcs.anl.gov/petsc/documentation/faq.html for trouble shooting.
+[3]PETSC ERROR: Petsc Release Version 3.7.4, unknown 
+[3]PETSC ERROR: ./octask on a arch-linux2-c-debug named node1-128-01 by achaplygin99_607 Tue Nov 22 15:47:28 2016
+[3]PETSC ERROR: Configure options --with-cc=gcc --with-cxx=g++ --with-fc=gfortran --download-fblaslapack --download-mpich
+[3]PETSC ERROR: #1 MatSetValues_MPIAIJ() line 585 in /mnt/data/users/dm4/vol12/achaplygin99_607/petsc/src/mat/impls/aij/mpi/mpiaij.c
+[3]PETSC ERROR: #2 MatSetValues() line 1190 in /mnt/data/users/dm4/vol12/achaplygin99_607/petsc/src/mat/interface/matrix.c
+[39]PETSC ERROR: --------------------- Error Message --------------------------------------------------------------
+[47]PETSC ERROR: Argument out of range
+[47]PETSC ERROR: Column too large: col 808464432 max 97919
+[47]PETSC ERROR: See http://www.mcs.anl.gov/petsc/documentation/faq.html for trouble shooting.
+[47]PETSC ERROR: Petsc Release Version 3.7.4, unknown 
+[47]PETSC ERROR: ./octask on a arch-linux2-c-debug named node1-128-06 by achaplygin99_607 Tue Nov 22 15:47:28 2016
+[47]PETSC ERROR: Configure options --with-cc=gcc --with-cxx=g++ --with-fc=gfortran --download-fblaslapack --download-mpich
+[47]PETSC ERROR: #1 MatSetValues_MPIAIJ() line 585 in /mnt/data/users/dm4/vol12/achaplygin99_607/petsc/src/mat/impls/aij/mpi/mpiaij.c
+[47]PETSC ERROR: #1 MatSetValues_MPIAIJ() line 585 in /mnt/data/users/dm4/vol12/achaplygin99_607/petsc/src/mat/impls/aij/mpi/mpiaij.c
+[51]PETSC ERROR: #2 MatSetValues() line 1190 in /mnt/data/users/dm4/vol12/achaplygin99_607/petsc/src/mat/interface/matrix.c
+[30]PETSC ERROR: --------------------- Error Message --------------------------------------------------------------
+[30]PETSC ERROR: Argument out of range
+[30]PETSC ERROR: Column too large: col 808464432 max 97919
+[30]PETSC ERROR: See http://www.mcs.anl.gov/petsc/documentation/faq.html for trouble shooting.
+[30]PETSC ERROR: Petsc Release Version 3.7.4, unknown 
+[30]PETSC ERROR: ./octask on a arch-linux2-c-debug named node1-128-04 by achaplygin99_607 Tue Nov 22 15:47:28 2016
+[30]PETSC ERROR: Configure options --with-cc=gcc --with-cxx=g++ --with-fc=gfortran --download-fblaslapack --download-mpich
+[30]PETSC ERROR: [10]PETSC ERROR: --------------------- Error Message --------------------------------------------------------------
+[18]PETSC ERROR: Argument out of range
+[18]PETSC ERROR: Column too large: col 808464432 max 97919
+[18]PETSC ERROR: See http://www.mcs.anl.gov/petsc/documentation/faq.html for trouble shooting.
+[18]PETSC ERROR: Petsc Release Version 3.7.4, unknown 
+[18]PETSC ERROR: [4]PETSC ERROR: Petsc Release Version 3.7.4, unknown 
+[4]PETSC ERROR: ./octask on a arch-linux2-c-debug named node1-128-01 by achaplygin99_607 Tue Nov 22 15:47:28 2016
+[4]PETSC ERROR: Configure options --with-cc=gcc --with-cxx=g++ --with-fc=gfortran --download-fblaslapack --download-mpich
+[4]PETSC ERROR: #1 MatSetValues_MPIAIJ() line 585 in /mnt/data/users/dm4/vol12/achaplygin99_607/petsc/src/mat/impls/aij/mpi/mpiaij.c
+[4]PETSC ERROR: #2 MatSetValues() line 1190 in /mnt/data/users/dm4/vol12/achaplygin99_607/petsc/src/mat/interface/matrix.c
+[33]PETSC ERROR: Argument out of range
+[33]PETSC ERROR: Column too large: col 808464432 max 97919
+[33]PETSC ERROR: See http://www.mcs.anl.gov/petsc/documentation/faq.html for trouble shooting.
+[33]PETSC ERROR: [41]PETSC ERROR: Argument out of range
+[41]PETSC ERROR: Column too large: col 808464432 max 97919
+[41]PETSC ERROR: See http://www.mcs.anl.gov/petsc/documentation/faq.html for trouble shooting.
+[41]PETSC ERROR: Petsc Release Version 3.7.4, unknown 
+[41]PETSC ERROR: ./octask on a arch-linux2-c-debug named node1-128-09 by achaplygin99_607 Tue Nov 22 15:47:28 2016
+[54]PETSC ERROR: Configure options --with-cc=gcc --with-cxx=g++ --with-fc=gfortran --download-fblaslapack --download-mpich
+[54]PETSC ERROR: #1 MatSetValues_MPIAIJ() line 585 in /mnt/data/users/dm4/vol12/achaplygin99_607/petsc/src/mat/impls/aij/mpi/mpiaij.c
+[31]PETSC ERROR: See http://www.mcs.anl.gov/petsc/documentation/faq.html for trouble shooting.
+[31]PETSC ERROR: Petsc Release Version 3.7.4, unknown 
+[31]PETSC ERROR: ./octask on a arch-linux2-c-debug named node1-128-04 by achaplygin99_607 Tue Nov 22 15:47:28 2016
+[31]PETSC ERROR: Configure options --with-cc=gcc --with-cxx=g++ --with-fc=gfortran --download-fblaslapack --download-mpich
+[31]PETSC ERROR: #1 MatSetValues_MPIAIJ() line 585 in /mnt/data/users/dm4/vol12/achaplygin99_607/petsc/src/mat/impls/aij/mpi/mpiaij.c
+[31]PETSC ERROR: #2 MatSetValues() line 1190 in /mnt/data/users/dm4/vol12/achaplygin99_607/petsc/src/mat/interface/matrix.c
+Argument out of range
+[11]PETSC ERROR: Column too large: col 808464432 max 97919
+[11]PETSC ERROR: See http://www.mcs.anl.gov/petsc/documentation/faq.html for trouble shooting.
+[11]PETSC ERROR: Petsc Release Version 3.7.4, unknown 
+[11]PETSC ERROR: ./octask on a arch-linux2-c-debug named node1-128-02 by achaplygin99_607 Tue Nov 22 15:47:28 2016
+[11]PETSC ERROR: Configure options --with-cc=gcc --with-cxx=g++ --with-fc=gfortran --download-fblaslapack --download-mpich
+[11]PETSC ERROR: #1 MatSetValues_MPIAIJ() line 585 in /mnt/data/users/dm4/vol12/achaplygin99_607/petsc/src/mat/impls/aij/mpi/mpiaij.c
+[11]PETSC ERROR: #2 MatSetValues() line 1190 in /mnt/data/users/dm4/vol12/achaplygin99_607/petsc/src/mat/interface/matrix.c
+[19]PETSC ERROR: Argument out of range
+[19]PETSC ERROR: Column too large: col 808464432 max 97919
+[19]PETSC ERROR: See http://www.mcs.anl.gov/petsc/documentation/faq.html for trouble shooting.
+[19]PETSC ERROR: Petsc Release Version 3.7.4, unknown 
+[19]PETSC ERROR: ./octask on a arch-linux2-c-debug named node1-128-03 by achaplygin99_607 Tue Nov 22 15:47:28 2016
+[19]PETSC ERROR: Configure options --with-cc=gcc --with-cxx=g++ --with-fc=gfortran --download-fblaslapack --download-mpich
+[19]PETSC ERROR: #1 MatSetValues_MPIAIJ() line 585 in /mnt/data/users/dm4/vol12/achaplygin99_607/petsc/src/mat/impls/aij/mpi/mpiaij.c
+[5]PETSC ERROR: See http://www.mcs.anl.gov/petsc/documentation/faq.html for trouble shooting.
+[5]PETSC ERROR: Petsc Release Version 3.7.4, unknown 
+[5]PETSC ERROR: ./octask on a arch-linux2-c-debug named node1-128-01 by achaplygin99_607 Tue Nov 22 15:47:28 2016
+[5]PETSC ERROR: Configure options --with-cc=gcc --with-cxx=g++ --with-fc=gfortran --download-fblaslapack --download-mpich
+[5]PETSC ERROR: #1 MatSetValues_MPIAIJ() line 585 in /mnt/data/users/dm4/vol12/achaplygin99_607/petsc/src/mat/impls/aij/mpi/mpiaij.c
+[5]PETSC ERROR: #2 MatSetValues() line 1190 in /mnt/data/users/dm4/vol12/achaplygin99_607/petsc/src/mat/interface/matrix.c
+[34]PETSC ERROR: Argument out of range
+[34]PETSC ERROR: Column too large: col 808464432 max 97919
+[34]PETSC ERROR: See http://www.mcs.anl.gov/petsc/documentation/faq.html for trouble shooting.
+[34]PETSC ERROR: Petsc Release Version 3.7.4, unknown 
+[34]PETSC ERROR: [44]PETSC ERROR: Argument out of range
+[44]PETSC ERROR: Column too large: col 808464432 max 97919
+[44]PETSC ERROR: See http://www.mcs.anl.gov/petsc/documentation/faq.html for trouble shooting.
+[44]PETSC ERROR: Petsc Release Version 3.7.4, unknown 
+[44]PETSC ERROR: ./octask on a arch-linux2-c-debug named node1-128-06 by achaplygin99_607 Tue Nov 22 15:47:28 2016
+[44]PETSC ERROR: Configure options --with-cc=gcc --with-cxx=g++ --with-fc=gfortran --download-fblaslapack --download-mpich
+See http://www.mcs.anl.gov/petsc/documentation/faq.html for trouble shooting.
+[55]PETSC ERROR: Petsc Release Version 3.7.4, unknown 
+[55]PETSC ERROR: ./octask on a arch-linux2-c-debug named node1-128-09 by achaplygin99_607 Tue Nov 22 15:47:28 2016
+[55]PETSC ERROR: Configure options --with-cc=gcc --with-cxx=g++ --with-fc=gfortran --download-fblaslapack --download-mpich
+[55]PETSC ERROR: [25]PETSC ERROR: Argument out of range
+[25]PETSC ERROR: Column too large: col 808464432 max 97919
+[25]PETSC ERROR: See http://www.mcs.anl.gov/petsc/documentation/faq.html for trouble shooting.
+[25]PETSC ERROR: Petsc Release Version 3.7.4, unknown 
+[25]PETSC ERROR: [12]PETSC ERROR: --------------------- Error Message --------------------------------------------------------------
+[12]PETSC ERROR: Argument out of range
+[12]PETSC ERROR: Column too large: col 808464432 max 97919
+[12]PETSC ERROR: See http://www.mcs.anl.gov/petsc/documentation/faq.html for trouble shooting.
+[12]PETSC ERROR: [20]PETSC ERROR: --------------------- Error Message --------------------------------------------------------------
+[20]PETSC ERROR: Argument out of range
+#1 MatSetValues_MPIAIJ() line 585 in /mnt/data/users/dm4/vol12/achaplygin99_607/petsc/src/mat/impls/aij/mpi/mpiaij.c
+[6]PETSC ERROR: #2 MatSetValues() line 1190 in /mnt/data/users/dm4/vol12/achaplygin99_607/petsc/src/mat/interface/matrix.c
+[35]PETSC ERROR: --------------------- Error Message --------------------------------------------------------------
+[35]PETSC ERROR: Argument out of range
+[35]PETSC ERROR: Column too large: col 808464432 max 97919
+[35]PETSC ERROR: #2 MatSetValues() line 1190 in /mnt/data/users/dm4/vol12/achaplygin99_607/petsc/src/mat/interface/matrix.c
+[50]PETSC ERROR: See http://www.mcs.anl.gov/petsc/documentation/faq.html for trouble shooting.
+[50]PETSC ERROR: Petsc Release Version 3.7.4, unknown 
+[50]PETSC ERROR: ./octask on a arch-linux2-c-debug named node1-128-09 by achaplygin99_607 Tue Nov 22 15:47:28 2016
+[50]PETSC ERROR: Configure options --with-cc=gcc --with-cxx=g++ --with-fc=gfortran --download-fblaslapack --download-mpich
+Argument out of range
+[26]PETSC ERROR: Column too large: col 808464432 max 97919
+[26]PETSC ERROR: See http://www.mcs.anl.gov/petsc/documentation/faq.html for trouble shooting.
+[26]PETSC ERROR: Petsc Release Version 3.7.4, unknown 
+[26]PETSC ERROR: ./octask on a arch-linux2-c-debug named node1-128-04 by achaplygin99_607 Tue Nov 22 15:47:28 2016
+[26]PETSC ERROR: Configure options --with-cc=gcc --with-cxx=g++ --with-fc=gfortran --download-fblaslapack --download-mpich
+[26]PETSC ERROR: #1 MatSetValues_MPIAIJ() line 585 in /mnt/data/users/dm4/vol12/achaplygin99_607/petsc/src/mat/impls/aij/mpi/mpiaij.c
+[26]PETSC ERROR: #2 MatSetValues() line 1190 in /mnt/data/users/dm4/vol12/achaplygin99_607/petsc/src/mat/interface/matrix.c
+[13]PETSC ERROR: --------------------- Error Message --------------------------------------------------------------
+[13]PETSC ERROR: Argument out of range
+[13]PETSC ERROR: Column too large: col 808464432 max 97919
+[13]PETSC ERROR: See http://www.mcs.anl.gov/petsc/documentation/faq.html for trouble shooting.
+[13]PETSC ERROR: Petsc Release Version 3.7.4, unknown 
+[13]PETSC ERROR: ./octask on a arch-linux2-c-debug named node1-128-02 by achaplygin99_607 Tue Nov 22 15:47:28 2016
+[21]PETSC ERROR: ./octask on a arch-linux2-c-debug named node1-128-03 by achaplygin99_607 Tue Nov 22 15:47:28 2016
+[21]PETSC ERROR: Configure options --with-cc=gcc --with-cxx=g++ --with-fc=gfortran --download-fblaslapack --download-mpich
+[21]PETSC ERROR: #1 MatSetValues_MPIAIJ() line 585 in /mnt/data/users/dm4/vol12/achaplygin99_607/petsc/src/mat/impls/aij/mpi/mpiaij.c
+[21]PETSC ERROR: #2 MatSetValues() line 1190 in /mnt/data/users/dm4/vol12/achaplygin99_607/petsc/src/mat/interface/matrix.c
+[7]PETSC ERROR: Argument out of range
+[36]PETSC ERROR: Column too large: col 808464432 max 97919
+[36]PETSC ERROR: See http://www.mcs.anl.gov/petsc/documentation/faq.html for trouble shooting.
+[36]PETSC ERROR: Petsc Release Version 3.7.4, unknown 
+[36]PETSC ERROR: ./octask on a arch-linux2-c-debug named node1-128-05 by achaplygin99_607 Tue Nov 22 15:47:28 2016
+[36]PETSC ERROR: Configure options --with-cc=gcc --with-cxx=g++ --with-fc=gfortran --download-fblaslapack --download-mpich
+./octask on a arch-linux2-c-debug named node1-128-06 by achaplygin99_607 Tue Nov 22 15:47:28 2016
+[41]PETSC ERROR: Configure options --with-cc=gcc --with-cxx=g++ --with-fc=gfortran --download-fblaslapack --download-mpich
+[41]PETSC ERROR: #1 MatSetValues_MPIAIJ() line 585 in /mnt/data/users/dm4/vol12/achaplygin99_607/petsc/src/mat/impls/aij/mpi/mpiaij.c
+[54]PETSC ERROR: #2 MatSetValues() line 1190 in /mnt/data/users/dm4/vol12/achaplygin99_607/petsc/src/mat/interface/matrix.c
+[27]PETSC ERROR: See http://www.mcs.anl.gov/petsc/documentation/faq.html for trouble shooting.
+[27]PETSC ERROR: Petsc Release Version 3.7.4, unknown 
+[27]PETSC ERROR: ./octask on a arch-linux2-c-debug named node1-128-04 by achaplygin99_607 Tue Nov 22 15:47:28 2016
+[27]PETSC ERROR: Configure options --with-cc=gcc --with-cxx=g++ --with-fc=gfortran --download-fblaslapack --download-mpich
+[27]PETSC ERROR: #1 MatSetValues_MPIAIJ() line 585 in /mnt/data/users/dm4/vol12/achaplygin99_607/petsc/src/mat/impls/aij/mpi/mpiaij.c
+[15]PETSC ERROR: Column too large: col 808464432 max 97919
+[15]PETSC ERROR: See http://www.mcs.anl.gov/petsc/documentation/faq.html for trouble shooting.
+[15]PETSC ERROR: Petsc Release Version 3.7.4, unknown 
+[15]PETSC ERROR: ./octask on a arch-linux2-c-debug named node1-128-02 by achaplygin99_607 Tue Nov 22 15:47:28 2016
+[15]PETSC ERROR: Configure options --with-cc=gcc --with-cxx=g++ --with-fc=gfortran --download-fblaslapack --download-mpich
+[15]PETSC ERROR: #1 MatSetValues_MPIAIJ() line 585 in /mnt/data/users/dm4/vol12/achaplygin99_607/petsc/src/mat/impls/aij/mpi/mpiaij.c
+[15]PETSC ERROR: #2 MatSetValues() line 1190 in /mnt/data/users/dm4/vol12/achaplygin99_607/petsc/src/mat/interface/matrix.c
+[22]PETSC ERROR: --------------------- Error Message --------------------------------------------------------------
+--------------------- Error Message --------------------------------------------------------------
+[38]PETSC ERROR: --------------------- Error Message --------------------------------------------------------------
+[38]PETSC ERROR: Argument out of range
+[38]PETSC ERROR: Column too large: col 808464432 max 97919
+[43]PETSC ERROR: --------------------- Error Message --------------------------------------------------------------
+#1 MatSetValues_MPIAIJ() line 585 in /mnt/data/users/dm4/vol12/achaplygin99_607/petsc/src/mat/impls/aij/mpi/mpiaij.c
+[55]PETSC ERROR: #2 MatSetValues() line 1190 in /mnt/data/users/dm4/vol12/achaplygin99_607/petsc/src/mat/interface/matrix.c
+[29]PETSC ERROR: Argument out of range
+[29]PETSC ERROR: Column too large: col 808464432 max 97919
+[29]PETSC ERROR: See http://www.mcs.anl.gov/petsc/documentation/faq.html for trouble shooting.
+[29]PETSC ERROR: Petsc Release Version 3.7.4, unknown 
+[29]PETSC ERROR: Petsc Release Version 3.7.4, unknown 
+[9]PETSC ERROR: ./octask on a arch-linux2-c-debug named node1-128-02 by achaplygin99_607 Tue Nov 22 15:47:28 2016
+[9]PETSC ERROR: Configure options --with-cc=gcc --with-cxx=g++ --with-fc=gfortran --download-fblaslapack --download-mpich
+[9]PETSC ERROR: #1 MatSetValues_MPIAIJ() line 585 in /mnt/data/users/dm4/vol12/achaplygin99_607/petsc/src/mat/impls/aij/mpi/mpiaij.c
+[9]PETSC ERROR: #2 MatSetValues() line 1190 in /mnt/data/users/dm4/vol12/achaplygin99_607/petsc/src/mat/interface/matrix.c
+[23]PETSC ERROR: --------------------- Error Message --------------------------------------------------------------
+[23]PETSC ERROR: Argument out of range
+[23]PETSC ERROR: Column too large: col 808464432 max 97919
+[23]PETSC ERROR: See http://www.mcs.anl.gov/petsc/documentation/faq.html for trouble shooting.
+[7]PETSC ERROR: [39]PETSC ERROR: Argument out of range
+[39]PETSC ERROR: Column too large: col 808464432 max 97919
+[39]PETSC ERROR: See http://www.mcs.anl.gov/petsc/documentation/faq.html for trouble shooting.
+[39]PETSC ERROR: Petsc Release Version 3.7.4, unknown 
+[39]PETSC ERROR: ./octask on a arch-linux2-c-debug named node1-128-05 by achaplygin99_607 Tue Nov 22 15:47:28 2016
+[39]PETSC ERROR: Configure options --with-cc=gcc --with-cxx=g++ --with-fc=gfortran --download-fblaslapack --download-mpich
+[39]PETSC ERROR: [44]PETSC ERROR: #1 MatSetValues_MPIAIJ() line 585 in /mnt/data/users/dm4/vol12/achaplygin99_607/petsc/src/mat/impls/aij/mpi/mpiaij.c
+[44]PETSC ERROR: #2 MatSetValues() line 1190 in /mnt/data/users/dm4/vol12/achaplygin99_607/petsc/src/mat/interface/matrix.c
+[50]PETSC ERROR: #1 MatSetValues_MPIAIJ() line 585 in /mnt/data/users/dm4/vol12/achaplygin99_607/petsc/src/mat/impls/aij/mpi/mpiaij.c
+[50]PETSC ERROR: #2 MatSetValues() line 1190 in /mnt/data/users/dm4/vol12/achaplygin99_607/petsc/src/mat/interface/matrix.c
+#1 MatSetValues_MPIAIJ() line 585 in /mnt/data/users/dm4/vol12/achaplygin99_607/petsc/src/mat/impls/aij/mpi/mpiaij.c
+[30]PETSC ERROR: #2 MatSetValues() line 1190 in /mnt/data/users/dm4/vol12/achaplygin99_607/petsc/src/mat/interface/matrix.c
+[10]PETSC ERROR: Argument out of range
+[10]PETSC ERROR: Column too large: col 808464432 max 97919
+[10]PETSC ERROR: See http://www.mcs.anl.gov/petsc/documentation/faq.html for trouble shooting.
+[10]PETSC ERROR: Petsc Release Version 3.7.4, unknown 
+[10]PETSC ERROR: ./octask on a arch-linux2-c-debug named node1-128-02 by achaplygin99_607 Tue Nov 22 15:47:28 2016
+[10]PETSC ERROR: Configure options --with-cc=gcc --with-cxx=g++ --with-fc=gfortran --download-fblaslapack --download-mpich
+[10]PETSC ERROR: #1 MatSetValues_MPIAIJ() line 585 in /mnt/data/users/dm4/vol12/achaplygin99_607/petsc/src/mat/impls/aij/mpi/mpiaij.c
+[10]PETSC ERROR: #2 MatSetValues() line 1190 in /mnt/data/users/dm4/vol12/achaplygin99_607/petsc/src/mat/interface/matrix.c
+./octask on a arch-linux2-c-debug named node1-128-03 by achaplygin99_607 Tue Nov 22 15:47:28 2016
+[18]PETSC ERROR: Configure options --with-cc=gcc --with-cxx=g++ --with-fc=gfortran --download-fblaslapack --download-mpich
+[18]PETSC ERROR: #1 MatSetValues_MPIAIJ() line 585 in /mnt/data/users/dm4/vol12/achaplygin99_607/petsc/src/mat/impls/aij/mpi/mpiaij.c
+[18]PETSC ERROR: #2 MatSetValues() line 1190 in /mnt/data/users/dm4/vol12/achaplygin99_607/petsc/src/mat/interface/matrix.c
+Argument out of range
+Petsc Release Version 3.7.4, unknown 
+[33]PETSC ERROR: ./octask on a arch-linux2-c-debug named node1-128-05 by achaplygin99_607 Tue Nov 22 15:47:28 2016
+[33]PETSC ERROR: Configure options --with-cc=gcc --with-cxx=g++ --with-fc=gfortran --download-fblaslapack --download-mpich
+[33]PETSC ERROR: #1 MatSetValues_MPIAIJ() line 585 in /mnt/data/users/dm4/vol12/achaplygin99_607/petsc/src/mat/impls/aij/mpi/mpiaij.c
+[33]PETSC ERROR: [41]PETSC ERROR: #2 MatSetValues() line 1190 in /mnt/data/users/dm4/vol12/achaplygin99_607/petsc/src/mat/interface/matrix.c
+--------------------- Error Message --------------------------------------------------------------
+./octask on a arch-linux2-c-debug named node1-128-04 by achaplygin99_607 Tue Nov 22 15:47:28 2016
+[25]PETSC ERROR: Configure options --with-cc=gcc --with-cxx=g++ --with-fc=gfortran --download-fblaslapack --download-mpich
+[25]PETSC ERROR: #1 MatSetValues_MPIAIJ() line 585 in /mnt/data/users/dm4/vol12/achaplygin99_607/petsc/src/mat/impls/aij/mpi/mpiaij.c
+[25]PETSC ERROR: #2 MatSetValues() line 1190 in /mnt/data/users/dm4/vol12/achaplygin99_607/petsc/src/mat/interface/matrix.c
+Petsc Release Version 3.7.4, unknown 
+[12]PETSC ERROR: ./octask on a arch-linux2-c-debug named node1-128-02 by achaplygin99_607 Tue Nov 22 15:47:28 2016
+[12]PETSC ERROR: Configure options --with-cc=gcc --with-cxx=g++ --with-fc=gfortran --download-fblaslapack --download-mpich
+[12]PETSC ERROR: #1 MatSetValues_MPIAIJ() line 585 in /mnt/data/users/dm4/vol12/achaplygin99_607/petsc/src/mat/impls/aij/mpi/mpiaij.c
+[12]PETSC ERROR: #2 MatSetValues() line 1190 in /mnt/data/users/dm4/vol12/achaplygin99_607/petsc/src/mat/interface/matrix.c
+[19]PETSC ERROR: #2 MatSetValues() line 1190 in /mnt/data/users/dm4/vol12/achaplygin99_607/petsc/src/mat/interface/matrix.c
+[7]PETSC ERROR: ./octask on a arch-linux2-c-debug named node1-128-05 by achaplygin99_607 Tue Nov 22 15:47:28 2016
+[34]PETSC ERROR: Configure options --with-cc=gcc --with-cxx=g++ --with-fc=gfortran --download-fblaslapack --download-mpich
+[34]PETSC ERROR: #1 MatSetValues_MPIAIJ() line 585 in /mnt/data/users/dm4/vol12/achaplygin99_607/petsc/src/mat/impls/aij/mpi/mpiaij.c
+[34]PETSC ERROR: #2 MatSetValues() line 1190 in /mnt/data/users/dm4/vol12/achaplygin99_607/petsc/src/mat/interface/matrix.c
+[43]PETSC ERROR: Argument out of range
+[43]PETSC ERROR: Column too large: col 808464432 max 97919
+[52]PETSC ERROR: [27]PETSC ERROR: #2 MatSetValues() line 1190 in /mnt/data/users/dm4/vol12/achaplygin99_607/petsc/src/mat/interface/matrix.c
+[13]PETSC ERROR: Configure options --with-cc=gcc --with-cxx=g++ --with-fc=gfortran --download-fblaslapack --download-mpich
+[13]PETSC ERROR: #1 MatSetValues_MPIAIJ() line 585 in /mnt/data/users/dm4/vol12/achaplygin99_607/petsc/src/mat/impls/aij/mpi/mpiaij.c
+[13]PETSC ERROR: #2 MatSetValues() line 1190 in /mnt/data/users/dm4/vol12/achaplygin99_607/petsc/src/mat/interface/matrix.c
+[20]PETSC ERROR: Column too large: col 808464432 max 97919
+[20]PETSC ERROR: See http://www.mcs.anl.gov/petsc/documentation/faq.html for trouble shooting.
+[20]PETSC ERROR: Petsc Release Version 3.7.4, unknown 
+[20]PETSC ERROR: ./octask on a arch-linux2-c-debug named node1-128-03 by achaplygin99_607 Tue Nov 22 15:47:28 2016
+[20]PETSC ERROR: Column too large: col 808464432 max 97919
+See http://www.mcs.anl.gov/petsc/documentation/faq.html for trouble shooting.
+[35]PETSC ERROR: Petsc Release Version 3.7.4, unknown 
+[35]PETSC ERROR: ./octask on a arch-linux2-c-debug named node1-128-05 by achaplygin99_607 Tue Nov 22 15:47:28 2016
+[35]PETSC ERROR: Configure options --with-cc=gcc --with-cxx=g++ --with-fc=gfortran --download-fblaslapack --download-mpich
+[35]PETSC ERROR: #1 MatSetValues_MPIAIJ() line 585 in /mnt/data/users/dm4/vol12/achaplygin99_607/petsc/src/mat/impls/aij/mpi/mpiaij.c
+[43]PETSC ERROR: See http://www.mcs.anl.gov/petsc/documentation/faq.html for trouble shooting.
+[43]PETSC ERROR: Argument out of range
+./octask on a arch-linux2-c-debug named node1-128-04 by achaplygin99_607 Tue Nov 22 15:47:28 2016
+[29]PETSC ERROR: Configure options --with-cc=gcc --with-cxx=g++ --with-fc=gfortran --download-fblaslapack --download-mpich
+[29]PETSC ERROR: #1 MatSetValues_MPIAIJ() line 585 in /mnt/data/users/dm4/vol12/achaplygin99_607/petsc/src/mat/impls/aij/mpi/mpiaij.c
+[29]PETSC ERROR: #2 MatSetValues() line 1190 in /mnt/data/users/dm4/vol12/achaplygin99_607/petsc/src/mat/interface/matrix.c
+--------------------- Error Message --------------------------------------------------------------
+[22]PETSC ERROR: Argument out of range
+[22]PETSC ERROR: Column too large: col 808464432 max 97919
+[22]PETSC ERROR: See http://www.mcs.anl.gov/petsc/documentation/faq.html for trouble shooting.
+[22]PETSC ERROR: Petsc Release Version 3.7.4, unknown 
+[7]PETSC ERROR: [36]PETSC ERROR: #1 MatSetValues_MPIAIJ() line 585 in /mnt/data/users/dm4/vol12/achaplygin99_607/petsc/src/mat/impls/aij/mpi/mpiaij.c
+[36]PETSC ERROR: #2 MatSetValues() line 1190 in /mnt/data/users/dm4/vol12/achaplygin99_607/petsc/src/mat/interface/matrix.c
+Petsc Release Version 3.7.4, unknown 
+[43]PETSC ERROR: [52]PETSC ERROR: --------------------- Error Message --------------------------------------------------------------
+[14]PETSC ERROR: [23]PETSC ERROR: Petsc Release Version 3.7.4, unknown 
+[23]PETSC ERROR: ./octask on a arch-linux2-c-debug named node1-128-03 by achaplygin99_607 Tue Nov 22 15:47:28 2016
+[23]PETSC ERROR: Configure options --with-cc=gcc --with-cxx=g++ --with-fc=gfortran --download-fblaslapack --download-mpich
+[23]PETSC ERROR: See http://www.mcs.anl.gov/petsc/documentation/faq.html for trouble shooting.
+[38]PETSC ERROR: See http://www.mcs.anl.gov/petsc/documentation/faq.html for trouble shooting.
+[38]PETSC ERROR: Petsc Release Version 3.7.4, unknown 
+[38]PETSC ERROR: ./octask on a arch-linux2-c-debug named node1-128-05 by achaplygin99_607 Tue Nov 22 15:47:28 2016
+[38]PETSC ERROR: Configure options --with-cc=gcc --with-cxx=g++ --with-fc=gfortran --download-fblaslapack --download-mpich
+./octask on a arch-linux2-c-debug named node1-128-06 by achaplygin99_607 Tue Nov 22 15:47:28 2016
+[43]PETSC ERROR: Configure options --with-cc=gcc --with-cxx=g++ --with-fc=gfortran --download-fblaslapack --download-mpich
+Column too large: col 808464432 max 97919
+[28]PETSC ERROR: Argument out of range
+Configure options --with-cc=gcc --with-cxx=g++ --with-fc=gfortran --download-fblaslapack --download-mpich
+[20]PETSC ERROR: #1 MatSetValues_MPIAIJ() line 585 in /mnt/data/users/dm4/vol12/achaplygin99_607/petsc/src/mat/impls/aij/mpi/mpiaij.c
+[20]PETSC ERROR: [7]PETSC ERROR: #1 MatSetValues_MPIAIJ() line 585 in /mnt/data/users/dm4/vol12/achaplygin99_607/petsc/src/mat/impls/aij/mpi/mpiaij.c
+[39]PETSC ERROR: #2 MatSetValues() line 1190 in /mnt/data/users/dm4/vol12/achaplygin99_607/petsc/src/mat/interface/matrix.c
+[43]PETSC ERROR: #1 MatSetValues_MPIAIJ() line 585 in /mnt/data/users/dm4/vol12/achaplygin99_607/petsc/src/mat/impls/aij/mpi/mpiaij.c
+[52]PETSC ERROR: Argument out of range
+[14]PETSC ERROR: [22]PETSC ERROR: ./octask on a arch-linux2-c-debug named node1-128-03 by achaplygin99_607 Tue Nov 22 15:47:28 2016
+[22]PETSC ERROR: Configure options --with-cc=gcc --with-cxx=g++ --with-fc=gfortran --download-fblaslapack --download-mpich
+[22]PETSC ERROR: Petsc Release Version 3.7.4, unknown 
+#2 MatSetValues() line 1190 in /mnt/data/users/dm4/vol12/achaplygin99_607/petsc/src/mat/interface/matrix.c
+[43]PETSC ERROR: See http://www.mcs.anl.gov/petsc/documentation/faq.html for trouble shooting.
+[28]PETSC ERROR: Column too large: col 808464432 max 97919
+#1 MatSetValues_MPIAIJ() line 585 in /mnt/data/users/dm4/vol12/achaplygin99_607/petsc/src/mat/impls/aij/mpi/mpiaij.c
+[23]PETSC ERROR: #2 MatSetValues() line 1190 in /mnt/data/users/dm4/vol12/achaplygin99_607/petsc/src/mat/interface/matrix.c
+[7]PETSC ERROR: [35]PETSC ERROR: #2 MatSetValues() line 1190 in /mnt/data/users/dm4/vol12/achaplygin99_607/petsc/src/mat/interface/matrix.c
+#2 MatSetValues() line 1190 in /mnt/data/users/dm4/vol12/achaplygin99_607/petsc/src/mat/interface/matrix.c
+[52]PETSC ERROR: Column too large: col 808464432 max 97919
+[14]PETSC ERROR: #2 MatSetValues() line 1190 in /mnt/data/users/dm4/vol12/achaplygin99_607/petsc/src/mat/interface/matrix.c
+./octask on a arch-linux2-c-debug named node1-128-01 by achaplygin99_607 Tue Nov 22 15:47:28 2016
+[38]PETSC ERROR: #1 MatSetValues_MPIAIJ() line 585 in /mnt/data/users/dm4/vol12/achaplygin99_607/petsc/src/mat/impls/aij/mpi/mpiaij.c
+[38]PETSC ERROR: #2 MatSetValues() line 1190 in /mnt/data/users/dm4/vol12/achaplygin99_607/petsc/src/mat/interface/matrix.c
+[46]PETSC ERROR: --------------------- Error Message --------------------------------------------------------------
+Petsc Release Version 3.7.4, unknown 
+[28]PETSC ERROR: See http://www.mcs.anl.gov/petsc/documentation/faq.html for trouble shooting.
+#1 MatSetValues_MPIAIJ() line 585 in /mnt/data/users/dm4/vol12/achaplygin99_607/petsc/src/mat/impls/aij/mpi/mpiaij.c
+[22]PETSC ERROR: #2 MatSetValues() line 1190 in /mnt/data/users/dm4/vol12/achaplygin99_607/petsc/src/mat/interface/matrix.c
+[7]PETSC ERROR: --------------------- Error Message --------------------------------------------------------------
+[45]PETSC ERROR: Argument out of range
+[52]PETSC ERROR: See http://www.mcs.anl.gov/petsc/documentation/faq.html for trouble shooting.
+[14]PETSC ERROR: [17]PETSC ERROR: Configure options --with-cc=gcc --with-cxx=g++ --with-fc=gfortran --download-fblaslapack --download-mpich
+[37]PETSC ERROR: [46]PETSC ERROR: ./octask on a arch-linux2-c-debug named node1-128-09 by achaplygin99_607 Tue Nov 22 15:47:28 2016
+[28]PETSC ERROR: Petsc Release Version 3.7.4, unknown 
+--------------------- Error Message --------------------------------------------------------------
+[7]PETSC ERROR: Argument out of range
+[45]PETSC ERROR: Column too large: col 808464432 max 97919
+[45]PETSC ERROR: See http://www.mcs.anl.gov/petsc/documentation/faq.html for trouble shooting.
+[45]PETSC ERROR: Petsc Release Version 3.7.4, unknown 
+[45]PETSC ERROR: ./octask on a arch-linux2-c-debug named node1-128-06 by achaplygin99_607 Tue Nov 22 15:47:28 2016
+[45]PETSC ERROR: Configure options --with-cc=gcc --with-cxx=g++ --with-fc=gfortran --download-fblaslapack --download-mpich
+[45]PETSC ERROR: #1 MatSetValues_MPIAIJ() line 585 in /mnt/data/users/dm4/vol12/achaplygin99_607/petsc/src/mat/impls/aij/mpi/mpiaij.c
+[45]PETSC ERROR: #2 MatSetValues() line 1190 in /mnt/data/users/dm4/vol12/achaplygin99_607/petsc/src/mat/interface/matrix.c
+[52]PETSC ERROR: Petsc Release Version 3.7.4, unknown 
+[14]PETSC ERROR: [17]PETSC ERROR: #1 MatSetValues_MPIAIJ() line 585 in /mnt/data/users/dm4/vol12/achaplygin99_607/petsc/src/mat/impls/aij/mpi/mpiaij.c
+[37]PETSC ERROR: Argument out of range
+Configure options --with-cc=gcc --with-cxx=g++ --with-fc=gfortran --download-fblaslapack --download-mpich
+[28]PETSC ERROR: ./octask on a arch-linux2-c-debug named node1-128-02 by achaplygin99_607 Tue Nov 22 15:47:28 2016
+Argument out of range
+[7]PETSC ERROR: Column too large: col 808464432 max 97919
+[46]PETSC ERROR: [52]PETSC ERROR: ./octask on a arch-linux2-c-debug named node1-128-04 by achaplygin99_607 Tue Nov 22 15:47:28 2016
+[14]PETSC ERROR: [17]PETSC ERROR: #2 MatSetValues() line 1190 in /mnt/data/users/dm4/vol12/achaplygin99_607/petsc/src/mat/interface/matrix.c
+[37]PETSC ERROR: Column too large: col 808464432 max 97919
+#1 MatSetValues_MPIAIJ() line 585 in /mnt/data/users/dm4/vol12/achaplygin99_607/petsc/src/mat/impls/aij/mpi/mpiaij.c
+[28]PETSC ERROR: Configure options --with-cc=gcc --with-cxx=g++ --with-fc=gfortran --download-fblaslapack --download-mpich
+Column too large: col 808464432 max 97919
+See http://www.mcs.anl.gov/petsc/documentation/faq.html for trouble shooting.
+[46]PETSC ERROR: [52]PETSC ERROR: Configure options --with-cc=gcc --with-cxx=g++ --with-fc=gfortran --download-fblaslapack --download-mpich
+[14]PETSC ERROR: [17]PETSC ERROR: [37]PETSC ERROR: See http://www.mcs.anl.gov/petsc/documentation/faq.html for trouble shooting.
+#2 MatSetValues() line 1190 in /mnt/data/users/dm4/vol12/achaplygin99_607/petsc/src/mat/interface/matrix.c
+[28]PETSC ERROR: #1 MatSetValues_MPIAIJ() line 585 in /mnt/data/users/dm4/vol12/achaplygin99_607/petsc/src/mat/impls/aij/mpi/mpiaij.c
+See http://www.mcs.anl.gov/petsc/documentation/faq.html for trouble shooting.
+Petsc Release Version 3.7.4, unknown 
+[46]PETSC ERROR: [49]PETSC ERROR: --------------------- Error Message --------------------------------------------------------------
+#1 MatSetValues_MPIAIJ() line 585 in /mnt/data/users/dm4/vol12/achaplygin99_607/petsc/src/mat/impls/aij/mpi/mpiaij.c
+[14]PETSC ERROR: [17]PETSC ERROR: [37]PETSC ERROR: Petsc Release Version 3.7.4, unknown 
+[49]PETSC ERROR: Argument out of range
+[49]PETSC ERROR: Column too large: col 808464432 max 97919
+[49]PETSC ERROR: See http://www.mcs.anl.gov/petsc/documentation/faq.html for trouble shooting.
+[28]PETSC ERROR: #2 MatSetValues() line 1190 in /mnt/data/users/dm4/vol12/achaplygin99_607/petsc/src/mat/interface/matrix.c
+Petsc Release Version 3.7.4, unknown 
+./octask on a arch-linux2-c-debug named node1-128-05 by achaplygin99_607 Tue Nov 22 15:47:28 2016
+[46]PETSC ERROR: [49]PETSC ERROR: Petsc Release Version 3.7.4, unknown 
+[49]PETSC ERROR: ./octask on a arch-linux2-c-debug named node1-128-09 by achaplygin99_607 Tue Nov 22 15:47:28 2016
+[49]PETSC ERROR: Configure options --with-cc=gcc --with-cxx=g++ --with-fc=gfortran --download-fblaslapack --download-mpich
+[49]PETSC ERROR: #2 MatSetValues() line 1190 in /mnt/data/users/dm4/vol12/achaplygin99_607/petsc/src/mat/interface/matrix.c
+[17]PETSC ERROR: [37]PETSC ERROR: ./octask on a arch-linux2-c-debug named node1-128-06 by achaplygin99_607 Tue Nov 22 15:47:28 2016
+#1 MatSetValues_MPIAIJ() line 585 in /mnt/data/users/dm4/vol12/achaplygin99_607/petsc/src/mat/impls/aij/mpi/mpiaij.c
+./octask on a arch-linux2-c-debug named node1-128-03 by achaplygin99_607 Tue Nov 22 15:47:28 2016
+Configure options --with-cc=gcc --with-cxx=g++ --with-fc=gfortran --download-fblaslapack --download-mpich
+[46]PETSC ERROR: [49]PETSC ERROR: #2 MatSetValues() line 1190 in /mnt/data/users/dm4/vol12/achaplygin99_607/petsc/src/mat/interface/matrix.c
+[17]PETSC ERROR: [37]PETSC ERROR: Configure options --with-cc=gcc --with-cxx=g++ --with-fc=gfortran --download-fblaslapack --download-mpich
+Configure options --with-cc=gcc --with-cxx=g++ --with-fc=gfortran --download-fblaslapack --download-mpich
+#1 MatSetValues_MPIAIJ() line 585 in /mnt/data/users/dm4/vol12/achaplygin99_607/petsc/src/mat/impls/aij/mpi/mpiaij.c
+[46]PETSC ERROR: [17]PETSC ERROR: [37]PETSC ERROR: #1 MatSetValues_MPIAIJ() line 585 in /mnt/data/users/dm4/vol12/achaplygin99_607/petsc/src/mat/impls/aij/mpi/mpiaij.c
+#1 MatSetValues_MPIAIJ() line 585 in /mnt/data/users/dm4/vol12/achaplygin99_607/petsc/src/mat/impls/aij/mpi/mpiaij.c
+#2 MatSetValues() line 1190 in /mnt/data/users/dm4/vol12/achaplygin99_607/petsc/src/mat/interface/matrix.c
+[46]PETSC ERROR: [17]PETSC ERROR: #2 MatSetValues() line 1190 in /mnt/data/users/dm4/vol12/achaplygin99_607/petsc/src/mat/interface/matrix.c
+#2 MatSetValues() line 1190 in /mnt/data/users/dm4/vol12/achaplygin99_607/petsc/src/mat/interface/matrix.c
+[56]PETSC ERROR: --------------------- Error Message --------------------------------------------------------------
+[56]PETSC ERROR: Argument out of range
+[56]PETSC ERROR: Column too large: col 808464432 max 97919
+[56]PETSC ERROR: See http://www.mcs.anl.gov/petsc/documentation/faq.html for trouble shooting.
+[56]PETSC ERROR: Petsc Release Version 3.7.4, unknown 
+[56]PETSC ERROR: ./octask on a arch-linux2-c-debug named node1-128-10 by achaplygin99_607 Tue Nov 22 15:47:28 2016
+[56]PETSC ERROR: Configure options --with-cc=gcc --with-cxx=g++ --with-fc=gfortran --download-fblaslapack --download-mpich
+[56]PETSC ERROR: #1 MatSetValues_MPIAIJ() line 585 in /mnt/data/users/dm4/vol12/achaplygin99_607/petsc/src/mat/impls/aij/mpi/mpiaij.c
+[56]PETSC ERROR: #2 MatSetValues() line 1190 in /mnt/data/users/dm4/vol12/achaplygin99_607/petsc/src/mat/interface/matrix.c
+[16]PETSC ERROR: --------------------- Error Message --------------------------------------------------------------
+[16]PETSC ERROR: Argument out of range
+[16]PETSC ERROR: Column too large: col 808464432 max 97919
+[16]PETSC ERROR: See http://www.mcs.anl.gov/petsc/documentation/faq.html for trouble shooting.
+[16]PETSC ERROR: Petsc Release Version 3.7.4, unknown 
+[16]PETSC ERROR: ./octask on a arch-linux2-c-debug named node1-128-03 by achaplygin99_607 Tue Nov 22 15:47:28 2016
+[16]PETSC ERROR: Configure options --with-cc=gcc --with-cxx=g++ --with-fc=gfortran --download-fblaslapack --download-mpich
+[16]PETSC ERROR: #1 MatSetValues_MPIAIJ() line 585 in /mnt/data/users/dm4/vol12/achaplygin99_607/petsc/src/mat/impls/aij/mpi/mpiaij.c
+[16]PETSC ERROR: #2 MatSetValues() line 1190 in /mnt/data/users/dm4/vol12/achaplygin99_607/petsc/src/mat/interface/matrix.c
+[57]PETSC ERROR: --------------------- Error Message --------------------------------------------------------------
+[57]PETSC ERROR: Argument out of range
+[57]PETSC ERROR: Column too large: col 808464432 max 97919
+[57]PETSC ERROR: See http://www.mcs.anl.gov/petsc/documentation/faq.html for trouble shooting.
+[57]PETSC ERROR: Petsc Release Version 3.7.4, unknown 
+[57]PETSC ERROR: ./octask on a arch-linux2-c-debug named node1-128-10 by achaplygin99_607 Tue Nov 22 15:47:28 2016
+[57]PETSC ERROR: Configure options --with-cc=gcc --with-cxx=g++ --with-fc=gfortran --download-fblaslapack --download-mpich
+[57]PETSC ERROR: #1 MatSetValues_MPIAIJ() line 585 in /mnt/data/users/dm4/vol12/achaplygin99_607/petsc/src/mat/impls/aij/mpi/mpiaij.c
+[57]PETSC ERROR: #2 MatSetValues() line 1190 in /mnt/data/users/dm4/vol12/achaplygin99_607/petsc/src/mat/interface/matrix.c
+[49]PETSC ERROR: --------------------- Error Message --------------------------------------------------------------
+[49]PETSC ERROR: Argument out of range
+[49]PETSC ERROR: Column too large: col 808464433 max 97919
+[49]PETSC ERROR: See http://www.mcs.anl.gov/petsc/documentation/faq.html for trouble shooting.
+[49]PETSC ERROR: Petsc Release Version 3.7.4, unknown 
+[49]PETSC ERROR: ./octask on a arch-linux2-c-debug named node1-128-09 by achaplygin99_607 Tue Nov 22 15:47:28 2016
+[49]PETSC ERROR: Configure options --with-cc=gcc --with-cxx=g++ --with-fc=gfortran --download-fblaslapack --download-mpich
+[49]PETSC ERROR: #3 MatSetValues_MPIAIJ() line 585 in /mnt/data/users/dm4/vol12/achaplygin99_607/petsc/src/mat/impls/aij/mpi/mpiaij.c
+[49]PETSC ERROR: #4 MatSetValues() line 1190 in /mnt/data/users/dm4/vol12/achaplygin99_607/petsc/src/mat/interface/matrix.c
+[58]PETSC ERROR: --------------------- Error Message --------------------------------------------------------------
+[58]PETSC ERROR: Argument out of range
+[58]PETSC ERROR: Column too large: col 808464432 max 97919
+[58]PETSC ERROR: See http://www.mcs.anl.gov/petsc/documentation/faq.html for trouble shooting.
+[58]PETSC ERROR: Petsc Release Version 3.7.4, unknown 
+[58]PETSC ERROR: ./octask on a arch-linux2-c-debug named node1-128-10 by achaplygin99_607 Tue Nov 22 15:47:28 2016
+[58]PETSC ERROR: Configure options --with-cc=gcc --with-cxx=g++ --with-fc=gfortran --download-fblaslapack --download-mpich
+[58]PETSC ERROR: #1 MatSetValues_MPIAIJ() line 585 in /mnt/data/users/dm4/vol12/achaplygin99_607/petsc/src/mat/impls/aij/mpi/mpiaij.c
+[58]PETSC ERROR: #2 MatSetValues() line 1190 in /mnt/data/users/dm4/vol12/achaplygin99_607/petsc/src/mat/interface/matrix.c
+[40]PETSC ERROR: --------------------- Error Message --------------------------------------------------------------
+[40]PETSC ERROR: Argument out of range
+[40]PETSC ERROR: Column too large: col 808464432 max 97919
+[40]PETSC ERROR: See http://www.mcs.anl.gov/petsc/documentation/faq.html for trouble shooting.
+[40]PETSC ERROR: Petsc Release Version 3.7.4, unknown 
+[40]PETSC ERROR: ./octask on a arch-linux2-c-debug named node1-128-06 by achaplygin99_607 Tue Nov 22 15:47:28 2016
+[40]PETSC ERROR: Configure options --with-cc=gcc --with-cxx=g++ --with-fc=gfortran --download-fblaslapack --download-mpich
+[40]PETSC ERROR: #1 MatSetValues_MPIAIJ() line 585 in /mnt/data/users/dm4/vol12/achaplygin99_607/petsc/src/mat/impls/aij/mpi/mpiaij.c
+[40]PETSC ERROR: #2 MatSetValues() line 1190 in /mnt/data/users/dm4/vol12/achaplygin99_607/petsc/src/mat/interface/matrix.c
+[60]PETSC ERROR: --------------------- Error Message --------------------------------------------------------------
+[60]PETSC ERROR: Argument out of range
+[60]PETSC ERROR: Column too large: col 808464432 max 97919
+[60]PETSC ERROR: See http://www.mcs.anl.gov/petsc/documentation/faq.html for trouble shooting.
+[60]PETSC ERROR: Petsc Release Version 3.7.4, unknown 
+[60]PETSC ERROR: ./octask on a arch-linux2-c-debug named node1-128-10 by achaplygin99_607 Tue Nov 22 15:47:28 2016
+[60]PETSC ERROR: Configure options --with-cc=gcc --with-cxx=g++ --with-fc=gfortran --download-fblaslapack --download-mpich
+[60]PETSC ERROR: #1 MatSetValues_MPIAIJ() line 585 in /mnt/data/users/dm4/vol12/achaplygin99_607/petsc/src/mat/impls/aij/mpi/mpiaij.c
+[60]PETSC ERROR: #2 MatSetValues() line 1190 in /mnt/data/users/dm4/vol12/achaplygin99_607/petsc/src/mat/interface/matrix.c
+[61]PETSC ERROR: --------------------- Error Message --------------------------------------------------------------
+[61]PETSC ERROR: Argument out of range
+[61]PETSC ERROR: Column too large: col 808464432 max 97919
+[61]PETSC ERROR: See http://www.mcs.anl.gov/petsc/documentation/faq.html for trouble shooting.
+[61]PETSC ERROR: Petsc Release Version 3.7.4, unknown 
+[61]PETSC ERROR: ./octask on a arch-linux2-c-debug named node1-128-10 by achaplygin99_607 Tue Nov 22 15:47:28 2016
+[61]PETSC ERROR: Configure options --with-cc=gcc --with-cxx=g++ --with-fc=gfortran --download-fblaslapack --download-mpich
+[61]PETSC ERROR: #1 MatSetValues_MPIAIJ() line 585 in /mnt/data/users/dm4/vol12/achaplygin99_607/petsc/src/mat/impls/aij/mpi/mpiaij.c
+[61]PETSC ERROR: #2 MatSetValues() line 1190 in /mnt/data/users/dm4/vol12/achaplygin99_607/petsc/src/mat/interface/matrix.c
+[9]PETSC ERROR: --------------------- Error Message --------------------------------------------------------------
+[9]PETSC ERROR: Argument out of range
+[9]PETSC ERROR: Column too large: col 808464432 max 97919
+[9]PETSC ERROR: See http://www.mcs.anl.gov/petsc/documentation/faq.html for trouble shooting.
+[9]PETSC ERROR: Petsc Release Version 3.7.4, unknown 
+[9]PETSC ERROR: ./octask on a arch-linux2-c-debug named node1-128-02 by achaplygin99_607 Tue Nov 22 15:47:28 2016
+[9]PETSC ERROR: Configure options --with-cc=gcc --with-cxx=g++ --with-fc=gfortran --download-fblaslapack --download-mpich
+[9]PETSC ERROR: #3 MatSetValues_MPIAIJ() line 585 in /mnt/data/users/dm4/vol12/achaplygin99_607/petsc/src/mat/impls/aij/mpi/mpiaij.c
+[9]PETSC ERROR: #4 MatSetValues() line 1190 in /mnt/data/users/dm4/vol12/achaplygin99_607/petsc/src/mat/interface/matrix.c
+[48]PETSC ERROR: --------------------- Error Message --------------------------------------------------------------
+[48]PETSC ERROR: Argument out of range
+[48]PETSC ERROR: Column too large: col 808464432 max 97919
+[48]PETSC ERROR: See http://www.mcs.anl.gov/petsc/documentation/faq.html for trouble shooting.
+[48]PETSC ERROR: Petsc Release Version 3.7.4, unknown 
+[48]PETSC ERROR: ./octask on a arch-linux2-c-debug named node1-128-09 by achaplygin99_607 Tue Nov 22 15:47:28 2016
+[48]PETSC ERROR: Configure options --with-cc=gcc --with-cxx=g++ --with-fc=gfortran --download-fblaslapack --download-mpich
+[48]PETSC ERROR: #1 MatSetValues_MPIAIJ() line 585 in /mnt/data/users/dm4/vol12/achaplygin99_607/petsc/src/mat/impls/aij/mpi/mpiaij.c
+[48]PETSC ERROR: #2 MatSetValues() line 1190 in /mnt/data/users/dm4/vol12/achaplygin99_607/petsc/src/mat/interface/matrix.c
+[32]PETSC ERROR: --------------------- Error Message --------------------------------------------------------------
+[32]PETSC ERROR: Argument out of range
+[32]PETSC ERROR: Column too large: col 808464432 max 97919
+[32]PETSC ERROR: See http://www.mcs.anl.gov/petsc/documentation/faq.html for trouble shooting.
+[32]PETSC ERROR: Petsc Release Version 3.7.4, unknown 
+[32]PETSC ERROR: ./octask on a arch-linux2-c-debug named node1-128-05 by achaplygin99_607 Tue Nov 22 15:47:28 2016
+[32]PETSC ERROR: Configure options --with-cc=gcc --with-cxx=g++ --with-fc=gfortran --download-fblaslapack --download-mpich
+[32]PETSC ERROR: #1 MatSetValues_MPIAIJ() line 585 in /mnt/data/users/dm4/vol12/achaplygin99_607/petsc/src/mat/impls/aij/mpi/mpiaij.c
+[32]PETSC ERROR: #2 MatSetValues() line 1190 in /mnt/data/users/dm4/vol12/achaplygin99_607/petsc/src/mat/interface/matrix.c
+[8]PETSC ERROR: --------------------- Error Message --------------------------------------------------------------
+[8]PETSC ERROR: Argument out of range
+[8]PETSC ERROR: Column too large: col 808464432 max 97919
+[8]PETSC ERROR: See http://www.mcs.anl.gov/petsc/documentation/faq.html for trouble shooting.
+[8]PETSC ERROR: Petsc Release Version 3.7.4, unknown 
+[8]PETSC ERROR: ./octask on a arch-linux2-c-debug named node1-128-02 by achaplygin99_607 Tue Nov 22 15:47:28 2016
+[8]PETSC ERROR: Configure options --with-cc=gcc --with-cxx=g++ --with-fc=gfortran --download-fblaslapack --download-mpich
+[8]PETSC ERROR: #1 MatSetValues_MPIAIJ() line 585 in /mnt/data/users/dm4/vol12/achaplygin99_607/petsc/src/mat/impls/aij/mpi/mpiaij.c
+[8]PETSC ERROR: #2 MatSetValues() line 1190 in /mnt/data/users/dm4/vol12/achaplygin99_607/petsc/src/mat/interface/matrix.c
+[62]PETSC ERROR: --------------------- Error Message --------------------------------------------------------------
+[62]PETSC ERROR: Argument out of range
+[24]PETSC ERROR: --------------------- Error Message --------------------------------------------------------------
+[62]PETSC ERROR: Column too large: col 808464432 max 97919
+[62]PETSC ERROR: See http://www.mcs.anl.gov/petsc/documentation/faq.html for trouble shooting.
+[62]PETSC ERROR: Petsc Release Version 3.7.4, unknown 
+[24]PETSC ERROR: Argument out of range
+[24]PETSC ERROR: Column too large: col 808464432 max 97919
+[24]PETSC ERROR: See http://www.mcs.anl.gov/petsc/documentation/faq.html for trouble shooting.
+[24]PETSC ERROR: Petsc Release Version 3.7.4, unknown 
+[24]PETSC ERROR: ./octask on a arch-linux2-c-debug named node1-128-04 by achaplygin99_607 Tue Nov 22 15:47:28 2016
+[24]PETSC ERROR: Configure options --with-cc=gcc --with-cxx=g++ --with-fc=gfortran --download-fblaslapack --download-mpich
+[24]PETSC ERROR: #1 MatSetValues_MPIAIJ() line 585 in /mnt/data/users/dm4/vol12/achaplygin99_607/petsc/src/mat/impls/aij/mpi/mpiaij.c
+[36]PETSC ERROR: --------------------- Error Message --------------------------------------------------------------
+[36]PETSC ERROR: Argument out of range
+[36]PETSC ERROR: Column too large: col 808464432 max 97919
+[62]PETSC ERROR: ./octask on a arch-linux2-c-debug named node1-128-10 by achaplygin99_607 Tue Nov 22 15:47:28 2016
+[62]PETSC ERROR: Configure options --with-cc=gcc --with-cxx=g++ --with-fc=gfortran --download-fblaslapack --download-mpich
+[62]PETSC ERROR: #1 MatSetValues_MPIAIJ() line 585 in /mnt/data/users/dm4/vol12/achaplygin99_607/petsc/src/mat/impls/aij/mpi/mpiaij.c
+[24]PETSC ERROR: #2 MatSetValues() line 1190 in /mnt/data/users/dm4/vol12/achaplygin99_607/petsc/src/mat/interface/matrix.c
+[36]PETSC ERROR: See http://www.mcs.anl.gov/petsc/documentation/faq.html for trouble shooting.
+[36]PETSC ERROR: Petsc Release Version 3.7.4, unknown 
+[36]PETSC ERROR: ./octask on a arch-linux2-c-debug named node1-128-05 by achaplygin99_607 Tue Nov 22 15:47:28 2016
+[36]PETSC ERROR: Configure options --with-cc=gcc --with-cxx=g++ --with-fc=gfortran --download-fblaslapack --download-mpich
+[36]PETSC ERROR: #3 MatSetValues_MPIAIJ() line 585 in /mnt/data/users/dm4/vol12/achaplygin99_607/petsc/src/mat/impls/aij/mpi/mpiaij.c
+[62]PETSC ERROR: #2 MatSetValues() line 1190 in /mnt/data/users/dm4/vol12/achaplygin99_607/petsc/src/mat/interface/matrix.c
+[36]PETSC ERROR: #4 MatSetValues() line 1190 in /mnt/data/users/dm4/vol12/achaplygin99_607/petsc/src/mat/interface/matrix.c
+[17]PETSC ERROR: --------------------- Error Message --------------------------------------------------------------
+[17]PETSC ERROR: Argument out of range
+[17]PETSC ERROR: Column too large: col 808464433 max 97919
+[17]PETSC ERROR: See http://www.mcs.anl.gov/petsc/documentation/faq.html for trouble shooting.
+[17]PETSC ERROR: Petsc Release Version 3.7.4, unknown 
+[17]PETSC ERROR: ./octask on a arch-linux2-c-debug named node1-128-03 by achaplygin99_607 Tue Nov 22 15:47:28 2016
+[17]PETSC ERROR: Configure options --with-cc=gcc --with-cxx=g++ --with-fc=gfortran --download-fblaslapack --download-mpich
+[17]PETSC ERROR: #3 MatSetValues_MPIAIJ() line 585 in /mnt/data/users/dm4/vol12/achaplygin99_607/petsc/src/mat/impls/aij/mpi/mpiaij.c
+[17]PETSC ERROR: #4 MatSetValues() line 1190 in /mnt/data/users/dm4/vol12/achaplygin99_607/petsc/src/mat/interface/matrix.c
+[59]PETSC ERROR: --------------------- Error Message --------------------------------------------------------------
+[59]PETSC ERROR: Argument out of range
+[59]PETSC ERROR: Column too large: col 808464432 max 97919
+[59]PETSC ERROR: See http://www.mcs.anl.gov/petsc/documentation/faq.html for trouble shooting.
+[59]PETSC ERROR: Petsc Release Version 3.7.4, unknown 
+[59]PETSC ERROR: ./octask on a arch-linux2-c-debug named node1-128-10 by achaplygin99_607 Tue Nov 22 15:47:28 2016
+[59]PETSC ERROR: Configure options --with-cc=gcc --with-cxx=g++ --with-fc=gfortran --download-fblaslapack --download-mpich
+[59]PETSC ERROR: #1 MatSetValues_MPIAIJ() line 585 in /mnt/data/users/dm4/vol12/achaplygin99_607/petsc/src/mat/impls/aij/mpi/mpiaij.c
+[59]PETSC ERROR: #2 MatSetValues() line 1190 in /mnt/data/users/dm4/vol12/achaplygin99_607/petsc/src/mat/interface/matrix.c
+[18]PETSC ERROR: --------------------- Error Message --------------------------------------------------------------
+[18]PETSC ERROR: Argument out of range
+[18]PETSC ERROR: Column too large: col 808464433 max 97919
+[18]PETSC ERROR: See http://www.mcs.anl.gov/petsc/documentation/faq.html for trouble shooting.
+[18]PETSC ERROR: Petsc Release Version 3.7.4, unknown 
+[18]PETSC ERROR: ./octask on a arch-linux2-c-debug named node1-128-03 by achaplygin99_607 Tue Nov 22 15:47:28 2016
+[18]PETSC ERROR: Configure options --with-cc=gcc --with-cxx=g++ --with-fc=gfortran --download-fblaslapack --download-mpich
+[18]PETSC ERROR: #3 MatSetValues_MPIAIJ() line 585 in /mnt/data/users/dm4/vol12/achaplygin99_607/petsc/src/mat/impls/aij/mpi/mpiaij.c
+[18]PETSC ERROR: #4 MatSetValues() line 1190 in /mnt/data/users/dm4/vol12/achaplygin99_607/petsc/src/mat/interface/matrix.c
+[19]PETSC ERROR: --------------------- Error Message --------------------------------------------------------------
+[19]PETSC ERROR: Argument out of range
+[19]PETSC ERROR: Column too large: col 808464433 max 97919
+[19]PETSC ERROR: See http://www.mcs.anl.gov/petsc/documentation/faq.html for trouble shooting.
+[19]PETSC ERROR: Petsc Release Version 3.7.4, unknown 
+[19]PETSC ERROR: ./octask on a arch-linux2-c-debug named node1-128-03 by achaplygin99_607 Tue Nov 22 15:47:28 2016
+[19]PETSC ERROR: Configure options --with-cc=gcc --with-cxx=g++ --with-fc=gfortran --download-fblaslapack --download-mpich
+[19]PETSC ERROR: #3 MatSetValues_MPIAIJ() line 585 in /mnt/data/users/dm4/vol12/achaplygin99_607/petsc/src/mat/impls/aij/mpi/mpiaij.c
+[19]PETSC ERROR: #4 MatSetValues() line 1190 in /mnt/data/users/dm4/vol12/achaplygin99_607/petsc/src/mat/interface/matrix.c
+[38]PETSC ERROR: --------------------- Error Message --------------------------------------------------------------
+[38]PETSC ERROR: Argument out of range
+[38]PETSC ERROR: Column too large: col 808464432 max 97919
+[38]PETSC ERROR: See http://www.mcs.anl.gov/petsc/documentation/faq.html for trouble shooting.
+[38]PETSC ERROR: Petsc Release Version 3.7.4, unknown 
+[38]PETSC ERROR: ./octask on a arch-linux2-c-debug named node1-128-05 by achaplygin99_607 Tue Nov 22 15:47:28 2016
+[38]PETSC ERROR: Configure options --with-cc=gcc --with-cxx=g++ --with-fc=gfortran --download-fblaslapack --download-mpich
+[38]PETSC ERROR: #3 MatSetValues_MPIAIJ() line 585 in /mnt/data/users/dm4/vol12/achaplygin99_607/petsc/src/mat/impls/aij/mpi/mpiaij.c
+[38]PETSC ERROR: #4 MatSetValues() line 1190 in /mnt/data/users/dm4/vol12/achaplygin99_607/petsc/src/mat/interface/matrix.c
+[35]PETSC ERROR: --------------------- Error Message --------------------------------------------------------------
+[35]PETSC ERROR: Argument out of range
+[35]PETSC ERROR: Column too large: col 808464432 max 97919
+[35]PETSC ERROR: See http://www.mcs.anl.gov/petsc/documentation/faq.html for trouble shooting.
+[35]PETSC ERROR: Petsc Release Version 3.7.4, unknown 
+[35]PETSC ERROR: ./octask on a arch-linux2-c-debug named node1-128-05 by achaplygin99_607 Tue Nov 22 15:47:28 2016
+[35]PETSC ERROR: Configure options --with-cc=gcc --with-cxx=g++ --with-fc=gfortran --download-fblaslapack --download-mpich
+[35]PETSC ERROR: #3 MatSetValues_MPIAIJ() line 585 in /mnt/data/users/dm4/vol12/achaplygin99_607/petsc/src/mat/impls/aij/mpi/mpiaij.c
+[35]PETSC ERROR: #4 MatSetValues() line 1190 in /mnt/data/users/dm4/vol12/achaplygin99_607/petsc/src/mat/interface/matrix.c
+[27]PETSC ERROR: --------------------- Error Message --------------------------------------------------------------
+[27]PETSC ERROR: Argument out of range
+[27]PETSC ERROR: Column too large: col 808464433 max 97919
+[27]PETSC ERROR: See http://www.mcs.anl.gov/petsc/documentation/faq.html for trouble shooting.
+[27]PETSC ERROR: Petsc Release Version 3.7.4, unknown 
+[27]PETSC ERROR: ./octask on a arch-linux2-c-debug named node1-128-04 by achaplygin99_607 Tue Nov 22 15:47:28 2016
+[27]PETSC ERROR: Configure options --with-cc=gcc --with-cxx=g++ --with-fc=gfortran --download-fblaslapack --download-mpich
+[27]PETSC ERROR: #3 MatSetValues_MPIAIJ() line 585 in /mnt/data/users/dm4/vol12/achaplygin99_607/petsc/src/mat/impls/aij/mpi/mpiaij.c
+[27]PETSC ERROR: #4 MatSetValues() line 1190 in /mnt/data/users/dm4/vol12/achaplygin99_607/petsc/src/mat/interface/matrix.c
+[33]PETSC ERROR: --------------------- Error Message --------------------------------------------------------------
+[33]PETSC ERROR: Argument out of range
+[33]PETSC ERROR: Column too large: col 808464432 max 97919
+[51]PETSC ERROR: --------------------- Error Message --------------------------------------------------------------
+[51]PETSC ERROR: Argument out of range
+[33]PETSC ERROR: See http://www.mcs.anl.gov/petsc/documentation/faq.html for trouble shooting.
+[33]PETSC ERROR: Petsc Release Version 3.7.4, unknown 
+[33]PETSC ERROR: ./octask on a arch-linux2-c-debug named node1-128-05 by achaplygin99_607 Tue Nov 22 15:47:28 2016
+[33]PETSC ERROR: Configure options --with-cc=gcc --with-cxx=g++ --with-fc=gfortran --download-fblaslapack --download-mpich
+[51]PETSC ERROR: Column too large: col 808464433 max 97919
+[51]PETSC ERROR: See http://www.mcs.anl.gov/petsc/documentation/faq.html for trouble shooting.
+[51]PETSC ERROR: Petsc Release Version 3.7.4, unknown 
+[51]PETSC ERROR: ./octask on a arch-linux2-c-debug named node1-128-09 by achaplygin99_607 Tue Nov 22 15:47:28 2016
+[51]PETSC ERROR: Configure options --with-cc=gcc --with-cxx=g++ --with-fc=gfortran --download-fblaslapack --download-mpich
+[51]PETSC ERROR: [33]PETSC ERROR: #3 MatSetValues_MPIAIJ() line 585 in /mnt/data/users/dm4/vol12/achaplygin99_607/petsc/src/mat/impls/aij/mpi/mpiaij.c
+[33]PETSC ERROR: #3 MatSetValues_MPIAIJ() line 585 in /mnt/data/users/dm4/vol12/achaplygin99_607/petsc/src/mat/impls/aij/mpi/mpiaij.c
+[51]PETSC ERROR: #4 MatSetValues() line 1190 in /mnt/data/users/dm4/vol12/achaplygin99_607/petsc/src/mat/interface/matrix.c
+#4 MatSetValues() line 1190 in /mnt/data/users/dm4/vol12/achaplygin99_607/petsc/src/mat/interface/matrix.c
+[54]PETSC ERROR: --------------------- Error Message --------------------------------------------------------------
+[54]PETSC ERROR: Argument out of range
+[54]PETSC ERROR: Column too large: col 808464432 max 97919
+[54]PETSC ERROR: See http://www.mcs.anl.gov/petsc/documentation/faq.html for trouble shooting.
+[54]PETSC ERROR: Petsc Release Version 3.7.4, unknown 
+[54]PETSC ERROR: ./octask on a arch-linux2-c-debug named node1-128-09 by achaplygin99_607 Tue Nov 22 15:47:28 2016
+[54]PETSC ERROR: Configure options --with-cc=gcc --with-cxx=g++ --with-fc=gfortran --download-fblaslapack --download-mpich
+[54]PETSC ERROR: #3 MatSetValues_MPIAIJ() line 585 in /mnt/data/users/dm4/vol12/achaplygin99_607/petsc/src/mat/impls/aij/mpi/mpiaij.c
+[54]PETSC ERROR: #4 MatSetValues() line 1190 in /mnt/data/users/dm4/vol12/achaplygin99_607/petsc/src/mat/interface/matrix.c
+[13]PETSC ERROR: --------------------- Error Message --------------------------------------------------------------
+[13]PETSC ERROR: Argument out of range
+[13]PETSC ERROR: Column too large: col 808464433 max 97919
+[13]PETSC ERROR: See http://www.mcs.anl.gov/petsc/documentation/faq.html for trouble shooting.
+[13]PETSC ERROR: Petsc Release Version 3.7.4, unknown 
+[13]PETSC ERROR: ./octask on a arch-linux2-c-debug named node1-128-02 by achaplygin99_607 Tue Nov 22 15:47:28 2016
+[13]PETSC ERROR: Configure options --with-cc=gcc --with-cxx=g++ --with-fc=gfortran --download-fblaslapack --download-mpich
+[13]PETSC ERROR: #3 MatSetValues_MPIAIJ() line 585 in /mnt/data/users/dm4/vol12/achaplygin99_607/petsc/src/mat/impls/aij/mpi/mpiaij.c
+[13]PETSC ERROR: #4 MatSetValues() line 1190 in /mnt/data/users/dm4/vol12/achaplygin99_607/petsc/src/mat/interface/matrix.c
+[34]PETSC ERROR: --------------------- Error Message --------------------------------------------------------------
+[34]PETSC ERROR: Argument out of range
+[34]PETSC ERROR: Column too large: col 808464432 max 97919
+[34]PETSC ERROR: See http://www.mcs.anl.gov/petsc/documentation/faq.html for trouble shooting.
+[34]PETSC ERROR: Petsc Release Version 3.7.4, unknown 
+[34]PETSC ERROR: ./octask on a arch-linux2-c-debug named node1-128-05 by achaplygin99_607 Tue Nov 22 15:47:28 2016
+[34]PETSC ERROR: Configure options --with-cc=gcc --with-cxx=g++ --with-fc=gfortran --download-fblaslapack --download-mpich
+[34]PETSC ERROR: #3 MatSetValues_MPIAIJ() line 585 in /mnt/data/users/dm4/vol12/achaplygin99_607/petsc/src/mat/impls/aij/mpi/mpiaij.c
+[34]PETSC ERROR: #4 MatSetValues() line 1190 in /mnt/data/users/dm4/vol12/achaplygin99_607/petsc/src/mat/interface/matrix.c
+[25]PETSC ERROR: --------------------- Error Message --------------------------------------------------------------
+[25]PETSC ERROR: Argument out of range
+[25]PETSC ERROR: Column too large: col 808464433 max 97919
+[25]PETSC ERROR: See http://www.mcs.anl.gov/petsc/documentation/faq.html for trouble shooting.
+[25]PETSC ERROR: Petsc Release Version 3.7.4, unknown 
+[25]PETSC ERROR: ./octask on a arch-linux2-c-debug named node1-128-04 by achaplygin99_607 Tue Nov 22 15:47:28 2016
+[25]PETSC ERROR: Configure options --with-cc=gcc --with-cxx=g++ --with-fc=gfortran --download-fblaslapack --download-mpich
+[25]PETSC ERROR: #3 MatSetValues_MPIAIJ() line 585 in /mnt/data/users/dm4/vol12/achaplygin99_607/petsc/src/mat/impls/aij/mpi/mpiaij.c
+[25]PETSC ERROR: #4 MatSetValues() line 1190 in /mnt/data/users/dm4/vol12/achaplygin99_607/petsc/src/mat/interface/matrix.c
+[11]PETSC ERROR: --------------------- Error Message --------------------------------------------------------------
+[11]PETSC ERROR: Argument out of range
+[11]PETSC ERROR: Column too large: col 808464432 max 97919
+[11]PETSC ERROR: See http://www.mcs.anl.gov/petsc/documentation/faq.html for trouble shooting.
+[11]PETSC ERROR: Petsc Release Version 3.7.4, unknown 
+[11]PETSC ERROR: ./octask on a arch-linux2-c-debug named node1-128-02 by achaplygin99_607 Tue Nov 22 15:47:28 2016
+[11]PETSC ERROR: Configure options --with-cc=gcc --with-cxx=g++ --with-fc=gfortran --download-fblaslapack --download-mpich
+[11]PETSC ERROR: #3 MatSetValues_MPIAIJ() line 585 in /mnt/data/users/dm4/vol12/achaplygin99_607/petsc/src/mat/impls/aij/mpi/mpiaij.c
+[11]PETSC ERROR: #4 MatSetValues() line 1190 in /mnt/data/users/dm4/vol12/achaplygin99_607/petsc/src/mat/interface/matrix.c
+[26]PETSC ERROR: --------------------- Error Message --------------------------------------------------------------
+[26]PETSC ERROR: Argument out of range
+[26]PETSC ERROR: Column too large: col 808464433 max 97919
+[26]PETSC ERROR: See http://www.mcs.anl.gov/petsc/documentation/faq.html for trouble shooting.
+[26]PETSC ERROR: Petsc Release Version 3.7.4, unknown 
+[26]PETSC ERROR: ./octask on a arch-linux2-c-debug named node1-128-04 by achaplygin99_607 Tue Nov 22 15:47:28 2016
+[26]PETSC ERROR: Configure options --with-cc=gcc --with-cxx=g++ --with-fc=gfortran --download-fblaslapack --download-mpich
+[26]PETSC ERROR: #3 MatSetValues_MPIAIJ() line 585 in /mnt/data/users/dm4/vol12/achaplygin99_607/petsc/src/mat/impls/aij/mpi/mpiaij.c
+[26]PETSC ERROR: #4 MatSetValues() line 1190 in /mnt/data/users/dm4/vol12/achaplygin99_607/petsc/src/mat/interface/matrix.c
+[14]PETSC ERROR: --------------------- Error Message --------------------------------------------------------------
+[14]PETSC ERROR: Argument out of range
+[14]PETSC ERROR: Column too large: col 808464433 max 97919
+[14]PETSC ERROR: See http://www.mcs.anl.gov/petsc/documentation/faq.html for trouble shooting.
+[14]PETSC ERROR: Petsc Release Version 3.7.4, unknown 
+[14]PETSC ERROR: ./octask on a arch-linux2-c-debug named node1-128-02 by achaplygin99_607 Tue Nov 22 15:47:28 2016
+[14]PETSC ERROR: Configure options --with-cc=gcc --with-cxx=g++ --with-fc=gfortran --download-fblaslapack --download-mpich
+[14]PETSC ERROR: #3 MatSetValues_MPIAIJ() line 585 in /mnt/data/users/dm4/vol12/achaplygin99_607/petsc/src/mat/impls/aij/mpi/mpiaij.c
+[14]PETSC ERROR: #4 MatSetValues() line 1190 in /mnt/data/users/dm4/vol12/achaplygin99_607/petsc/src/mat/interface/matrix.c
+[10]PETSC ERROR: --------------------- Error Message --------------------------------------------------------------
+[10]PETSC ERROR: Argument out of range
+[10]PETSC ERROR: Column too large: col 808464433 max 97919
+[10]PETSC ERROR: See http://www.mcs.anl.gov/petsc/documentation/faq.html for trouble shooting.
+[10]PETSC ERROR: Petsc Release Version 3.7.4, unknown 
+[10]PETSC ERROR: ./octask on a arch-linux2-c-debug named node1-128-02 by achaplygin99_607 Tue Nov 22 15:47:28 2016
+[10]PETSC ERROR: [12]PETSC ERROR: --------------------- Error Message --------------------------------------------------------------
+[12]PETSC ERROR: Argument out of range
+[12]PETSC ERROR: Column too large: col 808464433 max 97919
+[12]PETSC ERROR: See http://www.mcs.anl.gov/petsc/documentation/faq.html for trouble shooting.
+[12]PETSC ERROR: Petsc Release Version 3.7.4, unknown 
+[12]PETSC ERROR: ./octask on a arch-linux2-c-debug named node1-128-02 by achaplygin99_607 Tue Nov 22 15:47:28 2016
+[12]PETSC ERROR: Configure options --with-cc=gcc --with-cxx=g++ --with-fc=gfortran --download-fblaslapack --download-mpich
+Configure options --with-cc=gcc --with-cxx=g++ --with-fc=gfortran --download-fblaslapack --download-mpich
+[10]PETSC ERROR: #3 MatSetValues_MPIAIJ() line 585 in /mnt/data/users/dm4/vol12/achaplygin99_607/petsc/src/mat/impls/aij/mpi/mpiaij.c
+[10]PETSC ERROR: #4 MatSetValues() line 1190 in /mnt/data/users/dm4/vol12/achaplygin99_607/petsc/src/mat/interface/matrix.c
+[12]PETSC ERROR: #3 MatSetValues_MPIAIJ() line 585 in /mnt/data/users/dm4/vol12/achaplygin99_607/petsc/src/mat/impls/aij/mpi/mpiaij.c
+[12]PETSC ERROR: #4 MatSetValues() line 1190 in /mnt/data/users/dm4/vol12/achaplygin99_607/petsc/src/mat/interface/matrix.c
+ MatForm:  0.99941396713256836     
+ RHSForm:  2.94950008392333984E-002
+           0 KSPSolve   7.8287150859832764      its         985 norm  1.61022329897623270E-003 nvar       97920
+   FORM u,v,slh:  1.53729915618896484E-002
+   SYNC:  3.99899482727050781E-003
+ SolveSys:   7.8487040996551514     
+ RHSForm:  1.75919532775878906E-002
+           0 KSPSolve   5.3146860599517822      its         720 norm  2.36280151109651048E-003 nvar       97920
+   FORM u,v,slh:  3.81469726562500000E-005
+   SYNC:  1.24382972717285156E-003
+ SolveSys:   5.3160409927368164     
+ RHSForm:  1.98819637298583984E-002
+           0 KSPSolve   5.9628539085388184      its         779 norm  2.61430041637897769E-003 nvar       97920
+   FORM u,v,slh:  1.52826309204101563E-004
+   SYNC:  2.45690345764160156E-003
+ SolveSys:   5.9656219482421875     
+ RHSForm:  2.68771648406982422E-002
+           0 KSPSolve   4.3195030689239502      its         561 norm  2.34365996301563609E-003 nvar       97920
+   FORM u,v,slh:  3.00407409667968750E-005
+   SYNC:  9.92774963378906250E-004
+ SolveSys:   4.3206129074096680     
+ RHSForm:  1.65851116180419922E-002
+           0 KSPSolve   3.6189479827880859      its         477 norm  1.92243607976135813E-003 nvar       97920
+   FORM u,v,slh:  2.90870666503906250E-005
+   SYNC:  3.39794158935546875E-003
+ SolveSys:   3.6225960254669189     
+ RHSForm:  2.06148624420166016E-002
+           0 KSPSolve   5.3223569393157959      its         694 norm  1.58611228746851295E-003 nvar       97920
+   FORM u,v,slh:  6.84976577758789063E-004
+   SYNC:  2.31695175170898438E-003
+ SolveSys:   5.3260400295257568     
+ RHSForm:  2.80251502990722656E-002
+           0 KSPSolve   5.2378988265991211      its         691 norm  1.45649016499005629E-003 nvar       97920
+   FORM u,v,slh:  1.26838684082031250E-004
+   SYNC:  2.75516510009765625E-003
+ SolveSys:   5.2409789562225342     
+ RHSForm:  3.02281379699707031E-002
+           0 KSPSolve   4.4363811016082764      its         589 norm  1.48955255254532752E-003 nvar       97920
+   FORM u,v,slh:  3.09944152832031250E-005
+   SYNC:  9.72986221313476563E-004
+ SolveSys:   4.4375081062316895     
+ RHSForm:  1.65181159973144531E-002
+           0 KSPSolve   3.7233748435974121      its         498 norm  1.59546788385401812E-003 nvar       97920
+   FORM u,v,slh:  4.79221343994140625E-005
+   SYNC:  3.55601310729980469E-003
+ SolveSys:   3.7272920608520508     
+ RHSForm:  1.93059444427490234E-002
+           0 KSPSolve   3.5473759174346924      its         451 norm  1.70385039179100179E-003 nvar       97920
+   FORM u,v,slh:  5.00917434692382813E-004
+   SYNC:  2.42781639099121094E-003
+ SolveSys:   3.5507478713989258     
+  WRITE XY-DATA: REC=       1
+   MODEL TIME: 05:00:00  01JAN2013;  DAY IN YEAR:001,  DAY IN 4YRS:0001
+ OUTPUT DATA to E/XY/sl.dat
+ XY_OUT:  0.24338412284851074     
+ RHSForm:  1.81729793548583984E-002
+           0 KSPSolve   3.0757699012756348      its         389 norm  1.79253012208494596E-003 nvar       97920
+   FORM u,v,slh:  3.50475311279296875E-005
+   SYNC:  1.30200386047363281E-003
+ SolveSys:   3.0771791934967041     
+ RHSForm:  1.83029174804687500E-002
+           0 KSPSolve   3.6877579689025879      its         464 norm  1.85030682123152562E-003 nvar       97920
+   FORM u,v,slh:  3.69548797607421875E-005
+   SYNC:  4.13608551025390625E-003
+ SolveSys:   3.6919949054718018     
+ RHSForm:  2.21350193023681641E-002
+           0 KSPSolve   3.6654059886932373      its         462 norm  1.88048273970194742E-003 nvar       97920
+   FORM u,v,slh:  2.90155410766601563E-004
+   SYNC:  1.11103057861328125E-003
+ SolveSys:   3.6670880317687988     
+ RHSForm:  2.28500366210937500E-002
+           0 KSPSolve   3.0717020034790039      its         386 norm  1.90351796401995324E-003 nvar       97920
+   FORM u,v,slh:  3.69548797607421875E-005
+   SYNC:  8.71896743774414063E-004
+ SolveSys:   3.0726850032806396     
+ RHSForm:  1.91030502319335938E-002
+           0 KSPSolve   2.4143810272216797      its         298 norm  1.91120439354932779E-003 nvar       97920
+   FORM u,v,slh:  3.98159027099609375E-005
+   SYNC:  3.87501716613769531E-003
+ SolveSys:   2.4184460639953613     
+ RHSForm:  2.06000804901123047E-002
+           0 KSPSolve   2.1054139137268066      its         248 norm  1.93620531394770364E-003 nvar       97920
+   FORM u,v,slh:  1.29938125610351563E-004
+   SYNC:  9.84191894531250000E-004
+ SolveSys:   2.1067569255828857     
+ RHSForm:  2.61979103088378906E-002
+           0 KSPSolve  0.28184294700622559      its          34 norm  1.93997723402213247E-003 nvar       97920
+   FORM u,v,slh:  3.50475311279296875E-005
+   SYNC:  8.54015350341796875E-004
+ SolveSys:  0.28280305862426758     
+ RHSForm:  1.52490139007568359E-002
+           0 KSPSolve   1.3341879844665527      its         173 norm  2.02064555160985258E-003 nvar       97920
+   FORM u,v,slh:  3.00407409667968750E-005
+   SYNC:  7.82012939453125000E-004
+ SolveSys:   1.3350670337677002     
+ RHSForm:  1.22268199920654297E-002
+           0 KSPSolve   1.5234968662261963      its         193 norm  2.06522803588049227E-003 nvar       97920
+   FORM u,v,slh:  2.98023223876953125E-005
+   SYNC:  7.14063644409179688E-004
+ SolveSys:   1.5243079662322998     
+ RHSForm:  1.42250061035156250E-002
+           0 KSPSolve   1.8205578327178955      its         235 norm  2.10100111403022571E-003 nvar       97920
+   FORM u,v,slh:  2.47955322265625000E-005
+   SYNC:  9.93013381958007813E-004
+ SolveSys:   1.8216550350189209     
+  WRITE XY-DATA: REC=       2
+   MODEL TIME: 10:00:00  01JAN2013;  DAY IN YEAR:001,  DAY IN 4YRS:0001
+ OUTPUT DATA to E/XY/sl.dat
+ XY_OUT:  4.40788269042968750E-002
+ RHSForm:  2.85811424255371094E-002
+           0 KSPSolve   1.4665548801422119      its         186 norm  2.15030452882268098E-003 nvar       97920
+   FORM u,v,slh:  1.29938125610351563E-004
+   SYNC:  1.18184089660644531E-003
+ SolveSys:   1.4679729938507080     
+ RHSForm:  2.00049877166748047E-002
+           0 KSPSolve   1.5611901283264160      its         191 norm  2.18405491271961164E-003 nvar       97920
+   FORM u,v,slh:  3.50475311279296875E-005
+   SYNC:  1.32799148559570313E-003
+ SolveSys:   1.5626239776611328     
+ RHSForm:  1.89960002899169922E-002
+           0 KSPSolve   1.2265899181365967      its         143 norm  2.23390460454451437E-003 nvar       97920
+   FORM u,v,slh:  3.09944152832031250E-005
+   SYNC:  1.56211853027343750E-003
+ SolveSys:   1.2282779216766357     
+ RHSForm:  1.54840946197509766E-002
+           0 KSPSolve  0.82867908477783203      its         107 norm  2.26995139405740875E-003 nvar       97920
+   FORM u,v,slh:  1.43051147460937500E-004
+   SYNC:  6.51121139526367188E-004
+ SolveSys:  0.82967185974121094     
+ RHSForm:  1.73251628875732422E-002
+           0 KSPSolve  0.84808588027954102      its          98 norm  2.31766877819923047E-003 nvar       97920
+   FORM u,v,slh:  3.09944152832031250E-005
+   SYNC:  7.59840011596679688E-004
+ SolveSys:  0.84894585609436035     
+ RHSForm:  1.18989944458007813E-002
+           0 KSPSolve  0.96910810470581055      its         126 norm  2.35462612099402932E-003 nvar       97920
+   FORM u,v,slh:  2.40802764892578125E-005
+   SYNC:  9.77039337158203125E-004
+ SolveSys:  0.97017502784729004     
+ RHSForm:  1.20811462402343750E-002
+           0 KSPSolve  0.82198190689086914      its         107 norm  2.40963386125293355E-003 nvar       97920
+   FORM u,v,slh:  4.41074371337890625E-005
+   SYNC:  5.66959381103515625E-004
+ SolveSys:  0.82266998291015625     
+ RHSForm:  1.13649368286132813E-002
+           0 KSPSolve  0.97157502174377441      its         123 norm  2.45559821157608242E-003 nvar       97920
+   FORM u,v,slh:  3.79085540771484375E-005
+   SYNC:  1.72901153564453125E-003
+ SolveSys:  0.97341895103454590     
+ RHSForm:  1.16441249847412109E-002
+           0 KSPSolve  0.94434618949890137      its         117 norm  2.50923501886483576E-003 nvar       97920
+   FORM u,v,slh:  2.09808349609375000E-005
+   SYNC:  6.67095184326171875E-004
+ SolveSys:  0.94528508186340332     
+ RHSForm:  1.50949954986572266E-002
+           0 KSPSolve   1.0339069366455078      its         129 norm  2.57653297977320124E-003 nvar       97920
+   FORM u,v,slh:  3.91006469726562500E-005
+   SYNC:  2.11095809936523438E-003
+ SolveSys:   1.0361230373382568     
+  WRITE XY-DATA: REC=       3
+   MODEL TIME: 15:00:00  01JAN2013;  DAY IN YEAR:001,  DAY IN 4YRS:0001
+ OUTPUT DATA to E/XY/sl.dat
+ XY_OUT:  3.68769168853759766E-002
+ RHSForm:  2.83889770507812500E-002
+           0 KSPSolve  0.88093614578247070      its         112 norm  2.63383795260693993E-003 nvar       97920
+   FORM u,v,slh:  1.53064727783203125E-004
+   SYNC:  1.08408927917480469E-003
+ SolveSys:  0.88227701187133789     
+ RHSForm:  1.19349956512451172E-002
+           0 KSPSolve  0.86436510086059570      its         109 norm  2.69185021798750042E-003 nvar       97920
+   FORM u,v,slh:  3.50475311279296875E-005
+   SYNC:  1.96504592895507813E-003
+ SolveSys:  0.86644315719604492     
+ RHSForm:  1.69138908386230469E-002
+           0 KSPSolve  0.65503907203674316      its          84 norm  2.74818104073186941E-003 nvar       97920
+   FORM u,v,slh:  3.88622283935546875E-005
+   SYNC:  9.83953475952148438E-004
+ SolveSys:  0.65613007545471191     
+ RHSForm:  1.24001502990722656E-002
+           0 KSPSolve  0.53180003166198730      its          67 norm  2.80167422108941943E-003 nvar       97920
+   FORM u,v,slh:  3.40938568115234375E-005
+   SYNC:  6.60181045532226563E-004
+ SolveSys:  0.53256511688232422     
+ RHSForm:  1.58669948577880859E-002
+           0 KSPSolve  0.46353292465209961      its          57 norm  2.84009663127584048E-003 nvar       97920
+   FORM u,v,slh:  3.50475311279296875E-005
+   SYNC:  2.37202644348144531E-003
+ SolveSys:  0.46601510047912598     
+ RHSForm:  1.69880390167236328E-002
+           0 KSPSolve  0.35446500778198242      its          44 norm  2.92424362362209188E-003 nvar       97920
+   FORM u,v,slh:  9.13143157958984375E-004
+   SYNC:  9.41991806030273438E-004
+ SolveSys:  0.35650897026062012     
+ RHSForm:  1.22082233428955078E-002
+           0 KSPSolve  0.32493090629577637      its          46 norm  2.98111764691680239E-003 nvar       97920
+   FORM u,v,slh:  3.48091125488281250E-005
+   SYNC:  9.34123992919921875E-004
+ SolveSys:  0.32596898078918457     
+ RHSForm:  1.20251178741455078E-002
+           0 KSPSolve  0.38001203536987305      its          50 norm  3.04016821024201758E-003 nvar       97920
+   FORM u,v,slh:  3.91006469726562500E-005
+   SYNC:  7.73906707763671875E-004
+ SolveSys:  0.38089895248413086     
+ RHSForm:  1.29261016845703125E-002
+           0 KSPSolve  0.36613488197326660      its          49 norm  3.08945672137117240E-003 nvar       97920
+   FORM u,v,slh:  5.60283660888671875E-005
+   SYNC:  6.63042068481445313E-004
+ SolveSys:  0.36694192886352539     
+ RHSForm:  1.20549201965332031E-002
+           0 KSPSolve  0.34057593345642090      its          47 norm  3.17586002119566021E-003 nvar       97920
+   FORM u,v,slh:  3.71932983398437500E-005
+   SYNC:  1.26600265502929688E-003
+ SolveSys:  0.34194898605346680     
+  WRITE XY-DATA: REC=       4
+   MODEL TIME: 20:00:00  01JAN2013;  DAY IN YEAR:001,  DAY IN 4YRS:0001
+ OUTPUT DATA to E/XY/sl.dat
+ XY_OUT:  4.55069541931152344E-002
+ RHSForm:  2.65810489654541016E-002
+           0 KSPSolve  0.36677789688110352      its          49 norm  3.22847802156372293E-003 nvar       97920
+   FORM u,v,slh:  1.26838684082031250E-004
+   SYNC:  1.15084648132324219E-003
+ SolveSys:  0.36835002899169922     
+ RHSForm:  1.15721225738525391E-002
+           0 KSPSolve  0.33668398857116699      its          47 norm  3.29234262974002984E-003 nvar       97920
+   FORM u,v,slh:  3.60012054443359375E-005
+   SYNC:  9.99927520751953125E-004
+ SolveSys:  0.33779001235961914     
+ RHSForm:  1.31018161773681641E-002
+           0 KSPSolve  0.32735180854797363      its          45 norm  3.37620758816331449E-003 nvar       97920
+   FORM u,v,slh:  3.91006469726562500E-005
+   SYNC:  9.41991806030273438E-004
+ SolveSys:  0.32840609550476074     
+ RHSForm:  1.20699405670166016E-002
+           0 KSPSolve  0.37477898597717285      its          46 norm  3.42848045638563352E-003 nvar       97920
+   FORM u,v,slh:  2.40802764892578125E-005
+   SYNC:  8.38994979858398438E-004
+ SolveSys:  0.37570905685424805     
+ RHSForm:  1.30100250244140625E-002
+           0 KSPSolve  0.31600093841552734      its          44 norm  3.50102271631225811E-003 nvar       97920
+   FORM u,v,slh:  3.50475311279296875E-005
+   SYNC:  1.29199028015136719E-003
+ SolveSys:  0.31739687919616699     
+ RHSForm:  1.10249519348144531E-002
+           0 KSPSolve  0.32249402999877930      its          43 norm  3.57254875879891350E-003 nvar       97920
+   FORM u,v,slh:  3.31401824951171875E-005
+   SYNC:  8.67128372192382813E-004
+ SolveSys:  0.32346701622009277     
+ RHSForm:  1.84459686279296875E-002
+           0 KSPSolve  0.33807516098022461      its          42 norm  3.64837488413750390E-003 nvar       97920
+   FORM u,v,slh:  5.50746917724609375E-005
+   SYNC:  8.49008560180664063E-004
+ SolveSys:  0.33926701545715332     
+ RHSForm:  1.36921405792236328E-002
+           0 KSPSolve  0.29435300827026367      its          41 norm  3.72937400424961773E-003 nvar       97920
+   FORM u,v,slh:  2.21729278564453125E-005
+   SYNC:  8.13961029052734375E-004
+ SolveSys:  0.29527306556701660     
+ RHSForm:  1.12857818603515625E-002
+           0 KSPSolve  0.30261588096618652      its          41 norm  3.79515183202400750E-003 nvar       97920
+   FORM u,v,slh:  3.48091125488281250E-005
+   SYNC:  1.01780891418457031E-003
+ SolveSys:  0.30373477935791016     
+ RHSForm:  1.18141174316406250E-002
+           0 KSPSolve  0.30503201484680176      its          40 norm  3.86652932760628591E-003 nvar       97920
+   FORM u,v,slh:  3.50475311279296875E-005
+   SYNC:  1.34706497192382813E-003
+ SolveSys:  0.30648994445800781     
+  WRITE XY-DATA: REC=       4
+   MODEL TIME: 01:00:00  02JAN2013;  DAY IN YEAR:002,  DAY IN 4YRS:0002
+ OUTPUT DATA to E/XY/sl.dat
+ XY_OUT:  4.24380302429199219E-002
+ RHSForm:  2.38521099090576172E-002
+           0 KSPSolve  0.29316091537475586      its          39 norm  3.94667287644991528E-003 nvar       97920
+   FORM u,v,slh:  1.28030776977539063E-004
+   SYNC:  1.29795074462890625E-003
+ SolveSys:  0.29472994804382324     
+ RHSForm:  1.25620365142822266E-002
+           0 KSPSolve  0.28528285026550293      its          38 norm  4.03756608481101609E-003 nvar       97920
+   FORM u,v,slh:  4.41074371337890625E-005
+   SYNC:  6.55889511108398438E-004
+ SolveSys:  0.28607702255249023     
+ RHSForm:  1.21951103210449219E-002
+           0 KSPSolve  0.28270697593688965      its          38 norm  4.11509152590844220E-003 nvar       97920
+   FORM u,v,slh:  3.00407409667968750E-005
+   SYNC:  8.29935073852539063E-004
+ SolveSys:  0.28363394737243652     
+ RHSForm:  1.26669406890869141E-002
+           0 KSPSolve  0.27078390121459961      its          37 norm  4.20869414873612478E-003 nvar       97920
+   FORM u,v,slh:  5.91278076171875000E-005
+   SYNC:  1.23214721679687500E-003
+ SolveSys:  0.27217793464660645     
+ RHSForm:  1.12969875335693359E-002
+           0 KSPSolve  0.29348206520080566      its          37 norm  4.29108603386032985E-003 nvar       97920
+   FORM u,v,slh:  4.88758087158203125E-005
+   SYNC:  8.41856002807617188E-004
+ SolveSys:  0.29446005821228027     
+ RHSForm:  1.57668590545654297E-002
+           0 KSPSolve  0.32468008995056152      its          37 norm  4.36237472326514008E-003 nvar       97920
+   FORM u,v,slh:  3.38554382324218750E-005
+   SYNC:  1.93190574645996094E-003
+ SolveSys:  0.32672810554504395     
+ RHSForm:  1.67698860168457031E-002
+           0 KSPSolve  0.29200196266174316      its          36 norm  4.45302107466722264E-003 nvar       97920
+   FORM u,v,slh:  2.38418579101562500E-005
+   SYNC:  5.20229339599609375E-004
+ SolveSys:  0.29279422760009766     
+ RHSForm:  1.27038955688476563E-002
+           0 KSPSolve  0.26517796516418457      its          35 norm  4.56352776380468221E-003 nvar       97920
+   FORM u,v,slh:  3.50475311279296875E-005
+   SYNC:  1.28579139709472656E-003
+ SolveSys:  0.26666188240051270     
+ RHSForm:  1.39420032501220703E-002
+           0 KSPSolve  0.26379585266113281      its          35 norm  4.66177313791615085E-003 nvar       97920
+   FORM u,v,slh:  4.41074371337890625E-005
+   SYNC:  6.79969787597656250E-004
+ SolveSys:  0.26471996307373047     
+ RHSForm:  1.12130641937255859E-002
+           0 KSPSolve  0.26820802688598633      its          35 norm  4.75159034276692333E-003 nvar       97920
+   FORM u,v,slh:  3.31401824951171875E-005
+   SYNC:  1.43003463745117188E-003
+ SolveSys:  0.26974105834960938     
+  WRITE XY-DATA: REC=       1
+   MODEL TIME: 06:00:00  02JAN2013;  DAY IN YEAR:002,  DAY IN 4YRS:0002
+ OUTPUT DATA to E/XY/sl.dat
+ XY_OUT:  3.92689704895019531E-002
+ RHSForm:  2.53679752349853516E-002
+           0 KSPSolve  0.28310394287109375      its          35 norm  4.83765298929438991E-003 nvar       97920
+   FORM u,v,slh:  1.23023986816406250E-004
+   SYNC:  1.27911567687988281E-003
+ SolveSys:  0.28464293479919434     
+ RHSForm:  1.28791332244873047E-002
+           0 KSPSolve  0.26429200172424316      its          34 norm  4.95114435690835984E-003 nvar       97920
+   FORM u,v,slh:  3.81469726562500000E-005
+   SYNC:  7.41004943847656250E-004
+ SolveSys:  0.26514101028442383     
+ RHSForm:  1.23200416564941406E-002
+           0 KSPSolve  0.24854493141174316      its          34 norm  5.05674978400288012E-003 nvar       97920
+   FORM u,v,slh:  3.38554382324218750E-005
+   SYNC:  9.05036926269531250E-004
+ SolveSys:  0.24954986572265625     
+ RHSForm:  1.32160186767578125E-002
+           0 KSPSolve  0.25870108604431152      its          34 norm  5.15885193692638532E-003 nvar       97920
+   FORM u,v,slh:  3.38554382324218750E-005
+   SYNC:  8.19206237792968750E-004
+ SolveSys:  0.25963091850280762     
+ RHSForm:  1.30271911621093750E-002
+           0 KSPSolve  0.26135587692260742      its          34 norm  5.26103739025335186E-003 nvar       97920
+   FORM u,v,slh:  3.88622283935546875E-005
+   SYNC:  1.62410736083984375E-003
+ SolveSys:  0.26317381858825684     
+ RHSForm:  1.39219760894775391E-002
+           0 KSPSolve  0.27991890907287598      its          34 norm  5.36552262505688056E-003 nvar       97920
+   FORM u,v,slh:  1.36137008666992188E-004
+   SYNC:  3.24583053588867188E-003
+ SolveSys:  0.28348183631896973     
+ RHSForm:  1.92298889160156250E-002
+           0 KSPSolve  0.28493499755859375      its          34 norm  5.47322169765774875E-003 nvar       97920
+   FORM u,v,slh:  3.60012054443359375E-005
+   SYNC:  7.87973403930664063E-004
+ SolveSys:  0.28584790229797363     
+ RHSForm:  1.19049549102783203E-002
+           0 KSPSolve  0.24934196472167969      its          33 norm  5.62490262673753533E-003 nvar       97920
+   FORM u,v,slh:  3.91006469726562500E-005
+   SYNC:  1.05786323547363281E-003
+ SolveSys:  0.25050806999206543     
+ RHSForm:  1.10840797424316406E-002
+           0 KSPSolve  0.26954698562622070      its          34 norm  5.72418287779728231E-003 nvar       97920
+   FORM u,v,slh:  2.90870666503906250E-005
+   SYNC:  9.82046127319335938E-004
+ SolveSys:  0.27063202857971191     
+ RHSForm:  1.27208232879638672E-002
+           0 KSPSolve  0.26522707939147949      its          34 norm  5.84114936732822720E-003 nvar       97920
+   FORM u,v,slh:  3.71932983398437500E-005
+   SYNC:  1.34396553039550781E-003
+ SolveSys:  0.26668214797973633     
+  WRITE XY-DATA: REC=       2
+   MODEL TIME: 11:00:00  02JAN2013;  DAY IN YEAR:002,  DAY IN 4YRS:0002
+ OUTPUT DATA to E/XY/sl.dat
+ XY_OUT:  4.26638126373291016E-002
+ RHSForm:  1.92251205444335938E-002
+           0 KSPSolve  0.26722192764282227      its          34 norm  5.96621931999844531E-003 nvar       97920
+   FORM u,v,slh:  1.28984451293945313E-004
+   SYNC:  8.52823257446289063E-004
+ SolveSys:  0.26832914352416992     
+ RHSForm:  1.18219852447509766E-002
+           0 KSPSolve  0.25260114669799805      its          34 norm  6.09740780230513899E-003 nvar       97920
+   FORM u,v,slh:  3.09944152832031250E-005
+   SYNC:  7.56978988647460938E-004
+ SolveSys:  0.25352501869201660     
+ RHSForm:  1.15439891815185547E-002
+           0 KSPSolve  0.25672602653503418      its          34 norm  6.23347249508249442E-003 nvar       97920
+   FORM u,v,slh:  4.10079956054687500E-005
+   SYNC:  1.17397308349609375E-003
+ SolveSys:  0.25801205635070801     
+ RHSForm:  1.23038291931152344E-002
+           0 KSPSolve  0.26218986511230469      its          34 norm  6.37429518357477548E-003 nvar       97920
+   FORM u,v,slh:  2.50339508056640625E-005
+   SYNC:  1.01304054260253906E-003
+ SolveSys:  0.26329588890075684     
+ RHSForm:  1.20449066162109375E-002
+           0 KSPSolve  0.25760078430175781      its          34 norm  6.52024857187293375E-003 nvar       97920
+   FORM u,v,slh:  3.50475311279296875E-005
+   SYNC:  6.88076019287109375E-004
+ SolveSys:  0.25839710235595703     
+ RHSForm:  1.21178627014160156E-002
+           0 KSPSolve  0.27734208106994629      its          34 norm  6.67159135452002981E-003 nvar       97920
+   FORM u,v,slh:  2.09808349609375000E-005
+   SYNC:  7.92026519775390625E-004
+ SolveSys:  0.27822709083557129     
+ RHSForm:  1.71961784362792969E-002
+           0 KSPSolve  0.30928206443786621      its          34 norm  6.82835520144643715E-003 nvar       97920
+   FORM u,v,slh:  4.00543212890625000E-005
+   SYNC:  7.82012939453125000E-004
+ SolveSys:  0.31017208099365234     
+ RHSForm:  1.25648975372314453E-002
+           0 KSPSolve  0.25689601898193359      its          34 norm  6.99043905954203990E-003 nvar       97920
+   FORM u,v,slh:  3.60012054443359375E-005
+   SYNC:  1.11985206604003906E-003
+ SolveSys:  0.25812101364135742     
+ RHSForm:  1.40058994293212891E-002
+           0 KSPSolve  0.27634000778198242      its          35 norm  7.12116283366753203E-003 nvar       97920
+   FORM u,v,slh:  3.98159027099609375E-005
+   SYNC:  9.86099243164062500E-004
+ SolveSys:  0.27743601799011230     
+ RHSForm:  1.11548900604248047E-002
+           0 KSPSolve  0.26728296279907227      its          34 norm  7.30385864870763436E-003 nvar       97920
+   FORM u,v,slh:  4.79221343994140625E-005
+   SYNC:  6.58988952636718750E-004
+ SolveSys:  0.26806807518005371     
+  WRITE XY-DATA: REC=       3
+   MODEL TIME: 16:00:00  02JAN2013;  DAY IN YEAR:002,  DAY IN 4YRS:0002
+ OUTPUT DATA to E/XY/sl.dat
+ XY_OUT:  4.50351238250732422E-002
+ RHSForm:  1.91910266876220703E-002
+           0 KSPSolve  0.26797914505004883      its          35 norm  7.44584386602501359E-003 nvar       97920
+   FORM u,v,slh:  1.31845474243164063E-004
+   SYNC:  9.74893569946289063E-004
+ SolveSys:  0.26945614814758301     
+ RHSForm:  1.18839740753173828E-002
+           0 KSPSolve  0.25603508949279785      its          34 norm  7.63887201680213748E-003 nvar       97920
+   FORM u,v,slh:  3.09944152832031250E-005
+   SYNC:  9.68217849731445313E-004
+ SolveSys:  0.25710797309875488     
+ RHSForm:  1.16860866546630859E-002
+           0 KSPSolve  0.27362680435180664      its          35 norm  7.78890141179442493E-003 nvar       97920
+   FORM u,v,slh:  7.51018524169921875E-005
+   SYNC:  8.33034515380859375E-004
+ SolveSys:  0.27473092079162598     
+ RHSForm:  1.12638473510742188E-002
+           0 KSPSolve  0.27308797836303711      its          34 norm  7.99314529867609438E-003 nvar       97920
+   FORM u,v,slh:  3.29017639160156250E-005
+   SYNC:  6.53982162475585938E-004
+ SolveSys:  0.27384996414184570     
+ RHSForm:  1.57759189605712891E-002
+           0 KSPSolve  0.25974202156066895      its          35 norm  8.15370675060651459E-003 nvar       97920
+   FORM u,v,slh:  3.38554382324218750E-005
+   SYNC:  1.14011764526367188E-003
+ SolveSys:  0.26098895072937012     
+ RHSForm:  1.21090412139892578E-002
+           0 KSPSolve  0.27041888236999512      its          35 norm  8.33120885901638721E-003 nvar       97920
+   FORM u,v,slh:  5.98430633544921875E-005
+   SYNC:  8.03947448730468750E-004
+ SolveSys:  0.27135396003723145     
+ RHSForm:  1.22079849243164063E-002
+           0 KSPSolve  0.27112197875976563      its          35 norm  8.51589742138545054E-003 nvar       97920
+   FORM u,v,slh:  3.21865081787109375E-005
+   SYNC:  4.98056411743164063E-004
+ SolveSys:  0.27173495292663574     
+ RHSForm:  1.30259990692138672E-002
+           0 KSPSolve  0.27955508232116699      its          34 norm  8.74691541466640805E-003 nvar       97920
+   FORM u,v,slh:  3.50475311279296875E-005
+   SYNC:  1.26099586486816406E-003
+ SolveSys:  0.28093814849853516     
+ RHSForm:  1.56641006469726563E-002
+           0 KSPSolve  0.26752614974975586      its          35 norm  8.92695024286968390E-003 nvar       97920
+   FORM u,v,slh:  3.81469726562500000E-005
+   SYNC:  8.38994979858398438E-004
+ SolveSys:  0.26847100257873535     
+ RHSForm:  1.20339393615722656E-002
+           0 KSPSolve  0.27384185791015625      its          35 norm  9.12468856735368025E-003 nvar       97920
+   FORM u,v,slh:  3.88622283935546875E-005
+   SYNC:  8.36849212646484375E-004
+ SolveSys:  0.27478694915771484     
+  WRITE XY-DATA: REC=       4
+   MODEL TIME: 21:00:00  02JAN2013;  DAY IN YEAR:002,  DAY IN 4YRS:0002
+ OUTPUT DATA to E/XY/sl.dat
+ XY_OUT:  4.25479412078857422E-002
+ RHSForm:  1.90868377685546875E-002
+           0 KSPSolve  0.28867411613464355      its          35 norm  9.32981261689662909E-003 nvar       97920
+   FORM u,v,slh:  1.32799148559570313E-004
+   SYNC:  1.22308731079101563E-003
+ SolveSys:  0.29013609886169434     
+ RHSForm:  1.27551555633544922E-002
+           0 KSPSolve  0.26374006271362305      its          34 norm  9.58368477282690000E-003 nvar       97920
+   FORM u,v,slh:  3.88622283935546875E-005
+   SYNC:  1.44600868225097656E-003
+ SolveSys:  0.26531195640563965     
+ RHSForm:  1.15458965301513672E-002
+           0 KSPSolve  0.26668906211853027      its          35 norm  9.78004092427295010E-003 nvar       97920
+   FORM u,v,slh:  3.69548797607421875E-005
+   SYNC:  9.67025756835937500E-004
+ SolveSys:  0.26777505874633789     
+ RHSForm:  1.72758102416992188E-002
+           0 KSPSolve  0.28789401054382324      its          35 norm  9.99349473990009465E-003 nvar       97920
+   FORM u,v,slh:  3.09944152832031250E-005
+   SYNC:  8.31127166748046875E-004
+ SolveSys:  0.28882884979248047     
+ RHSForm:  1.16760730743408203E-002
+           0 KSPSolve  0.27069401741027832      its          34 norm  1.02584839002246592E-002 nvar       97920
+   FORM u,v,slh:  3.69548797607421875E-005
+   SYNC:  1.44410133361816406E-003
+ SolveSys:  0.27226114273071289     
+ RHSForm:  1.88860893249511719E-002
+           0 KSPSolve  0.26745104789733887      its          35 norm  1.04609196568971954E-002 nvar       97920
+   FORM u,v,slh:  2.59876251220703125E-005
+   SYNC:  8.76903533935546875E-004
+ SolveSys:  0.26842999458312988     
+ RHSForm:  1.14600658416748047E-002
+           0 KSPSolve  0.25835895538330078      its          34 norm  1.07277314163090453E-002 nvar       97920
+   FORM u,v,slh:  3.60012054443359375E-005
+   SYNC:  7.00950622558593750E-004
+ SolveSys:  0.25916194915771484     
+ RHSForm:  1.12199783325195313E-002
+           0 KSPSolve  0.26743507385253906      its          34 norm  1.09801782705782561E-002 nvar       97920
+   FORM u,v,slh:  3.19480895996093750E-005
+   SYNC:  9.85860824584960938E-004
+ SolveSys:  0.26854014396667480     
+ RHSForm:  1.86169147491455078E-002
+           0 KSPSolve  0.32166600227355957      its          34 norm  1.12293829725221440E-002 nvar       97920
+   FORM u,v,slh:  3.60012054443359375E-005
+   SYNC:  8.93115997314453125E-004
+ SolveSys:  0.32267308235168457     
+ RHSForm:  1.27229690551757813E-002
+           0 KSPSolve  0.28130698204040527      its          34 norm  1.14773013301116347E-002 nvar       97920
+   FORM u,v,slh:  3.91006469726562500E-005
+   SYNC:  1.50418281555175781E-003
+ SolveSys:  0.28291583061218262     
+  WRITE XY-DATA: REC=       4
+   MODEL TIME: 02:00:00  03JAN2013;  DAY IN YEAR:003,  DAY IN 4YRS:0003
+ OUTPUT DATA to E/XY/sl.dat
+ XY_OUT:  3.60970497131347656E-002
+ RHSForm:  2.04050540924072266E-002
+           0 KSPSolve  0.26727318763732910      its          33 norm  1.17962931912111851E-002 nvar       97920
+   FORM u,v,slh:  1.38998031616210938E-004
+   SYNC:  1.24597549438476563E-003
+ SolveSys:  0.26877117156982422     
+ RHSForm:  1.19071006774902344E-002
+           0 KSPSolve  0.26469707489013672      its          34 norm  1.20033187873812772E-002 nvar       97920
+   FORM u,v,slh:  2.67028808593750000E-004
+   SYNC:  6.00099563598632813E-004
+ SolveSys:  0.26564192771911621     
+ RHSForm:  1.33321285247802734E-002
+           0 KSPSolve  0.25192999839782715      its          32 norm  1.23576438928718092E-002 nvar       97920
+   FORM u,v,slh:  3.79085540771484375E-005
+   SYNC:  7.78198242187500000E-004
+ SolveSys:  0.25299000740051270     
+ RHSForm:  1.39069557189941406E-002
+           0 KSPSolve  0.26004195213317871      its          33 norm  1.26087446577836000E-002 nvar       97920
+   FORM u,v,slh:  2.88486480712890625E-005
+   SYNC:  9.78946685791015625E-004
+ SolveSys:  0.26111793518066406     
+ RHSForm:  1.55479907989501953E-002
+           0 KSPSolve  0.25021886825561523      its          32 norm  1.29180837961752597E-002 nvar       97920
+   FORM u,v,slh:  4.60147857666015625E-005
+   SYNC:  1.07097625732421875E-003
+ SolveSys:  0.25160098075866699     
+ RHSForm:  1.27201080322265625E-002
+           0 KSPSolve  0.25677418708801270      its          31 norm  1.32309533282254244E-002 nvar       97920
+   FORM u,v,slh:  4.41074371337890625E-005
+   SYNC:  8.76903533935546875E-004
+ SolveSys:  0.25790715217590332     
+ RHSForm:  1.24251842498779297E-002
+           0 KSPSolve  0.24690508842468262      its          31 norm  1.35113699821337238E-002 nvar       97920
+   FORM u,v,slh:  3.19480895996093750E-005
+   SYNC:  8.29935073852539063E-004
+ SolveSys:  0.24783611297607422     
+ RHSForm:  1.33531093597412109E-002
+           0 KSPSolve  0.23442578315734863      its          30 norm  1.38466278745631895E-002 nvar       97920
+   FORM u,v,slh:  3.50475311279296875E-005
+   SYNC:  1.03211402893066406E-003
+ SolveSys:  0.23556613922119141     
+ RHSForm:  1.25091075897216797E-002
+           0 KSPSolve  0.24391913414001465      its          30 norm  1.41182862139557150E-002 nvar       97920
+   FORM u,v,slh:  3.60012054443359375E-005
+   SYNC:  9.98020172119140625E-004
+ SolveSys:  0.24502706527709961     
+ RHSForm:  1.19378566741943359E-002
+           0 KSPSolve  0.23631095886230469      its          29 norm  1.45164037712197727E-002 nvar       97920
+   FORM u,v,slh:  4.19616699218750000E-005
+   SYNC:  5.95092773437500000E-004
+ SolveSys:  0.23702287673950195     
+  WRITE XY-DATA: REC=       1
+   MODEL TIME: 07:00:00  03JAN2013;  DAY IN YEAR:003,  DAY IN 4YRS:0003
+ OUTPUT DATA to E/XY/sl.dat
+ XY_OUT:  3.73990535736083984E-002
+ RHSForm:  2.68869400024414063E-002
+           0 KSPSolve  0.22698211669921875      its          29 norm  1.48295245767650422E-002 nvar       97920
+   FORM u,v,slh:  1.44004821777343750E-004
+   SYNC:  1.46293640136718750E-003
+ SolveSys:  0.22868204116821289     
+ RHSForm:  1.16231441497802734E-002
+           0 KSPSolve  0.22583699226379395      its          29 norm  1.51054399518788709E-002 nvar       97920
+   FORM u,v,slh:  3.38554382324218750E-005
+   SYNC:  1.01900100708007813E-003
+ SolveSys:  0.22696304321289063     
+ RHSForm:  1.23960971832275391E-002
+           0 KSPSolve  0.21309685707092285      its          28 norm  1.55609339429053205E-002 nvar       97920
+   FORM u,v,slh:  3.21865081787109375E-005
+   SYNC:  8.82863998413085938E-004
+ SolveSys:  0.21409201622009277     
+ RHSForm:  1.19040012359619141E-002
+           0 KSPSolve  0.22424888610839844      its          28 norm  1.58984536317598908E-002 nvar       97920
+   FORM u,v,slh:  3.50475311279296875E-005
+   SYNC:  8.38994979858398438E-004
+ SolveSys:  0.22522592544555664     
+ RHSForm:  1.21309757232666016E-002
+           0 KSPSolve  0.22154402732849121      its          28 norm  1.61886988932659869E-002 nvar       97920
+   FORM u,v,slh:  3.69548797607421875E-005
+   SYNC:  1.18684768676757813E-003
+ SolveSys:  0.22284007072448730     
+ RHSForm:  1.21009349822998047E-002
+           0 KSPSolve  0.20681786537170410      its          27 norm  1.67214515357142907E-002 nvar       97920
+   FORM u,v,slh:  5.00679016113281250E-005
+   SYNC:  9.93013381958007813E-004
+ SolveSys:  0.20793986320495605     
+ RHSForm:  1.35419368743896484E-002
+           0 KSPSolve  0.19705390930175781      its          27 norm  1.70975938256311653E-002 nvar       97920
+   FORM u,v,slh:  3.91006469726562500E-005
+   SYNC:  1.02305412292480469E-003
+ SolveSys:  0.19818806648254395     
+ RHSForm:  1.22351646423339844E-002
+           0 KSPSolve  0.20503497123718262      its          27 norm  1.74099064895485885E-002 nvar       97920
+   FORM u,v,slh:  2.90870666503906250E-005
+   SYNC:  8.51869583129882813E-004
+ SolveSys:  0.20597982406616211     
+ RHSForm:  1.44989490509033203E-002
+           0 KSPSolve  0.23355007171630859      its          27 norm  1.77102986413345750E-002 nvar       97920
+   FORM u,v,slh:  4.10079956054687500E-005
+   SYNC:  9.48905944824218750E-004
+ SolveSys:  0.23461890220642090     
+ RHSForm:  1.21259689331054688E-002
+           0 KSPSolve  0.21172690391540527      its          26 norm  1.83562250456512782E-002 nvar       97920
+   FORM u,v,slh:  2.00271606445312500E-005
+   SYNC:  9.51051712036132813E-004
+ SolveSys:  0.21276903152465820     
+  WRITE XY-DATA: REC=       2
+   MODEL TIME: 12:00:00  03JAN2013;  DAY IN YEAR:003,  DAY IN 4YRS:0003
+ OUTPUT DATA to E/XY/sl.dat
+ XY_OUT:  3.92591953277587891E-002
+ RHSForm:  2.02820301055908203E-002
+           0 KSPSolve  0.19465613365173340      its          26 norm  1.87912456995304629E-002 nvar       97920
+   FORM u,v,slh:  1.45912170410156250E-004
+   SYNC:  1.42192840576171875E-003
+ SolveSys:  0.19632411003112793     
+ RHSForm:  1.23591423034667969E-002
+           0 KSPSolve  0.18817806243896484      its          26 norm  1.91321597543053223E-002 nvar       97920
+   FORM u,v,slh:  3.88622283935546875E-005
+   SYNC:  1.07502937316894531E-003
+ SolveSys:  0.18936395645141602     
+ RHSForm:  1.21681690216064453E-002
+           0 KSPSolve  0.18567490577697754      its          26 norm  1.94569686764351699E-002 nvar       97920
+   FORM u,v,slh:  3.79085540771484375E-005
+   SYNC:  6.93082809448242188E-004
+ SolveSys:  0.18648982048034668     
+ RHSForm:  1.16422176361083984E-002
+           0 KSPSolve  0.18336296081542969      its          26 norm  1.97817120111857467E-002 nvar       97920
+   FORM u,v,slh:  2.90870666503906250E-005
+   SYNC:  6.86168670654296875E-004
+ SolveSys:  0.18414902687072754     
+ RHSForm:  1.34379863739013672E-002
+           0 KSPSolve  0.17961478233337402      its          25 norm  2.06221237833761895E-002 nvar       97920
+   FORM u,v,slh:  3.69548797607421875E-005
+   SYNC:  1.10888481140136719E-003
+ SolveSys:  0.18089699745178223     
+ RHSForm:  1.25050544738769531E-002
+           0 KSPSolve  0.18702602386474609      its          25 norm  2.11504009271558692E-002 nvar       97920
+   FORM u,v,slh:  5.91278076171875000E-005
+   SYNC:  7.39812850952148438E-004
+ SolveSys:  0.18803596496582031     
+ RHSForm:  2.34308242797851563E-002
+           0 KSPSolve  0.22406816482543945      its          25 norm  2.15356988762860670E-002 nvar       97920
+   FORM u,v,slh:  2.88486480712890625E-005
+   SYNC:  2.21800804138183594E-003
+ SolveSys:  0.22644019126892090     
+ RHSForm:  1.92110538482666016E-002
+           0 KSPSolve  0.22232007980346680      its          25 norm  2.19023820642743096E-002 nvar       97920
+   FORM u,v,slh:  2.09808349609375000E-005
+   SYNC:  5.93185424804687500E-004
+ SolveSys:  0.22317004203796387     
+ RHSForm:  1.19700431823730469E-002
+           0 KSPSolve  0.19108414649963379      its          25 norm  2.22736817079006548E-002 nvar       97920
+   FORM u,v,slh:  3.40938568115234375E-005
+   SYNC:  6.78062438964843750E-004
+ SolveSys:  0.19195103645324707     
+ RHSForm:  1.78301334381103516E-002
+           0 KSPSolve  0.18643379211425781      its          25 norm  2.26535208898603346E-002 nvar       97920
+   FORM u,v,slh:  5.48362731933593750E-005
+   SYNC:  1.42192840576171875E-003
+ SolveSys:  0.18798303604125977     
+  WRITE XY-DATA: REC=       3
+   MODEL TIME: 17:00:00  03JAN2013;  DAY IN YEAR:003,  DAY IN 4YRS:0003
+ OUTPUT DATA to E/XY/sl.dat
+ XY_OUT:  4.25529479980468750E-002
+ RHSForm:  2.99019813537597656E-002
+           0 KSPSolve  0.19294285774230957      its          25 norm  2.30433558425196007E-002 nvar       97920
+   FORM u,v,slh:  1.41859054565429688E-004
+   SYNC:  1.06501579284667969E-003
+ SolveSys:  0.19426608085632324     
+ RHSForm:  1.25319957733154297E-002
+           0 KSPSolve  0.17935204505920410      its          24 norm  2.43744982628131060E-002 nvar       97920
+   FORM u,v,slh:  4.60147857666015625E-005
+   SYNC:  1.22404098510742188E-003
+ SolveSys:  0.18078589439392090     
+ RHSForm:  1.24120712280273438E-002
+           0 KSPSolve  0.17575287818908691      its          25 norm  2.41118239554342015E-002 nvar       97920
+   FORM u,v,slh:  3.50475311279296875E-005
+   SYNC:  7.15017318725585938E-004
+ SolveSys:  0.17658400535583496     
+ RHSForm:  1.19299888610839844E-002
+           0 KSPSolve  0.16249394416809082      its          24 norm  2.52694940515451189E-002 nvar       97920
+   FORM u,v,slh:  3.09944152832031250E-005
+   SYNC:  9.70840454101562500E-004
+ SolveSys:  0.16362190246582031     
+ RHSForm:  1.17759704589843750E-002
+           0 KSPSolve  0.16777706146240234      its          24 norm  2.60319266277218471E-002 nvar       97920
+   FORM u,v,slh:  3.31401824951171875E-005
+   SYNC:  8.11100006103515625E-004
+ SolveSys:  0.16869592666625977     
+ RHSForm:  1.37019157409667969E-002
+           0 KSPSolve  0.16227221488952637      its          24 norm  2.65407244608290398E-002 nvar       97920
+   FORM u,v,slh:  3.88622283935546875E-005
+   SYNC:  1.13821029663085938E-003
+ SolveSys:  0.16352295875549316     
+ RHSForm:  1.31030082702636719E-002
+           0 KSPSolve  0.17114305496215820      its          24 norm  2.70333189010783653E-002 nvar       97920
+   FORM u,v,slh:  4.88758087158203125E-005
+   SYNC:  1.37186050415039063E-003
+ SolveSys:  0.17272400856018066     
+ RHSForm:  1.34060382843017578E-002
+           0 KSPSolve  0.17443203926086426      its          24 norm  2.75422859547250591E-002 nvar       97920
+   FORM u,v,slh:  3.81469726562500000E-005
+   SYNC:  1.00493431091308594E-003
+ SolveSys:  0.17554688453674316     
+ RHSForm:  1.29349231719970703E-002
+           0 KSPSolve  0.17821598052978516      its          24 norm  2.80690478449782989E-002 nvar       97920
+   FORM u,v,slh:  3.31401824951171875E-005
+   SYNC:  8.46862792968750000E-004
+ SolveSys:  0.17916607856750488     
+ RHSForm:  1.22089385986328125E-002
+           0 KSPSolve  0.17406892776489258      its          24 norm  2.86163121183379242E-002 nvar       97920
+   FORM u,v,slh:  4.41074371337890625E-005
+   SYNC:  6.78062438964843750E-004
+ SolveSys:  0.17486310005187988     
+  WRITE XY-DATA: REC=       4
+   MODEL TIME: 22:00:00  03JAN2013;  DAY IN YEAR:003,  DAY IN 4YRS:0003
+ OUTPUT DATA to E/XY/sl.dat
+ XY_OUT:  3.90357971191406250E-002
+ RHSForm:  2.01930999755859375E-002
+           0 KSPSolve  0.17030882835388184      its          24 norm  2.91817409154003955E-002 nvar       97920
+   FORM u,v,slh:  1.25169754028320313E-004
+   SYNC:  1.32989883422851563E-003
+ SolveSys:  0.17187190055847168     
+ RHSForm:  1.23860836029052734E-002
+           0 KSPSolve  0.17256093025207520      its          24 norm  2.97624555165080101E-002 nvar       97920
+   FORM u,v,slh:  4.41074371337890625E-005
+   SYNC:  7.06911087036132813E-004
+ SolveSys:  0.17339396476745605     
+ RHSForm:  1.19810104370117188E-002
+           0 KSPSolve  0.16918015480041504      its          24 norm  3.03569587607449946E-002 nvar       97920
+   FORM u,v,slh:  2.59876251220703125E-005
+   SYNC:  9.88960266113281250E-004
+ SolveSys:  0.17027306556701660     
+ RHSForm:  1.15480422973632813E-002
+           0 KSPSolve  0.16686701774597168      its          24 norm  3.09654300942681093E-002 nvar       97920
+   FORM u,v,slh:  2.00271606445312500E-005
+   SYNC:  6.53982162475585938E-004
+ SolveSys:  0.16759705543518066     
+ RHSForm:  1.21171474456787109E-002
+           0 KSPSolve  0.17907285690307617      its          24 norm  3.15890749127519452E-002 nvar       97920
+   FORM u,v,slh:  3.60012054443359375E-005
+   SYNC:  7.63177871704101563E-004
+ SolveSys:  0.18016886711120605     
+ RHSForm:  1.16741657257080078E-002
+           0 KSPSolve  0.16601800918579102      its          24 norm  3.22294122056796736E-002 nvar       97920
+   FORM u,v,slh:  3.00407409667968750E-005
+   SYNC:  8.69035720825195313E-004
+ SolveSys:  0.16699194908142090     
+ RHSForm:  1.33540630340576172E-002
+           0 KSPSolve  0.17835903167724609      its          24 norm  3.28878890772171598E-002 nvar       97920
+   FORM u,v,slh:  4.00543212890625000E-005
+   SYNC:  1.06692314147949219E-003
+ SolveSys:  0.17953801155090332     
+ RHSForm:  1.20418071746826172E-002
+           0 KSPSolve  0.17788100242614746      its          24 norm  3.35657949818508258E-002 nvar       97920
+   FORM u,v,slh:  3.09944152832031250E-005
+   SYNC:  8.05139541625976563E-004
+ SolveSys:  0.17878508567810059     
+ RHSForm:  1.17061138153076172E-002
+           0 KSPSolve  0.17312908172607422      its          24 norm  3.42643078324439271E-002 nvar       97920
+   FORM u,v,slh:  3.81469726562500000E-005
+   SYNC:  1.33204460144042969E-003
+ SolveSys:  0.17457389831542969     
+ RHSForm:  1.19750499725341797E-002
+           0 KSPSolve  0.17280006408691406      its          23 norm  3.72295316840848267E-002 nvar       97920
+   FORM u,v,slh:  3.00407409667968750E-005
+   SYNC:  1.27387046813964844E-003
+ SolveSys:  0.17417216300964355     
+  WRITE XY-DATA: REC=       4
+   MODEL TIME: 03:00:00  04JAN2013;  DAY IN YEAR:004,  DAY IN 4YRS:0004
+ OUTPUT DATA to E/XY/sl.dat
+ XY_OUT:  5.88889122009277344E-002
+ RHSForm:  2.24311351776123047E-002
+           0 KSPSolve  0.17604207992553711      its          24 norm  3.63842171266405071E-002 nvar       97920
+   FORM u,v,slh:  1.23977661132812500E-004
+   SYNC:  1.03712081909179688E-003
+ SolveSys:  0.17730116844177246     
+ RHSForm:  1.27267837524414063E-002
+           0 KSPSolve  0.16080904006958008      its          23 norm  3.88766204796496470E-002 nvar       97920
+   FORM u,v,slh:  2.00271606445312500E-005
+   SYNC:  7.26938247680664063E-004
+ SolveSys:  0.16167807579040527     
+ RHSForm:  1.15578174591064453E-002
+           0 KSPSolve  0.17505311965942383      its          24 norm  3.79959532930358376E-002 nvar       97920
+   FORM u,v,slh:  4.19616699218750000E-005
+   SYNC:  6.19888305664062500E-004
+ SolveSys:  0.17592811584472656     
+ RHSForm:  1.22141838073730469E-002
+           0 KSPSolve  0.15660977363586426      its          23 norm  4.06165996434523502E-002 nvar       97920
+   FORM u,v,slh:  3.81469726562500000E-005
+   SYNC:  1.00207328796386719E-003
+ SolveSys:  0.15794396400451660     
+ RHSForm:  1.10640525817871094E-002
+           0 KSPSolve  0.16464304924011230      its          24 norm  3.97127343333832650E-002 nvar       97920
+   FORM u,v,slh:  4.50611114501953125E-005
+   SYNC:  5.93900680541992188E-004
+ SolveSys:  0.16547894477844238     
+ RHSForm:  1.23510360717773438E-002
+           0 KSPSolve  0.15953683853149414      its          23 norm  4.25008568146030830E-002 nvar       97920
+   FORM u,v,slh:  4.41074371337890625E-005
+   SYNC:  7.16924667358398438E-004
+ SolveSys:  0.16047501564025879     
+ RHSForm:  1.21161937713623047E-002
+           0 KSPSolve  0.17337012290954590      its          24 norm  4.15772512171200814E-002 nvar       97920
+   FORM u,v,slh:  3.40938568115234375E-005
+   SYNC:  6.61849975585937500E-004
+ SolveSys:  0.17415404319763184     
+ RHSForm:  1.32200717926025391E-002
+           0 KSPSolve  0.15241193771362305      its          23 norm  4.45159865418472064E-002 nvar       97920
+   FORM u,v,slh:  3.50475311279296875E-005
+   SYNC:  8.21828842163085938E-004
+ SolveSys:  0.15333795547485352     
+ RHSForm:  1.24239921569824219E-002
+           0 KSPSolve  0.17935204505920410      its          24 norm  4.35510730666675422E-002 nvar       97920
+   FORM u,v,slh:  3.69548797607421875E-005
+   SYNC:  1.09314918518066406E-003
+ SolveSys:  0.18078017234802246     
+ RHSForm:  1.30639076232910156E-002
+           0 KSPSolve  0.15876388549804688      its          23 norm  4.66346700435989955E-002 nvar       97920
+   FORM u,v,slh:  3.60012054443359375E-005
+   SYNC:  6.96897506713867188E-004
+ SolveSys:  0.15956187248229980     
+  WRITE XY-DATA: REC=       1
+   MODEL TIME: 08:00:00  04JAN2013;  DAY IN YEAR:004,  DAY IN 4YRS:0004
+ OUTPUT DATA to E/XY/sl.dat
+ XY_OUT:  3.97589206695556641E-002
+ RHSForm:  2.08017826080322266E-002
+           0 KSPSolve  0.17227697372436523      its          24 norm  4.56245244376633913E-002 nvar       97920
+   FORM u,v,slh:  1.30176544189453125E-004
+   SYNC:  1.21092796325683594E-003
+ SolveSys:  0.17386507987976074     
+ RHSForm:  1.18808746337890625E-002
+           0 KSPSolve  0.15548515319824219      its          23 norm  4.88624551231657198E-002 nvar       97920
+   FORM u,v,slh:  3.40938568115234375E-005
+   SYNC:  1.05285644531250000E-003
+ SolveSys:  0.15664601325988770     
+ RHSForm:  1.17819309234619141E-002
+           0 KSPSolve  0.20832991600036621      its          24 norm  4.78088989884897231E-002 nvar       97920
+   FORM u,v,slh:  3.29017639160156250E-005
+   SYNC:  1.05118751525878906E-003
+ SolveSys:  0.20959591865539551     
+ RHSForm:  1.30848884582519531E-002
+           0 KSPSolve  0.16681003570556641      its          23 norm  5.12117856001793048E-002 nvar       97920
+   FORM u,v,slh:  3.91006469726562500E-005
+   SYNC:  8.37802886962890625E-004
+ SolveSys:  0.16787099838256836     
+ RHSForm:  1.23851299285888672E-002
+           0 KSPSolve  0.16362094879150391      its          24 norm  5.01157849672932421E-002 nvar       97920
+   FORM u,v,slh:  3.81469726562500000E-005
+   SYNC:  5.36918640136718750E-004
+ SolveSys:  0.16433906555175781     
+ RHSForm:  1.19941234588623047E-002
+           0 KSPSolve  0.15810894966125488      its          23 norm  5.36934572177696079E-002 nvar       97920
+   FORM u,v,slh:  4.38690185546875000E-005
+   SYNC:  1.02210044860839844E-003
+ SolveSys:  0.15933895111083984     
+ RHSForm:  1.23522281646728516E-002
+           0 KSPSolve  0.16047310829162598      its          24 norm  5.25559974509659800E-002 nvar       97920
+   FORM u,v,slh:  3.60012054443359375E-005
+   SYNC:  8.72850418090820313E-004
+ SolveSys:  0.16147089004516602     
+ RHSForm:  1.23920440673828125E-002
+           0 KSPSolve  0.16842484474182129      its          23 norm  5.63185569621235185E-002 nvar       97920
+   FORM u,v,slh:  3.29017639160156250E-005
+   SYNC:  8.75949859619140625E-004
+ SolveSys:  0.16939997673034668     
+ RHSForm:  1.23059749603271484E-002
+           0 KSPSolve  0.17633199691772461      its          24 norm  5.51407337844579473E-002 nvar       97920
+   FORM u,v,slh:  3.40938568115234375E-005
+   SYNC:  5.12123107910156250E-004
+ SolveSys:  0.17707991600036621     
+ RHSForm:  1.37760639190673828E-002
+           0 KSPSolve  0.16246008872985840      its          23 norm  5.90981248818730209E-002 nvar       97920
+   FORM u,v,slh:  3.00407409667968750E-005
+   SYNC:  8.17060470581054688E-004
+ SolveSys:  0.16337490081787109     
+  WRITE XY-DATA: REC=       2
+   MODEL TIME: 13:00:00  04JAN2013;  DAY IN YEAR:004,  DAY IN 4YRS:0004
+ OUTPUT DATA to E/XY/sl.dat
+ XY_OUT:  4.19051647186279297E-002
+ RHSForm:  2.25188732147216797E-002
+           0 KSPSolve  0.17529296875000000      its          24 norm  5.78804225587783161E-002 nvar       97920
+   FORM u,v,slh:  1.23977661132812500E-004
+   SYNC:  8.79049301147460938E-004
+ SolveSys:  0.17639589309692383     
+ RHSForm:  1.29380226135253906E-002
+           0 KSPSolve  0.15420293807983398      its          23 norm  6.20420673774046416E-002 nvar       97920
+   FORM u,v,slh:  3.09944152832031250E-005
+   SYNC:  7.86066055297851563E-004
+ SolveSys:  0.15509080886840820     
+ RHSForm:  1.29859447479248047E-002
+           0 KSPSolve  0.17721295356750488      its          24 norm  6.07841878907678448E-002 nvar       97920
+   FORM u,v,slh:  3.60012054443359375E-005
+   SYNC:  8.34941864013671875E-004
+ SolveSys:  0.17815303802490234     
+ RHSForm:  1.12919807434082031E-002
+           0 KSPSolve  0.16665506362915039      its          23 norm  6.51591935775060332E-002 nvar       97920
+   FORM u,v,slh:  3.40938568115234375E-005
+   SYNC:  7.41004943847656250E-004
+ SolveSys:  0.16751599311828613     
+ RHSForm:  1.29251480102539063E-002
+           0 KSPSolve  0.17657685279846191      its          24 norm  6.38601799779587309E-002 nvar       97920
+   FORM u,v,slh:  4.19616699218750000E-005
+   SYNC:  7.71045684814453125E-004
+ SolveSys:  0.17749285697937012     
+ RHSForm:  1.20129585266113281E-002
+           0 KSPSolve  0.18499016761779785      its          24 norm  6.43352171397172101E-002 nvar       97920
+   FORM u,v,slh:  8.20159912109375000E-005
+   SYNC:  6.86168670654296875E-004
+ SolveSys:  0.18588709831237793     
+ RHSForm:  1.45020484924316406E-002
+           0 KSPSolve  0.16795396804809570      its          24 norm  6.58220200837923569E-002 nvar       97920
+   FORM u,v,slh:  4.81605529785156250E-005
+   SYNC:  7.05957412719726563E-004
+ SolveSys:  0.16888594627380371     
+ RHSForm:  1.26769542694091797E-002
+           0 KSPSolve  0.18121504783630371      its          24 norm  6.74856278740859905E-002 nvar       97920
+   FORM u,v,slh:  3.00407409667968750E-005
+   SYNC:  1.04212760925292969E-003
+ SolveSys:  0.18236708641052246     
+ RHSForm:  1.94630622863769531E-002
+           0 KSPSolve  0.21918511390686035      its          24 norm  6.91969325539608937E-002 nvar       97920
+   FORM u,v,slh:  3.50475311279296875E-005
+   SYNC:  1.46889686584472656E-003
+ SolveSys:  0.22076010704040527     
+ RHSForm:  1.92670822143554688E-002
+           0 KSPSolve  0.21573495864868164      its          24 norm  7.09442137040118825E-002 nvar       97920
+   FORM u,v,slh:  2.81333923339843750E-005
+   SYNC:  7.59124755859375000E-004
+ SolveSys:  0.21658205986022949     
+  WRITE XY-DATA: REC=       3
+   MODEL TIME: 18:00:00  04JAN2013;  DAY IN YEAR:004,  DAY IN 4YRS:0004
+ OUTPUT DATA to E/XY/sl.dat
+ XY_OUT:  4.15720939636230469E-002
+ RHSForm:  1.93719863891601563E-002
+           0 KSPSolve  0.21215009689331055      its          24 norm  7.27140711946902968E-002 nvar       97920
+   FORM u,v,slh:  1.24931335449218750E-004
+   SYNC:  1.20997428894042969E-003
+ SolveSys:  0.21357607841491699     
+ RHSForm:  1.96020603179931641E-002
+           0 KSPSolve  0.21737194061279297      its          24 norm  7.45162237897796509E-002 nvar       97920
+   FORM u,v,slh:  3.91006469726562500E-005
+   SYNC:  2.28595733642578125E-003
+ SolveSys:  0.21977710723876953     
+ RHSForm:  1.82259082794189453E-002
+           0 KSPSolve  0.21785688400268555      its          24 norm  7.63658733637434251E-002 nvar       97920
+   FORM u,v,slh:  1.90734863281250000E-005
+   SYNC:  1.95312500000000000E-003
+ SolveSys:  0.21989703178405762     
+ RHSForm:  1.83911323547363281E-002
+           0 KSPSolve  0.21499300003051758      its          24 norm  7.82741901180728922E-002 nvar       97920
+   FORM u,v,slh:  3.38554382324218750E-005
+   SYNC:  9.90152359008789063E-004
+ SolveSys:  0.21609187126159668     
+ RHSForm:  1.26719474792480469E-002
+           0 KSPSolve  0.17188096046447754      its          24 norm  8.02461742412290402E-002 nvar       97920
+   FORM u,v,slh:  3.09944152832031250E-005
+   SYNC:  1.96409225463867188E-003
+ SolveSys:  0.17393994331359863     
+ RHSForm:  1.65359973907470703E-002
+           0 KSPSolve  0.18653106689453125      its          24 norm  8.22827111844178644E-002 nvar       97920
+   FORM u,v,slh:  3.40938568115234375E-005
+   SYNC:  8.46862792968750000E-004
+ SolveSys:  0.18749213218688965     
+ RHSForm:  1.21109485626220703E-002
+           0 KSPSolve  0.16487002372741699      its          24 norm  8.43831559379507046E-002 nvar       97920
+   FORM u,v,slh:  3.79085540771484375E-005
+   SYNC:  8.70943069458007813E-004
+ SolveSys:  0.16584706306457520     
+ RHSForm:  1.25250816345214844E-002
+           0 KSPSolve  0.17230606079101563      its          24 norm  8.65468120897495974E-002 nvar       97920
+   FORM u,v,slh:  3.79085540771484375E-005
+   SYNC:  7.34806060791015625E-004
+ SolveSys:  0.17314791679382324     
+ RHSForm:  1.25849246978759766E-002
+           0 KSPSolve  0.21531486511230469      its          24 norm  8.87733012525215720E-002 nvar       97920
+   FORM u,v,slh:  2.00271606445312500E-005
+   SYNC:  6.69956207275390625E-004
+ SolveSys:  0.21605992317199707     
+ RHSForm:  1.69229507446289063E-002
+           0 KSPSolve  0.17452383041381836      its          24 norm  9.10624147957110053E-002 nvar       97920
+   FORM u,v,slh:  2.69412994384765625E-005
+   SYNC:  8.27074050903320313E-004
+ SolveSys:  0.17556595802307129     
+  WRITE XY-DATA: REC=       4
+   MODEL TIME: 23:00:00  04JAN2013;  DAY IN YEAR:004,  DAY IN 4YRS:0004
+ OUTPUT DATA to E/XY/sl.dat
+ XY_OUT:  4.43820953369140625E-002
+ RHSForm:  3.03192138671875000E-002
+           0 KSPSolve  0.21411514282226563      its          24 norm  9.34139360817318187E-002 nvar       97920
+   FORM u,v,slh:  1.23023986816406250E-004
+   SYNC:  3.21912765502929688E-003
+ SolveSys:  0.21755504608154297     
+ RHSForm:  1.69560909271240234E-002
+           0 KSPSolve  0.20843791961669922      its          24 norm  9.58276262759786557E-002 nvar       97920
+   FORM u,v,slh:  3.60012054443359375E-005
+   SYNC:  1.97887420654296875E-003
+ SolveSys:  0.21052598953247070     
+ RHSForm:  1.82168483734130859E-002
+           0 KSPSolve  0.18836808204650879      its          24 norm  9.83033447074593558E-002 nvar       97920
+   FORM u,v,slh:  3.69548797607421875E-005
+   SYNC:  1.28698348999023438E-003
+ SolveSys:  0.18976902961730957     
+ RHSForm:  1.21610164642333984E-002
+           0 KSPSolve  0.16522097587585449      its          24 norm  0.10084119739385097      nvar       97920
+   FORM u,v,slh:  3.29017639160156250E-005
+   SYNC:  6.09159469604492188E-004
+ SolveSys:  0.16604900360107422     
+ RHSForm:  1.23949050903320313E-002
+           0 KSPSolve  0.17052817344665527      its          24 norm  0.10344163268934163      nvar       97920
+   FORM u,v,slh:  3.50475311279296875E-005
+   SYNC:  6.07013702392578125E-004
+ SolveSys:  0.17136216163635254     
+ RHSForm:  1.21531486511230469E-002
+           0 KSPSolve  0.17496705055236816      its          24 norm  0.10610546162922184      nvar       97920
+   FORM u,v,slh:  1.45912170410156250E-004
+   SYNC:  1.21212005615234375E-003
+ SolveSys:  0.17656302452087402     
+ RHSForm:  1.58758163452148438E-002
+           0 KSPSolve  0.20753884315490723      its          24 norm  0.10883382418760761      nvar       97920
+   FORM u,v,slh:  3.38554382324218750E-005
+   SYNC:  2.22492218017578125E-003
+ SolveSys:  0.20989990234375000     
+ RHSForm:  1.69839859008789063E-002
+           0 KSPSolve  0.21063303947448730      its          24 norm  0.11162813589337536      nvar       97920
+   FORM u,v,slh:  3.81469726562500000E-005
+   SYNC:  2.10380554199218750E-003
+ SolveSys:  0.21284079551696777     
+ RHSForm:  1.70960426330566406E-002
+           0 KSPSolve  0.20833897590637207      its          24 norm  0.11449003974655411      nvar       97920
+   FORM u,v,slh:  3.31401824951171875E-005
+   SYNC:  2.00104713439941406E-003
+ SolveSys:  0.21056294441223145     
+ RHSForm:  1.78868770599365234E-002
+           0 KSPSolve  0.17860603332519531      its          24 norm  0.11742137160943000      nvar       97920
+   FORM u,v,slh:  2.09808349609375000E-005
+   SYNC:  1.80506706237792969E-003
+ SolveSys:  0.18061900138854980     
+  WRITE XY-DATA: REC=       4
+   MODEL TIME: 04:00:00  05JAN2013;  DAY IN YEAR:005,  DAY IN 4YRS:0005
+ OUTPUT DATA to E/XY/sl.dat
+ XY_OUT:  4.05149459838867188E-002
+ RHSForm:  2.14331150054931641E-002
+           0 KSPSolve  0.16866207122802734      its          24 norm  0.12042413498423939      nvar       97920
+   FORM u,v,slh:  1.26123428344726563E-004
+   SYNC:  1.24502182006835938E-003
+ SolveSys:  0.17012906074523926     
+ RHSForm:  1.23770236968994141E-002
+           0 KSPSolve  0.17714715003967285      its          24 norm  0.12350047728504153      nvar       97920
+   FORM u,v,slh:  4.29153442382812500E-005
+   SYNC:  7.76052474975585938E-004
+ SolveSys:  0.17806196212768555     
+ RHSForm:  1.27730369567871094E-002
+           0 KSPSolve  0.16279792785644531      its          24 norm  0.12665266228662603      nvar       97920
+   FORM u,v,slh:  4.19616699218750000E-005
+   SYNC:  8.18014144897460938E-004
+ SolveSys:  0.16374397277832031     
+ RHSForm:  1.17318630218505859E-002
+           0 KSPSolve  0.17220401763916016      its          24 norm  0.12988303818045546      nvar       97920
+   FORM u,v,slh:  3.69548797607421875E-005
+   SYNC:  7.61032104492187500E-004
+ SolveSys:  0.17306995391845703     
+ RHSForm:  1.18868350982666016E-002
+           0 KSPSolve  0.16310620307922363      its          24 norm  0.13319400431622835      nvar       97920
+   FORM u,v,slh:  4.60147857666015625E-005
+   SYNC:  5.74111938476562500E-004
+ SolveSys:  0.16380810737609863     
+ RHSForm:  1.24759674072265625E-002
+           0 KSPSolve  0.16713094711303711      its          24 norm  0.13658798100166225      nvar       97920
+   FORM u,v,slh:  3.40938568115234375E-005
+   SYNC:  5.78880310058593750E-004
+ SolveSys:  0.16780805587768555     
+ RHSForm:  1.25470161437988281E-002
+           0 KSPSolve  0.20547604560852051      its          24 norm  0.14006738604360180      nvar       97920
+   FORM u,v,slh:  2.59876251220703125E-005
+   SYNC:  1.02496147155761719E-003
+ SolveSys:  0.20659494400024414     
+ RHSForm:  1.84631347656250000E-002
+           0 KSPSolve  0.21520590782165527      its          24 norm  0.14363462006777095      nvar       97920
+   FORM u,v,slh:  3.38554382324218750E-005
+   SYNC:  7.37905502319335938E-004
+ SolveSys:  0.21605992317199707     
+ RHSForm:  1.93419456481933594E-002
+           0 KSPSolve  0.19661903381347656      its          24 norm  0.14729206096030587      nvar       97920
+   FORM u,v,slh:  6.00814819335937500E-005
+   SYNC:  6.27994537353515625E-004
+ SolveSys:  0.19752192497253418     
+ RHSForm:  1.17681026458740234E-002
+           0 KSPSolve  0.17244195938110352      its          24 norm  0.15104206650667523      nvar       97920
+   FORM u,v,slh:  3.60012054443359375E-005
+   SYNC:  1.06215476989746094E-003
+ SolveSys:  0.17360496520996094     
+  WRITE XY-DATA: REC=       1
+   MODEL TIME: 09:00:00  05JAN2013;  DAY IN YEAR:005,  DAY IN 4YRS:0005
+ OUTPUT DATA to E/XY/sl.dat
+ XY_OUT:  3.95119190216064453E-002
+ RHSForm:  1.97830200195312500E-002
+           0 KSPSolve  0.17762279510498047      its          24 norm  0.15488698355265285      nvar       97920
+   FORM u,v,slh:  7.79628753662109375E-005
+   SYNC:  5.75065612792968750E-004
+ SolveSys:  0.17834997177124023     
+ RHSForm:  1.24459266662597656E-002
+           0 KSPSolve  0.17411208152770996      its          24 norm  0.15882916167648298      nvar       97920
+   FORM u,v,slh:  3.60012054443359375E-005
+   SYNC:  1.01804733276367188E-003
+ SolveSys:  0.17523407936096191     
+ RHSForm:  1.18968486785888672E-002
+           0 KSPSolve  0.17444705963134766      its          25 norm  0.15582401166085411      nvar       97920
+   FORM u,v,slh:  3.19480895996093750E-005
+   SYNC:  6.48975372314453125E-004
+ SolveSys:  0.17522406578063965     
+ RHSForm:  1.17900371551513672E-002
+           0 KSPSolve  0.18104100227355957      its          24 norm  0.16432208413359634      nvar       97920
+   FORM u,v,slh:  3.09944152832031250E-005
+   SYNC:  7.01904296875000000E-004
+ SolveSys:  0.18184208869934082     
+ RHSForm:  1.25598907470703125E-002
+           0 KSPSolve  0.17790293693542480      its          25 norm  0.16339404696838125      nvar       97920
+   FORM u,v,slh:  3.38554382324218750E-005
+   SYNC:  9.00983810424804688E-004
+ SolveSys:  0.17890405654907227     
+ RHSForm:  1.27460956573486328E-002
+           0 KSPSolve  0.17029404640197754      its          24 norm  0.17278432418904990      nvar       97920
+   FORM u,v,slh:  2.88486480712890625E-005
+   SYNC:  1.07192993164062500E-003
+ SolveSys:  0.17146301269531250     
+ RHSForm:  1.21431350708007813E-002
+           0 KSPSolve  0.18251180648803711      its          25 norm  0.17175077738578068      nvar       97920
+   FORM u,v,slh:  3.40938568115234375E-005
+   SYNC:  7.92980194091796875E-004
+ SolveSys:  0.18340802192687988     
+ RHSForm:  1.19822025299072266E-002
+           0 KSPSolve  0.16725707054138184      its          24 norm  0.18150271304873034      nvar       97920
+   FORM u,v,slh:  3.48091125488281250E-005
+   SYNC:  9.05990600585937500E-004
+ SolveSys:  0.16826510429382324     
+ RHSForm:  1.16629600524902344E-002
+           0 KSPSolve  0.17802190780639648      its          25 norm  0.18035798138499673      nvar       97920
+   FORM u,v,slh:  3.88622283935546875E-005
+   SYNC:  8.04185867309570313E-004
+ SolveSys:  0.17893290519714355     
+ RHSForm:  1.15079879760742188E-002
+           0 KSPSolve  0.16575694084167480      its          24 norm  0.19057741927879235      nvar       97920
+   FORM u,v,slh:  3.29017639160156250E-005
+   SYNC:  1.15585327148437500E-003
+ SolveSys:  0.16701292991638184     
+  WRITE XY-DATA: REC=       2
+   MODEL TIME: 14:00:00  05JAN2013;  DAY IN YEAR:005,  DAY IN 4YRS:0005
+ OUTPUT DATA to E/XY/sl.dat
+ XY_OUT:  4.01690006256103516E-002
+ RHSForm:  2.07607746124267578E-002
+           0 KSPSolve  0.18195700645446777      its          25 norm  0.18941669032920419      nvar       97920
+   FORM u,v,slh:  1.27077102661132813E-004
+   SYNC:  1.76787376403808594E-003
+ SolveSys:  0.18395400047302246     
+ RHSForm:  1.37472152709960938E-002
+           0 KSPSolve  0.17994809150695801      its          24 norm  0.20020113434088962      nvar       97920
+   FORM u,v,slh:  3.69548797607421875E-005
+   SYNC:  7.06195831298828125E-004
+ SolveSys:  0.18076419830322266     
+ RHSForm:  1.24258995056152344E-002
+           0 KSPSolve  0.17248892784118652      its          25 norm  0.19905195259870290      nvar       97920
+   FORM u,v,slh:  2.98023223876953125E-005
+   SYNC:  9.50813293457031250E-004
+ SolveSys:  0.17353796958923340     
+ RHSForm:  1.11911296844482422E-002
+           0 KSPSolve  0.17418408393859863      its          24 norm  0.21042284581989187      nvar       97920
+   FORM u,v,slh:  3.38554382324218750E-005
+   SYNC:  1.07598304748535156E-003
+ SolveSys:  0.17536497116088867     
+ RHSForm:  1.18570327758789063E-002
+           0 KSPSolve  0.18640303611755371      its          25 norm  0.20927276344882659      nvar       97920
+   FORM u,v,slh:  7.91549682617187500E-005
+   SYNC:  1.00398063659667969E-003
+ SolveSys:  0.18755984306335449     
+ RHSForm:  1.16119384765625000E-002
+           0 KSPSolve  0.19390797615051270      its          25 norm  0.21200407437245550      nvar       97920
+   FORM u,v,slh:  4.19616699218750000E-005
+   SYNC:  7.66038894653320313E-004
+ SolveSys:  0.19478297233581543     
+ RHSForm:  1.91791057586669922E-002
+           0 KSPSolve  0.18435502052307129      its          25 norm  0.21692032764429328      nvar       97920
+   FORM u,v,slh:  3.60012054443359375E-005
+   SYNC:  2.23708152770996094E-003
+ SolveSys:  0.18670296669006348     
+ RHSForm:  1.35169029235839844E-002
+           0 KSPSolve  0.18235087394714355      its          25 norm  0.22237725405937037      nvar       97920
+   FORM u,v,slh:  3.09944152832031250E-005
+   SYNC:  9.32931900024414063E-004
+ SolveSys:  0.18339395523071289     
+ RHSForm:  1.32980346679687500E-002
+           0 KSPSolve  0.19841694831848145      its          25 norm  0.22796488506920479      nvar       97920
+   FORM u,v,slh:  2.98023223876953125E-005
+   SYNC:  9.87052917480468750E-004
+ SolveSys:  0.19950699806213379     
+ RHSForm:  1.59728527069091797E-002
+           0 KSPSolve  0.18377804756164551      its          25 norm  0.23364826160221147      nvar       97920
+   FORM u,v,slh:  3.50475311279296875E-005
+   SYNC:  8.81195068359375000E-004
+ SolveSys:  0.18476390838623047     
+  WRITE XY-DATA: REC=       3
+   MODEL TIME: 19:00:00  05JAN2013;  DAY IN YEAR:005,  DAY IN 4YRS:0005
+ OUTPUT DATA to E/XY/sl.dat
+ XY_OUT:  4.45311069488525391E-002
+ RHSForm:  2.25939750671386719E-002
+           0 KSPSolve  0.18657588958740234      its          25 norm  0.23940723088655794      nvar       97920
+   FORM u,v,slh:  1.24931335449218750E-004
+   SYNC:  1.31893157958984375E-003
+ SolveSys:  0.18811607360839844     
+ RHSForm:  1.51138305664062500E-002
+           0 KSPSolve  0.17980504035949707      its          25 norm  0.24527663913937836      nvar       97920
+   FORM u,v,slh:  2.69412994384765625E-005
+   SYNC:  6.85930252075195313E-004
+ SolveSys:  0.18058300018310547     
+ RHSForm:  1.25620365142822266E-002
+           0 KSPSolve  0.18677091598510742      its          25 norm  0.25129710861605903      nvar       97920
+   FORM u,v,slh:  3.50475311279296875E-005
+   SYNC:  7.41958618164062500E-004
+ SolveSys:  0.18761587142944336     
+ RHSForm:  1.18451118469238281E-002
+           0 KSPSolve  0.18275785446166992      its          25 norm  0.25749321541338965      nvar       97920
+   FORM u,v,slh:  3.91006469726562500E-005
+   SYNC:  8.19206237792968750E-004
+ SolveSys:  0.18369078636169434     
+ RHSForm:  1.18360519409179688E-002
+           0 KSPSolve  0.18639683723449707      its          25 norm  0.26387482305557763      nvar       97920
+   FORM u,v,slh:  3.69548797607421875E-005
+   SYNC:  1.23786926269531250E-003
+ SolveSys:  0.18774700164794922     
+ RHSForm:  1.21500492095947266E-002
+           0 KSPSolve  0.17505383491516113      its          25 norm  0.27044442516372119      nvar       97920
+   FORM u,v,slh:  4.22000885009765625E-005
+   SYNC:  8.49962234497070313E-004
+ SolveSys:  0.17615485191345215     
+ RHSForm:  1.33588314056396484E-002
+           0 KSPSolve  0.17907810211181641      its          25 norm  0.27720228623104659      nvar       97920
+   FORM u,v,slh:  3.60012054443359375E-005
+   SYNC:  1.00708007812500000E-003
+ SolveSys:  0.18028283119201660     
+ RHSForm:  1.27110481262207031E-002
+           0 KSPSolve  0.17583417892456055      its          25 norm  0.28414831506037086      nvar       97920
+   FORM u,v,slh:  3.69548797607421875E-005
+   SYNC:  9.92774963378906250E-004
+ SolveSys:  0.17693018913269043     
+ RHSForm:  1.16519927978515625E-002
+           0 KSPSolve  0.19334316253662109      its          25 norm  0.29128214253813584      nvar       97920
+   FORM u,v,slh:  3.40938568115234375E-005
+   SYNC:  7.30037689208984375E-004
+ SolveSys:  0.19417119026184082     
+ RHSForm:  1.38220787048339844E-002
+           0 KSPSolve  0.18120002746582031      its          25 norm  0.29860294175788771      nvar       97920
+   FORM u,v,slh:  3.69548797607421875E-005
+   SYNC:  1.43504142761230469E-003
+ SolveSys:  0.18274307250976563     
+  WRITE XY-DATA: REC=       4
+   MODEL TIME: 24:00:00  05JAN2013;  DAY IN YEAR:005,  DAY IN 4YRS:0005
+  ELAPSED DAY:   1; TIME:  0: 0:31,28
+ OUTPUT DATA to E/XY/sl.dat
+ XY_OUT:  4.11438941955566406E-002
+ 
+END OF TIME INTEGRATION OF OCEAN MODEL
+ 
+ TIME GLOBAL:   137.54223203659058     
+  ELAPSED DAY:   1; TIME:  0: 0:37,40
+  ELAPSED DAY:   1; TIME:  0: 0:23,96
+  ELAPSED DAY:   1; TIME:  0: 0:23,53
+  ELAPSED DAY:   1; TIME:  0: 0:24,11
+  ELAPSED DAY:   1; TIME:  0: 0:31,43
+  ELAPSED DAY:   1; TIME:  0: 0:50,70
+  ELAPSED DAY:   1; TIME:  0: 0:51,40
+  ELAPSED DAY:   1; TIME:  0: 0:21,40
+  ELAPSED DAY:   1; TIME:  0: 0:24,53
+  ELAPSED DAY:   1; TIME:  0: 0:31, 1
+  ELAPSED DAY:   1; TIME:  0: 0:57,92
+  ELAPSED DAY:   1; TIME:  0: 0:22,87
+  ELAPSED DAY:   1; TIME:  0: 0:23,63
+  ELAPSED DAY:   1; TIME:  0: 0:22,75
+  ELAPSED DAY:   1; TIME:  0: 0:22,80
+  ELAPSED DAY:   1; TIME:  0: 0:29,74
+  ELAPSED DAY:   1; TIME:  0: 1: 3,39
+  ELAPSED DAY:   1; TIME:  0: 0:23,15
+  ELAPSED DAY:   1; TIME:  0: 0:23,50
+  ELAPSED DAY:   1; TIME:  0: 0:23,55
+  ELAPSED DAY:   1; TIME:  0: 0:31,42
+  ELAPSED DAY:   1; TIME:  0: 0:30,89
+  ELAPSED DAY:   1; TIME:  0: 0:31,53
+  ELAPSED DAY:   1; TIME:  0: 0:22,23
+  ELAPSED DAY:   1; TIME:  0: 0:22,97
+  ELAPSED DAY:   1; TIME:  0: 0:51,85
+  ELAPSED DAY:   1; TIME:  0: 0:37,77
+  ELAPSED DAY:   1; TIME:  0: 0:42, 8
+  ELAPSED DAY:   1; TIME:  0: 0:22,88
+  ELAPSED DAY:   1; TIME:  0: 0:24, 9
+  ELAPSED DAY:   1; TIME:  0: 0:22,20
+  ELAPSED DAY:   1; TIME:  0: 0:35,91
+  ELAPSED DAY:   1; TIME:  0: 0:30,84
+  ELAPSED DAY:   1; TIME:  0: 0:30,71
+  ELAPSED DAY:   1; TIME:  0: 0:31,44
+  ELAPSED DAY:   1; TIME:  0: 0:31,14
+  ELAPSED DAY:   1; TIME:  0: 0:24,25
+  ELAPSED DAY:   1; TIME:  0: 0:31, 2
+  ELAPSED DAY:   1; TIME:  0: 0:24,31
+  ELAPSED DAY:   1; TIME:  0: 0:23,71
+  ELAPSED DAY:   1; TIME:  0: 0:23,25
+  ELAPSED DAY:   1; TIME:  0: 0:37,69
+  ELAPSED DAY:   1; TIME:  0: 0:22,26
+  ELAPSED DAY:   1; TIME:  0: 0:22,44
+  ELAPSED DAY:   1; TIME:  0: 0:51,42
+  ELAPSED DAY:   1; TIME:  0: 0:22,12
+  ELAPSED DAY:   1; TIME:  0: 0:29,76
+  ELAPSED DAY:   1; TIME:  0: 0:31,17
+  ELAPSED DAY:   1; TIME:  0: 0:22,93
+  ELAPSED DAY:   1; TIME:  0: 0:24,37
+  ELAPSED DAY:   1; TIME:  0: 0:52,63
+  ELAPSED DAY:   1; TIME:  0: 0:22, 1
+  ELAPSED DAY:   1; TIME:  0: 0:38,13
+  ELAPSED DAY:   1; TIME:  0: 0:38,25
+  ELAPSED DAY:   1; TIME:  0: 0:21,27
+  ELAPSED DAY:   1; TIME:  0: 0:22,23
+  ELAPSED DAY:   1; TIME:  0: 0:23,70
+  ELAPSED DAY:   1; TIME:  0: 0:31,44
+  ELAPSED DAY:   1; TIME:  0: 0:38,47
+  ELAPSED DAY:   1; TIME:  0: 0:23,14
+  ELAPSED DAY:   1; TIME:  0: 0:23,22
+  ELAPSED DAY:   1; TIME:  0: 0:31,57
+  ELAPSED DAY:   1; TIME:  0: 1: 4,80
